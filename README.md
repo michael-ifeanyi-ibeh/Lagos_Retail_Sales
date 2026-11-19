@@ -4,7 +4,7 @@
 **Data:** 2,927 cleaned transactions | 3 Branches | 5 Products | ₦370.4M Total Revenue  
 **Files:** `data_creation_code.py` | `clean_sales.py` | `Retail_sales_2026.xlsx`
 
-![Dashboard](dashboard_screenshot .png)
+![Dashboard](dashboard_screenshot.png "Screenshot of dashboard")
 
 ---
 
@@ -43,9 +43,9 @@ Opened cleaned_retail_sales.csv in Excel and built:
 ```**Key Numbers**
 
 KPI                  | VALUE
-Total revenue        | N370,406,500
+Total revenue        | ₦370,406,500
 Total Order          | 2,927
-Average Order Value  | N126,583
+Average Order Value  | ₦126,583
 ```
 ### Finding 1: Volume ≠ Revenue
 Peak Milk sold the most units (743) but Rice 50kg made 3.6x more money.
