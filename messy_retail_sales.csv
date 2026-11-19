@@ -1,0 +1,3110 @@
+ORDER_ID,Date,Branch,Product,Salesperson,Quantity,Unit_Price,Payment_Method
+ORD-999,27/06/2026,Lekki,Rice 50kg,Tunde,10.0,22000.0,
+ORD-1001,24/05/2026,Lekki,peak milk,Musa,1.0,85000.0,TRANSFER
+ORD-1002,08-23-2026,Ikeja,Groundnut Oil 5L,Ada,2.0,22000.0,Transfer
+ORD-1003,06-25-2026,Surulere ,Rice 50KG,Tunde,10.0,12500.0,Cash
+ORD-1004,10-02-2026,Surulere ,Indomie Carton,Ada,,,
+ORD-1005,09-19-2026,Ikeja ,Indomie Carton,,2.0,18500.0,TRANSFER
+ORD-1006,2026-07-14,ikeja,Indomie Carton,Musa,1.0,22000.0,Cash
+ORD-1007,06-11-2026,Surulere ,Bournvita,,3.0,,Transfer
+ORD-1008,2026/06/11,LEKKI,Indomie Carton,Ada,3.0,22000.0,POS
+ORD-1009,05-09-2026,ikeja,Rice 50KG,Ada,1.0,22000.0,POS
+ORD-1010,2026/10/15,Lekki,Groundnut Oil 5L,Ada,,22000.0,
+ORD-1011,07-03-2026,Ikeja ,Peak Milk,Ada,10.0,12500.0,TRANSFER
+ORD-1012,2026/09/08,Surulere ,Rice 50KG,Tunde,5.0,12500.0,Cash
+ORD-1013,2026-09-30,Lekki,Peak Milk,Ada,3.0,85000.0,cash
+ORD-1014,10-22-2026,Ikeja ,Bournvita,,1.0,18500.0,Cash
+ORD-1015,05-01-2026,LEKKI,peak milk,Chiamaka,3.0,12500.0,TRANSFER
+ORD-1016,04/08/2026,Lekki,Bournvita,Ada,5.0,12500.0,TRANSFER
+ORD-1016,08-01-2026,Lekki ,Indomie carton,Musa,1.0,18500.0,Cash
+ORD-1018,18/05/2026,ikeja,Indomie Carton,Chiamaka,2.0,12500.0,
+ORD-1019,24/06/2026,Ikeja ,Peak Milk,Funke,10.0,85000.0,cash
+ORD-1020,03/07/2026,Lekki ,Indomie carton,Tunde,3.0,18500.0,POS
+ORD-1021,2026-05-19,Ikeja,Groundnut Oil 5L,Musa,5.0,85000.0,Cash
+ORD-1022,2026/07/11,Ikeja,Rice 50KG,Musa,2.0,22000.0,TRANSFER
+ORD-1023,13/08/2026,Surulere,Indomie carton,Tunde,5.0,12500.0,Cash
+ORD-1024,2026-08-28,Surulere ,Rice 50KG,Tunde,2.0,85000.0,Cash
+ORD-1025,19/06/2026,Surulere ,Rice 50KG,Tunde,2.0,22000.0,Transfer
+ORD-1026,2026-07-03,Surulere ,Peak Milk,Tunde,10.0,12500.0,TRANSFER
+ORD-1027,30/06/2026,Lekki,Rice 50kg,Ada,1.0,18500.0,cash
+ORD-1028,2026/06/12,Ikeja ,Groundnut Oil 5L,Ada,2.0,85000.0,cash
+ORD-1029,2026/10/26,LEKKI,Indomie carton,Chiamaka,10.0,85000.0,Transfer
+ORD-1030,2026-07-20,LEKKI,Groundnut Oil 5L,Ada,1.0,85000.0,TRANSFER
+ORD-1031,2026-06-17,Ikeja ,Peak Milk,Tunde,1.0,18500.0,
+ORD-1032,2026-09-26,ikeja,peak milk,Tunde,2.0,22000.0,cash
+ORD-1033,07-01-2026,Lekki ,Bournvita,Ada,5.0,,Transfer
+ORD-1033,2026/05/03,LEKKI,Indomie carton,Tunde,,18500.0,Cash
+ORD-1035,18/05/2026,ikeja,Bournvita,,3.0,,POS
+ORD-1036,10-18-2026,Surulere,Indomie carton,Tunde,10.0,85000.0,Transfer
+ORD-1037,07-09-2026,LEKKI,Indomie Carton,Musa,2.0,12500.0,
+ORD-1038,2026-07-04,Lekki ,Groundnut Oil 5L,Tunde,10.0,12500.0,
+ORD-1039,25/07/2026,Surulere ,Bournvita,Funke,1.0,85000.0,Transfer
+ORD-1040,20/05/2026,Ikeja ,peak milk,Ada,1.0,18500.0,POS
+ORD-1041,07-18-2026,Surulere,peak milk,Ada,3.0,85000.0,POS
+ORD-1042,2026/09/21,ikeja,Groundnut Oil 5L,Chiamaka,2.0,,Transfer
+ORD-1043,06-15-2026,Surulere,Peak Milk,Ada,2.0,85000.0,
+ORD-1044,2026-08-06,ikeja,Bournvita,Tunde,3.0,18500.0,Transfer
+ORD-1045,28/06/2026,ikeja,Indomie carton,Ada,,9800.0,
+ORD-1046,05-18-2026,ikeja,peak milk,,,9800.0,
+ORD-1047,06/07/2026,Surulere ,Rice 50KG,Funke,1.0,18500.0,Cash
+ORD-1048,2026-08-20,Lekki,peak milk,Ada,,,TRANSFER
+ORD-1049,01/05/2026,ikeja,Bournvita,,1.0,85000.0,cash
+ORD-1050,07-16-2026,Lekki,Rice 50KG,Ada,,18500.0,POS
+ORD-1050,2026/08/16,Surulere ,Bournvita,Chiamaka,3.0,22000.0,TRANSFER
+ORD-1052,13/07/2026,LEKKI,peak milk,Ada,1.0,9800.0,TRANSFER
+ORD-1053,20/10/2026,Lekki ,Indomie carton,Tunde,3.0,12500.0,
+ORD-1054,24/05/2026,Surulere,Indomie Carton,Funke,10.0,,Transfer
+ORD-1055,2026/07/02,ikeja,Peak Milk,Tunde,1.0,85000.0,cash
+ORD-1056,11/08/2026,Surulere ,Groundnut Oil 5L,Chiamaka,2.0,12500.0,
+ORD-1057,2026/06/15,Ikeja,Indomie Carton,Ada,2.0,22000.0,TRANSFER
+ORD-1058,08-27-2026,ikeja,Indomie Carton,Tunde,3.0,12500.0,TRANSFER
+ORD-1059,08-24-2026,Surulere ,Indomie carton,Musa,3.0,12500.0,
+ORD-1060,2026-08-21,LEKKI,Indomie carton,Funke,5.0,9800.0,Transfer
+ORD-1061,05/06/2026,LEKKI,Rice 50KG,Musa,,18500.0,cash
+ORD-1062,08-13-2026,Surulere,Groundnut Oil 5L,Tunde,2.0,85000.0,cash
+ORD-1063,2026-09-27,Ikeja,Groundnut Oil 5L,Ada,2.0,85000.0,cash
+ORD-1064,16/08/2026,Ikeja,Rice 50KG,Tunde,10.0,85000.0,Transfer
+ORD-1065,08-08-2026,LEKKI,peak milk,Ada,3.0,85000.0,
+ORD-1066,2026-08-09,Surulere,Indomie carton,Tunde,3.0,85000.0,
+ORD-1067,05-13-2026,Surulere ,Peak Milk,Ada,3.0,12500.0,POS
+ORD-1067,08-06-2026,ikeja,Indomie carton,Ada,,,POS
+ORD-1069,29/07/2026,Lekki,Indomie carton,Tunde,1.0,85000.0,
+ORD-1070,06/05/2026,Ikeja,Rice 50kg,Musa,5.0,22000.0,Transfer
+ORD-1071,10-27-2026,Ikeja ,Indomie Carton,,5.0,12500.0,Transfer
+ORD-1072,2026-09-26,Lekki,Peak Milk,Funke,10.0,18500.0,TRANSFER
+ORD-1073,29/09/2026,Surulere ,peak milk,Tunde,5.0,18500.0,
+ORD-1074,2026/09/14,LEKKI,Indomie Carton,,1.0,,Cash
+ORD-1075,2026/05/28,Lekki ,Rice 50kg,,2.0,12500.0,
+ORD-1076,09-11-2026,Ikeja ,Peak Milk,Tunde,2.0,12500.0,cash
+ORD-1077,05-23-2026,Surulere ,Bournvita,Tunde,,22000.0,Transfer
+ORD-1078,09-04-2026,Ikeja ,peak milk,Chiamaka,,85000.0,cash
+ORD-1079,07-11-2026,ikeja,Rice 50KG,Ada,10.0,,TRANSFER
+ORD-1080,03/09/2026,ikeja,Indomie Carton,Tunde,5.0,85000.0,
+ORD-1081,15/07/2026,Ikeja ,Indomie carton,Ada,1.0,18500.0,
+ORD-1082,09-19-2026,ikeja,Bournvita,Ada,,12500.0,
+ORD-1083,07-18-2026,Lekki ,Rice 50KG,Musa,3.0,9800.0,Cash
+ORD-1084,19/06/2026,ikeja,Rice 50KG,Tunde,2.0,12500.0,POS
+ORD-1084,06-28-2026,LEKKI,Indomie Carton,Chiamaka,5.0,9800.0,POS
+ORD-1086,05-14-2026,Ikeja,Peak Milk,Chiamaka,10.0,85000.0,
+ORD-1087,2026/08/29,Ikeja ,Indomie Carton,Tunde,1.0,9800.0,POS
+ORD-1088,2026-05-30,Surulere,Rice 50kg,Ada,10.0,12500.0,cash
+ORD-1089,09-22-2026,Lekki,Rice 50kg,Tunde,3.0,12500.0,Transfer
+ORD-1090,2026/08/24,Lekki,peak milk,Funke,5.0,85000.0,TRANSFER
+ORD-1091,23/06/2026,Surulere ,Bournvita,Funke,1.0,18500.0,
+ORD-1092,2026-09-19,Lekki,Peak Milk,Chiamaka,5.0,12500.0,Cash
+ORD-1093,09/05/2026,Surulere ,Indomie carton,Funke,3.0,9800.0,
+ORD-1094,07/07/2026,LEKKI,Indomie carton,Ada,2.0,22000.0,Cash
+ORD-1095,2026-05-19,ikeja,Peak Milk,Chiamaka,10.0,12500.0,POS
+ORD-1096,10-24-2026,LEKKI,Indomie carton,Ada,2.0,12500.0,POS
+ORD-1097,08-19-2026,Ikeja ,Indomie carton,Funke,2.0,85000.0,Cash
+ORD-1098,2026-09-25,Lekki,Groundnut Oil 5L,Chiamaka,1.0,9800.0,cash
+ORD-1099,2026/10/10,Ikeja ,Bournvita,Tunde,3.0,85000.0,cash
+ORD-1100,2026-10-19,Lekki ,peak milk,Chiamaka,,,POS
+ORD-1101,2026-09-18,Surulere ,Indomie carton,Tunde,10.0,85000.0,Cash
+ORD-1101,2026-08-12,Lekki ,Bournvita,Tunde,,18500.0,cash
+ORD-1103,2026/10/08,Ikeja,Groundnut Oil 5L,Ada,,12500.0,Transfer
+ORD-1104,2026/10/26,LEKKI,Peak Milk,Tunde,10.0,12500.0,Cash
+ORD-1105,2026/09/19,ikeja,Peak Milk,Tunde,10.0,85000.0,Transfer
+ORD-1106,09-05-2026,Lekki,Indomie carton,Funke,2.0,12500.0,cash
+ORD-1107,19/09/2026,Ikeja ,Indomie carton,Ada,5.0,12500.0,Transfer
+ORD-1108,07-27-2026,Surulere,Indomie Carton,Ada,10.0,85000.0,POS
+ORD-1109,2026/09/15,LEKKI,Indomie carton,,3.0,12500.0,POS
+ORD-1110,26/10/2026,Surulere ,Indomie carton,Ada,,22000.0,Transfer
+ORD-1111,2026/10/28,Surulere ,Rice 50kg,Ada,,12500.0,
+ORD-1112,09-06-2026,Surulere,Indomie carton,Tunde,1.0,12500.0,cash
+ORD-1113,13/08/2026,Lekki,Indomie carton,Tunde,1.0,12500.0,cash
+ORD-1114,2026/07/24,LEKKI,Rice 50KG,,2.0,18500.0,
+ORD-1115,10-09-2026,Ikeja ,Rice 50kg,Musa,2.0,22000.0,
+ORD-1116,22/08/2026,Lekki,peak milk,Funke,2.0,18500.0,Cash
+ORD-1117,07-31-2026,Ikeja,Rice 50KG,Ada,1.0,9800.0,Transfer
+ORD-1118,2026-06-14,ikeja,peak milk,Ada,3.0,12500.0,TRANSFER
+ORD-1118,08-27-2026,ikeja,Indomie carton,Tunde,3.0,22000.0,POS
+ORD-1120,2026/05/19,Ikeja,Indomie carton,,10.0,12500.0,TRANSFER
+ORD-1121,17/07/2026,LEKKI,peak milk,Ada,10.0,12500.0,cash
+ORD-1122,09-25-2026,Lekki,Groundnut Oil 5L,Funke,2.0,,Cash
+ORD-1123,2026/10/03,Surulere ,Bournvita,Funke,1.0,85000.0,Transfer
+ORD-1124,21/10/2026,Lekki ,Groundnut Oil 5L,Tunde,5.0,9800.0,
+ORD-1125,09-26-2026,Ikeja,Bournvita,Chiamaka,3.0,85000.0,Cash
+ORD-1126,21/06/2026,LEKKI,Rice 50KG,,2.0,12500.0,TRANSFER
+ORD-1127,07-15-2026,LEKKI,Peak Milk,Tunde,10.0,12500.0,cash
+ORD-1128,09-20-2026,Lekki,Peak Milk,Tunde,5.0,85000.0,cash
+ORD-1129,08-03-2026,Ikeja,Bournvita,Ada,2.0,12500.0,
+ORD-1130,05-07-2026,Lekki ,Indomie Carton,Musa,5.0,12500.0,
+ORD-1131,30/05/2026,Lekki,Indomie carton,Ada,10.0,85000.0,Cash
+ORD-1132,30/06/2026,LEKKI,Indomie carton,Ada,2.0,18500.0,cash
+ORD-1133,2026-10-15,Lekki ,peak milk,Tunde,3.0,85000.0,TRANSFER
+ORD-1134,2026/06/25,Surulere ,Bournvita,Tunde,1.0,,Transfer
+ORD-1135,2026/05/16,Lekki ,Indomie Carton,Funke,,,Transfer
+ORD-1135,2026-10-12,Lekki,Indomie carton,Ada,2.0,22000.0,POS
+ORD-1137,19/09/2026,ikeja,Peak Milk,Musa,5.0,18500.0,Transfer
+ORD-1138,07/06/2026,Lekki ,Peak Milk,Funke,1.0,9800.0,Transfer
+ORD-1139,31/07/2026,Lekki,Rice 50kg,,3.0,85000.0,Cash
+ORD-1140,2026-08-16,Surulere,Bournvita,Tunde,1.0,12500.0,cash
+ORD-1141,06/09/2026,Ikeja ,Rice 50KG,Ada,2.0,12500.0,
+ORD-1142,2026/08/31,LEKKI,Indomie carton,Ada,1.0,85000.0,
+ORD-1143,05-21-2026,Lekki,Indomie carton,Chiamaka,3.0,18500.0,Cash
+ORD-1144,09-30-2026,Surulere,Bournvita,Tunde,,85000.0,TRANSFER
+ORD-1145,2026/08/19,Surulere ,Indomie Carton,Musa,2.0,22000.0,cash
+ORD-1146,05-25-2026,Lekki ,Indomie carton,Ada,2.0,85000.0,POS
+ORD-1147,2026-05-18,LEKKI,Rice 50KG,Tunde,3.0,12500.0,Cash
+ORD-1148,2026-09-20,Surulere ,Indomie Carton,,,12500.0,
+ORD-1149,05-14-2026,Lekki,peak milk,Funke,,85000.0,POS
+ORD-1150,2026-06-27,Lekki,Groundnut Oil 5L,,3.0,12500.0,TRANSFER
+ORD-1151,2026-08-18,Lekki ,Indomie Carton,Funke,10.0,22000.0,Cash
+ORD-1152,2026-07-29,Surulere,Bournvita,Chiamaka,10.0,,Transfer
+ORD-1152,24/05/2026,Surulere ,Indomie Carton,Ada,3.0,85000.0,cash
+ORD-1154,07-19-2026,Ikeja ,Rice 50KG,Tunde,3.0,,Cash
+ORD-1155,2026/07/09,Surulere,Peak Milk,Ada,1.0,18500.0,cash
+ORD-1156,2026-09-09,Ikeja ,peak milk,,10.0,22000.0,cash
+ORD-1157,12/05/2026,Lekki,Bournvita,Ada,3.0,9800.0,TRANSFER
+ORD-1158,24/06/2026,Ikeja,Rice 50kg,Funke,5.0,9800.0,POS
+ORD-1159,19/08/2026,Lekki ,Indomie Carton,Chiamaka,1.0,12500.0,cash
+ORD-1160,2026/05/11,ikeja,Rice 50KG,Ada,2.0,85000.0,cash
+ORD-1161,2026/10/11,Lekki,Rice 50KG,Funke,2.0,85000.0,Cash
+ORD-1162,2026/10/06,Surulere ,Rice 50kg,,,12500.0,Cash
+ORD-1163,2026/09/28,Surulere ,Indomie Carton,Tunde,5.0,85000.0,cash
+ORD-1164,2026-06-13,LEKKI,Rice 50KG,Tunde,5.0,,TRANSFER
+ORD-1165,2026-06-30,ikeja,Rice 50KG,Chiamaka,,12500.0,POS
+ORD-1166,2026/06/15,ikeja,Peak Milk,Tunde,3.0,18500.0,TRANSFER
+ORD-1167,2026-08-21,Ikeja ,Rice 50KG,Tunde,,12500.0,cash
+ORD-1168,2026-09-07,LEKKI,Bournvita,Funke,1.0,,cash
+ORD-1169,2026-07-13,Ikeja ,Rice 50kg,Tunde,1.0,,TRANSFER
+ORD-1169,24/09/2026,Surulere ,Indomie carton,,1.0,12500.0,TRANSFER
+ORD-1171,05-27-2026,Ikeja ,Peak Milk,Tunde,1.0,12500.0,TRANSFER
+ORD-1172,21/08/2026,Surulere,Rice 50kg,,5.0,12500.0,POS
+ORD-1173,2026-10-21,LEKKI,peak milk,,2.0,,Cash
+ORD-1174,04/07/2026,Lekki ,Indomie Carton,,2.0,9800.0,Cash
+ORD-1175,2026-06-03,Surulere,Rice 50KG,Funke,10.0,85000.0,TRANSFER
+ORD-1176,2026/10/13,Surulere ,Rice 50KG,,3.0,18500.0,Cash
+ORD-1177,2026/07/27,Lekki ,Bournvita,Musa,3.0,22000.0,Transfer
+ORD-1178,2026-05-26,Surulere,Peak Milk,,2.0,9800.0,TRANSFER
+ORD-1179,16/06/2026,Surulere,peak milk,Tunde,3.0,12500.0,Cash
+ORD-1180,10-04-2026,Surulere ,Rice 50KG,Tunde,5.0,12500.0,Transfer
+ORD-1181,2026/08/03,ikeja,Bournvita,Tunde,3.0,22000.0,POS
+ORD-1182,02/10/2026,Surulere ,peak milk,Funke,3.0,22000.0,Cash
+ORD-1183,2026-07-12,Ikeja ,Rice 50KG,Chiamaka,2.0,18500.0,POS
+ORD-1184,2026/06/26,Ikeja ,Peak Milk,,2.0,18500.0,Cash
+ORD-1185,2026/06/30,Surulere ,Rice 50kg,Tunde,2.0,,POS
+ORD-1186,10-14-2026,ikeja,Rice 50kg,Chiamaka,,18500.0,Transfer
+ORD-1186,2026/10/28,Ikeja,Bournvita,Tunde,3.0,12500.0,TRANSFER
+ORD-1188,25/06/2026,Ikeja,Indomie Carton,Ada,1.0,9800.0,Cash
+ORD-1189,13/05/2026,LEKKI,Groundnut Oil 5L,Ada,10.0,18500.0,
+ORD-1190,2026-09-30,Ikeja ,Indomie Carton,Musa,2.0,12500.0,
+ORD-1191,10-05-2026,Surulere,Bournvita,Musa,2.0,85000.0,TRANSFER
+ORD-1192,2026-05-18,Surulere ,Peak Milk,Ada,2.0,,cash
+ORD-1193,05-05-2026,Ikeja,peak milk,Tunde,,9800.0,POS
+ORD-1194,05-12-2026,ikeja,Indomie Carton,,,12500.0,
+ORD-1195,2026-06-04,Surulere,Indomie carton,Tunde,3.0,12500.0,Cash
+ORD-1196,05-11-2026,LEKKI,Groundnut Oil 5L,Funke,1.0,22000.0,TRANSFER
+ORD-1197,13/10/2026,Surulere ,Indomie carton,Funke,10.0,85000.0,POS
+ORD-1198,2026/08/03,Ikeja,Rice 50KG,Ada,10.0,18500.0,
+ORD-1199,2026/09/05,Ikeja ,peak milk,,,12500.0,TRANSFER
+ORD-1200,19/08/2026,LEKKI,Indomie Carton,Funke,2.0,18500.0,POS
+ORD-1201,2026/07/18,Lekki,Indomie Carton,Ada,,9800.0,Transfer
+ORD-1202,2026/07/30,Ikeja ,Rice 50KG,Funke,3.0,85000.0,
+ORD-1203,09/09/2026,Ikeja,Indomie Carton,Ada,2.0,,Transfer
+ORD-1203,06-30-2026,Ikeja ,Rice 50kg,,3.0,18500.0,cash
+ORD-1205,2026/08/04,Ikeja,Peak Milk,Tunde,3.0,,TRANSFER
+ORD-1206,10-14-2026,Surulere,Rice 50KG,Musa,2.0,,Cash
+ORD-1207,2026-09-21,Ikeja,Peak Milk,Funke,3.0,85000.0,POS
+ORD-1208,2026-06-21,Ikeja ,Groundnut Oil 5L,Chiamaka,10.0,12500.0,Cash
+ORD-1209,10-22-2026,Ikeja ,Peak Milk,,3.0,18500.0,
+ORD-1210,27/10/2026,Lekki,Bournvita,,10.0,12500.0,TRANSFER
+ORD-1211,2026/06/30,ikeja,Indomie Carton,Ada,5.0,12500.0,POS
+ORD-1212,05-17-2026,Lekki ,Indomie carton,Ada,3.0,18500.0,
+ORD-1213,06-02-2026,Ikeja ,peak milk,Tunde,2.0,18500.0,cash
+ORD-1214,2026/06/03,Ikeja ,Rice 50KG,Ada,3.0,12500.0,Cash
+ORD-1215,22/07/2026,Surulere,Bournvita,,3.0,12500.0,TRANSFER
+ORD-1216,10-10-2026,LEKKI,Indomie Carton,Chiamaka,10.0,22000.0,
+ORD-1217,06-13-2026,LEKKI,Indomie Carton,Ada,3.0,12500.0,Cash
+ORD-1218,2026/09/24,Lekki,Rice 50kg,Ada,10.0,22000.0,cash
+ORD-1219,2026/10/23,LEKKI,Bournvita,Funke,3.0,22000.0,cash
+ORD-1220,2026/08/15,Lekki,Rice 50kg,Tunde,3.0,12500.0,Transfer
+ORD-1220,2026/07/28,Lekki ,Peak Milk,Chiamaka,,,POS
+ORD-1222,06-01-2026,Lekki,Rice 50KG,Tunde,5.0,12500.0,Transfer
+ORD-1223,2026/08/07,Surulere,Indomie Carton,Musa,1.0,9800.0,Transfer
+ORD-1224,2026/09/05,Lekki ,Rice 50KG,Tunde,5.0,12500.0,POS
+ORD-1225,2026/09/07,Ikeja ,Rice 50kg,Musa,2.0,85000.0,Transfer
+ORD-1226,2026/09/04,Lekki ,Rice 50kg,Funke,1.0,9800.0,TRANSFER
+ORD-1227,07-07-2026,Ikeja,Indomie Carton,Ada,2.0,12500.0,POS
+ORD-1228,08-01-2026,Ikeja,peak milk,Tunde,1.0,22000.0,cash
+ORD-1229,2026/05/25,Ikeja ,Bournvita,,2.0,12500.0,POS
+ORD-1230,2026-09-06,Lekki ,Peak Milk,Ada,5.0,85000.0,Cash
+ORD-1231,08/06/2026,Surulere,Rice 50KG,,3.0,12500.0,TRANSFER
+ORD-1232,09-29-2026,Lekki ,Peak Milk,Tunde,2.0,9800.0,
+ORD-1233,2026-07-24,LEKKI,Indomie carton,Ada,1.0,,TRANSFER
+ORD-1234,15/10/2026,LEKKI,Rice 50kg,Ada,3.0,9800.0,TRANSFER
+ORD-1235,22/10/2026,Ikeja ,Peak Milk,Ada,2.0,12500.0,TRANSFER
+ORD-1236,2026/07/20,Lekki,Groundnut Oil 5L,Chiamaka,1.0,12500.0,cash
+ORD-1237,28/10/2026,ikeja,peak milk,Musa,3.0,85000.0,TRANSFER
+ORD-1237,2026/06/14,Lekki ,Indomie carton,,2.0,,TRANSFER
+ORD-1239,07-03-2026,Lekki ,Bournvita,Funke,3.0,22000.0,Transfer
+ORD-1240,2026/07/21,LEKKI,Bournvita,,5.0,12500.0,TRANSFER
+ORD-1241,08-10-2026,LEKKI,Bournvita,Chiamaka,2.0,85000.0,POS
+ORD-1242,08-22-2026,Ikeja,Bournvita,Tunde,2.0,,Transfer
+ORD-1243,28/05/2026,ikeja,Bournvita,Musa,10.0,12500.0,Cash
+ORD-1244,08-14-2026,ikeja,Groundnut Oil 5L,Tunde,1.0,18500.0,Cash
+ORD-1245,2026/10/15,Surulere,Rice 50kg,Tunde,3.0,85000.0,
+ORD-1246,2026-10-13,ikeja,Bournvita,Tunde,,9800.0,
+ORD-1247,2026-06-15,ikeja,Rice 50kg,Ada,3.0,85000.0,cash
+ORD-1248,2026-07-16,Surulere,Bournvita,,1.0,85000.0,POS
+ORD-1249,09/07/2026,Ikeja ,Indomie carton,Tunde,3.0,12500.0,POS
+ORD-1250,05-04-2026,Surulere,Indomie carton,Funke,10.0,12500.0,TRANSFER
+ORD-1251,09-09-2026,ikeja,Peak Milk,Tunde,2.0,85000.0,cash
+ORD-1252,22/07/2026,Lekki,Peak Milk,Ada,3.0,12500.0,POS
+ORD-1253,07-24-2026,Surulere ,Groundnut Oil 5L,Ada,3.0,9800.0,POS
+ORD-1254,08-28-2026,Lekki ,Groundnut Oil 5L,Chiamaka,1.0,18500.0,cash
+ORD-1254,05/10/2026,LEKKI,Indomie Carton,Musa,10.0,,Transfer
+ORD-1256,2026/08/15,Ikeja ,Peak Milk,Musa,3.0,,Transfer
+ORD-1257,2026-09-22,Lekki,Indomie carton,Ada,,18500.0,TRANSFER
+ORD-1258,2026/09/11,ikeja,Peak Milk,Tunde,3.0,,
+ORD-1259,2026/05/15,ikeja,Indomie carton,Chiamaka,2.0,12500.0,TRANSFER
+ORD-1260,10-20-2026,Surulere ,Indomie carton,Ada,1.0,12500.0,cash
+ORD-1261,2026/05/12,LEKKI,Rice 50kg,,5.0,18500.0,
+ORD-1262,05-09-2026,Lekki,Rice 50kg,Ada,2.0,12500.0,Transfer
+ORD-1263,2026/08/23,Surulere,peak milk,Ada,,85000.0,Cash
+ORD-1264,2026/09/15,Surulere,Rice 50KG,Chiamaka,2.0,12500.0,
+ORD-1265,2026/08/27,ikeja,Rice 50kg,Ada,1.0,9800.0,Transfer
+ORD-1266,10/07/2026,ikeja,Indomie carton,Tunde,,12500.0,Cash
+ORD-1267,2026-05-18,Surulere ,Rice 50kg,Ada,5.0,22000.0,cash
+ORD-1268,21/08/2026,Ikeja,Groundnut Oil 5L,Musa,1.0,85000.0,Cash
+ORD-1269,09-25-2026,Surulere,Bournvita,Musa,5.0,,POS
+ORD-1270,2026-07-10,Surulere,Groundnut Oil 5L,Chiamaka,2.0,9800.0,
+ORD-1271,2026/10/12,Surulere ,Indomie carton,,1.0,,
+ORD-1271,05/08/2026,Surulere ,peak milk,Tunde,3.0,9800.0,Transfer
+ORD-1273,2026/05/15,ikeja,Bournvita,Ada,3.0,12500.0,TRANSFER
+ORD-1274,06-22-2026,Surulere,peak milk,Tunde,5.0,9800.0,cash
+ORD-1275,2026/07/08,Lekki ,Indomie Carton,Ada,5.0,85000.0,Cash
+ORD-1276,07-25-2026,ikeja,Groundnut Oil 5L,Ada,3.0,22000.0,Transfer
+ORD-1277,26/10/2026,ikeja,Indomie Carton,Ada,3.0,22000.0,Transfer
+ORD-1278,09-14-2026,Lekki ,Bournvita,Funke,2.0,12500.0,POS
+ORD-1279,08-29-2026,Lekki ,Indomie carton,Musa,3.0,18500.0,POS
+ORD-1280,2026-06-07,Lekki ,peak milk,Funke,1.0,22000.0,TRANSFER
+ORD-1281,24/07/2026,Surulere ,Bournvita,Ada,3.0,22000.0,TRANSFER
+ORD-1282,2026/09/03,ikeja,Indomie carton,Tunde,,9800.0,Transfer
+ORD-1283,2026-06-17,Lekki ,Peak Milk,Ada,3.0,12500.0,Cash
+ORD-1284,09/10/2026,Ikeja,Rice 50kg,Tunde,2.0,12500.0,
+ORD-1285,2026-08-04,Surulere,Rice 50kg,Tunde,5.0,12500.0,
+ORD-1286,2026-05-04,Ikeja ,Rice 50kg,Funke,1.0,85000.0,TRANSFER
+ORD-1287,2026-05-28,LEKKI,Rice 50kg,Chiamaka,2.0,12500.0,Transfer
+ORD-1288,2026-08-10,ikeja,Bournvita,,,9800.0,cash
+ORD-1288,2026-10-23,Ikeja ,Groundnut Oil 5L,Ada,5.0,9800.0,Cash
+ORD-1290,2026-05-15,Surulere ,peak milk,Chiamaka,2.0,12500.0,Cash
+ORD-1291,2026-09-13,Ikeja ,peak milk,Musa,,18500.0,Transfer
+ORD-1292,10-23-2026,Ikeja ,Bournvita,Ada,1.0,18500.0,Transfer
+ORD-1293,2026-08-10,Lekki ,Rice 50kg,Funke,5.0,12500.0,Transfer
+ORD-1294,2026-06-05,ikeja,peak milk,,,85000.0,Cash
+ORD-1295,2026/07/27,Lekki,peak milk,,5.0,18500.0,Cash
+ORD-1296,2026/07/31,LEKKI,Indomie carton,Ada,3.0,22000.0,Transfer
+ORD-1297,2026-05-19,Surulere ,Indomie Carton,Funke,10.0,22000.0,Transfer
+ORD-1298,2026-08-01,Surulere ,Peak Milk,Tunde,2.0,,Cash
+ORD-1299,27/05/2026,LEKKI,Indomie carton,Tunde,,9800.0,Transfer
+ORD-1300,2026-05-07,Surulere ,Indomie carton,,2.0,18500.0,TRANSFER
+ORD-1301,2026/07/14,Lekki,Rice 50KG,Ada,2.0,85000.0,Cash
+ORD-1302,06-05-2026,ikeja,Peak Milk,Funke,2.0,12500.0,POS
+ORD-1303,08-20-2026,Ikeja ,Peak Milk,Ada,2.0,12500.0,POS
+ORD-1304,2026/07/03,Ikeja ,Indomie Carton,Musa,,9800.0,cash
+ORD-1305,08-10-2026,Lekki,Peak Milk,Ada,10.0,85000.0,POS
+ORD-1305,07-16-2026,Ikeja ,Rice 50KG,Musa,2.0,12500.0,cash
+ORD-1307,2026/07/14,Lekki ,Peak Milk,Musa,2.0,,POS
+ORD-1308,30/05/2026,Surulere ,Bournvita,Chiamaka,2.0,,
+ORD-1309,2026-07-14,Ikeja,Indomie carton,Ada,5.0,12500.0,
+ORD-1310,04/07/2026,Ikeja ,Peak Milk,Ada,10.0,22000.0,cash
+ORD-1311,2026/09/14,Lekki,Indomie carton,Ada,3.0,85000.0,POS
+ORD-1312,2026-06-12,Lekki,Indomie Carton,Ada,5.0,,POS
+ORD-1313,06/07/2026,Surulere ,Indomie Carton,Musa,1.0,18500.0,cash
+ORD-1314,2026-07-28,Lekki ,peak milk,Tunde,3.0,12500.0,Cash
+ORD-1315,06-06-2026,LEKKI,peak milk,Funke,2.0,18500.0,POS
+ORD-1316,2026-08-30,Ikeja ,Groundnut Oil 5L,Tunde,3.0,,
+ORD-1317,2026-05-12,Ikeja ,Rice 50KG,Ada,2.0,9800.0,POS
+ORD-1318,19/09/2026,Lekki,Peak Milk,,5.0,12500.0,TRANSFER
+ORD-1319,09/10/2026,Surulere ,Indomie carton,Chiamaka,5.0,85000.0,
+ORD-1320,2026/08/24,Surulere ,peak milk,Ada,1.0,22000.0,Cash
+ORD-1321,2026-09-25,ikeja,Groundnut Oil 5L,Chiamaka,10.0,18500.0,POS
+ORD-1322,2026/07/07,Lekki ,Groundnut Oil 5L,,3.0,18500.0,TRANSFER
+ORD-1322,2026/07/30,Surulere ,peak milk,Chiamaka,2.0,,
+ORD-1324,31/05/2026,LEKKI,Indomie Carton,Funke,3.0,,Cash
+ORD-1325,16/08/2026,Surulere,Rice 50KG,Ada,3.0,85000.0,cash
+ORD-1326,09-03-2026,Surulere,Indomie carton,Chiamaka,3.0,12500.0,Transfer
+ORD-1327,2026/05/03,Lekki ,Indomie carton,Chiamaka,1.0,,Transfer
+ORD-1328,2026/08/15,Surulere ,Indomie carton,Tunde,2.0,12500.0,Transfer
+ORD-1329,05-09-2026,Lekki,Rice 50kg,Musa,5.0,9800.0,TRANSFER
+ORD-1330,2026-09-18,LEKKI,Peak Milk,Tunde,3.0,12500.0,POS
+ORD-1331,2026-08-17,Lekki ,Rice 50kg,Musa,3.0,22000.0,POS
+ORD-1332,2026/05/23,Ikeja,Indomie carton,Tunde,10.0,,Transfer
+ORD-1333,05/10/2026,ikeja,Rice 50KG,Musa,2.0,12500.0,Transfer
+ORD-1334,07-22-2026,Ikeja,Rice 50KG,Funke,10.0,12500.0,TRANSFER
+ORD-1335,05-16-2026,LEKKI,Indomie Carton,Chiamaka,3.0,85000.0,
+ORD-1336,2026/07/03,Surulere,Groundnut Oil 5L,Tunde,3.0,,Transfer
+ORD-1337,2026-05-20,LEKKI,peak milk,Ada,2.0,12500.0,TRANSFER
+ORD-1338,2026-07-23,LEKKI,Rice 50KG,Tunde,3.0,12500.0,
+ORD-1339,2026/06/25,Ikeja ,Rice 50KG,Musa,2.0,85000.0,cash
+ORD-1339,18/09/2026,LEKKI,Rice 50KG,Tunde,10.0,,POS
+ORD-1341,2026-05-05,Ikeja,Rice 50kg,Chiamaka,2.0,12500.0,cash
+ORD-1342,24/10/2026,Ikeja ,Rice 50kg,Funke,2.0,22000.0,Transfer
+ORD-1343,05-22-2026,LEKKI,Indomie Carton,Chiamaka,,9800.0,Cash
+ORD-1344,2026-10-15,Surulere ,Bournvita,Tunde,5.0,85000.0,Cash
+ORD-1345,29/09/2026,ikeja,Indomie carton,Tunde,2.0,12500.0,Cash
+ORD-1346,25/10/2026,Ikeja,Rice 50KG,Tunde,2.0,85000.0,Cash
+ORD-1347,05-27-2026,ikeja,peak milk,,2.0,18500.0,POS
+ORD-1348,2026-05-18,Surulere,peak milk,Chiamaka,3.0,12500.0,cash
+ORD-1349,2026/10/05,Lekki ,Groundnut Oil 5L,Musa,3.0,85000.0,Cash
+ORD-1350,2026/07/29,Lekki,Peak Milk,,2.0,85000.0,Transfer
+ORD-1351,09-19-2026,ikeja,Bournvita,Ada,2.0,22000.0,
+ORD-1352,2026-07-15,LEKKI,Groundnut Oil 5L,Musa,5.0,85000.0,cash
+ORD-1353,2026-10-11,Surulere ,Indomie Carton,Ada,5.0,12500.0,POS
+ORD-1354,02/08/2026,Lekki ,Peak Milk,Tunde,2.0,85000.0,Cash
+ORD-1355,2026-06-25,Ikeja,Indomie Carton,Ada,1.0,9800.0,cash
+ORD-1356,22/05/2026,LEKKI,peak milk,Funke,2.0,85000.0,Cash
+ORD-1356,09-15-2026,LEKKI,Indomie Carton,Ada,5.0,12500.0,TRANSFER
+ORD-1358,15/05/2026,Lekki,Bournvita,Tunde,2.0,22000.0,cash
+ORD-1359,18/10/2026,Lekki,Indomie carton,Tunde,1.0,9800.0,Cash
+ORD-1360,07-28-2026,Surulere,Rice 50kg,Chiamaka,3.0,12500.0,POS
+ORD-1361,2026/07/25,Surulere,Bournvita,Funke,2.0,85000.0,TRANSFER
+ORD-1362,08-25-2026,Lekki,Bournvita,Ada,2.0,12500.0,cash
+ORD-1363,2026-05-27,Surulere,Rice 50KG,Musa,3.0,9800.0,
+ORD-1364,2026/05/12,Ikeja,Rice 50kg,,1.0,22000.0,cash
+ORD-1365,06-27-2026,Surulere,Peak Milk,Musa,1.0,85000.0,cash
+ORD-1366,2026-05-31,Lekki ,Bournvita,Chiamaka,2.0,,Transfer
+ORD-1367,07-12-2026,Ikeja,peak milk,,2.0,12500.0,Cash
+ORD-1368,07-14-2026,Ikeja ,Rice 50kg,Musa,,22000.0,cash
+ORD-1369,2026-06-08,Lekki ,Indomie carton,Ada,5.0,22000.0,Cash
+ORD-1370,2026/05/01,ikeja,Rice 50KG,Funke,1.0,,Cash
+ORD-1371,16/05/2026,ikeja,Groundnut Oil 5L,Funke,2.0,12500.0,Cash
+ORD-1372,2026-08-26,Ikeja,Groundnut Oil 5L,Tunde,2.0,,TRANSFER
+ORD-1373,20/08/2026,Surulere,peak milk,Musa,2.0,85000.0,POS
+ORD-1373,2026/07/21,LEKKI,Rice 50KG,Funke,2.0,,Transfer
+ORD-1375,2026-06-09,Lekki,Groundnut Oil 5L,Chiamaka,3.0,18500.0,cash
+ORD-1376,09-15-2026,Ikeja ,Rice 50KG,Musa,2.0,18500.0,cash
+ORD-1377,24/05/2026,LEKKI,Indomie carton,Funke,10.0,18500.0,
+ORD-1378,24/05/2026,Ikeja,Groundnut Oil 5L,,,12500.0,cash
+ORD-1379,2026/05/08,Ikeja,Bournvita,Tunde,10.0,12500.0,TRANSFER
+ORD-1380,2026-06-05,ikeja,Indomie Carton,Ada,3.0,18500.0,Cash
+ORD-1381,2026-08-04,ikeja,Peak Milk,Funke,5.0,85000.0,Cash
+ORD-1382,2026-06-02,Ikeja,Indomie Carton,,5.0,12500.0,Cash
+ORD-1383,2026/09/24,Ikeja,Indomie carton,Ada,1.0,12500.0,cash
+ORD-1384,30/07/2026,Ikeja,peak milk,Chiamaka,2.0,12500.0,POS
+ORD-1385,05/10/2026,LEKKI,Indomie carton,Funke,3.0,85000.0,cash
+ORD-1386,2026/07/11,Surulere ,Indomie carton,Chiamaka,1.0,18500.0,cash
+ORD-1387,2026/07/31,ikeja,Groundnut Oil 5L,Tunde,1.0,85000.0,POS
+ORD-1388,05-07-2026,Lekki ,peak milk,Musa,10.0,12500.0,Cash
+ORD-1389,27/09/2026,LEKKI,Rice 50kg,Chiamaka,3.0,,Cash
+ORD-1390,2026/06/26,ikeja,Groundnut Oil 5L,,10.0,85000.0,Transfer
+ORD-1390,2026-09-29,Surulere,Groundnut Oil 5L,,,,TRANSFER
+ORD-1392,2026/06/14,Surulere,Groundnut Oil 5L,Ada,3.0,9800.0,Cash
+ORD-1393,2026/09/12,Ikeja,Groundnut Oil 5L,Ada,5.0,85000.0,POS
+ORD-1394,2026-07-22,ikeja,Peak Milk,Ada,,12500.0,Transfer
+ORD-1395,2026/08/04,Surulere,Indomie Carton,Tunde,,18500.0,POS
+ORD-1396,2026/08/20,LEKKI,Rice 50KG,,3.0,12500.0,Transfer
+ORD-1397,07-18-2026,Lekki ,Groundnut Oil 5L,Chiamaka,3.0,85000.0,Transfer
+ORD-1398,10-02-2026,Ikeja,peak milk,Musa,1.0,12500.0,
+ORD-1399,20/05/2026,Lekki,Indomie carton,,3.0,,POS
+ORD-1400,05-03-2026,Surulere,Indomie Carton,Musa,,12500.0,Transfer
+ORD-1401,2026-05-01,Lekki,Rice 50KG,Ada,10.0,18500.0,cash
+ORD-1402,08-05-2026,Surulere ,Peak Milk,Ada,2.0,12500.0,Cash
+ORD-1403,2026-05-19,Ikeja ,Groundnut Oil 5L,Funke,3.0,12500.0,Cash
+ORD-1404,27/07/2026,Lekki ,Bournvita,Ada,2.0,18500.0,Transfer
+ORD-1405,2026-10-28,Lekki,Indomie Carton,Ada,,12500.0,
+ORD-1406,05-26-2026,Surulere,peak milk,Musa,3.0,85000.0,Transfer
+ORD-1407,2026-06-30,Surulere ,Bournvita,Ada,10.0,9800.0,cash
+ORD-1407,2026/05/01,Ikeja ,Peak Milk,Tunde,1.0,,POS
+ORD-1409,22/06/2026,Ikeja ,Groundnut Oil 5L,Funke,2.0,85000.0,Cash
+ORD-1410,2026/08/29,Ikeja ,Indomie Carton,Funke,10.0,85000.0,Cash
+ORD-1411,03/08/2026,Surulere ,Peak Milk,Tunde,,85000.0,Cash
+ORD-1412,06-27-2026,LEKKI,Indomie carton,Ada,3.0,9800.0,Transfer
+ORD-1413,28/09/2026,Lekki,Indomie Carton,Ada,,85000.0,cash
+ORD-1414,2026-07-16,Surulere ,Indomie carton,Ada,5.0,12500.0,
+ORD-1415,14/06/2026,Ikeja,Peak Milk,Musa,2.0,12500.0,Transfer
+ORD-1416,2026/10/22,Surulere,Rice 50kg,Musa,2.0,18500.0,
+ORD-1417,2026/05/23,Surulere,Bournvita,Ada,,18500.0,TRANSFER
+ORD-1418,2026/10/27,Lekki ,Bournvita,Tunde,3.0,85000.0,cash
+ORD-1419,2026-09-22,Surulere,Peak Milk,Funke,2.0,18500.0,TRANSFER
+ORD-1420,2026/10/15,Lekki ,peak milk,Tunde,10.0,85000.0,Cash
+ORD-1421,2026/10/06,Surulere,Bournvita,Ada,2.0,12500.0,cash
+ORD-1422,07-08-2026,Lekki ,Groundnut Oil 5L,Ada,1.0,12500.0,POS
+ORD-1423,2026-10-26,LEKKI,Bournvita,Musa,10.0,12500.0,Transfer
+ORD-1424,2026-08-15,LEKKI,Indomie carton,Musa,,9800.0,cash
+ORD-1424,15/05/2026,ikeja,peak milk,Tunde,3.0,,POS
+ORD-1426,19/06/2026,Surulere ,Peak Milk,Ada,1.0,12500.0,Transfer
+ORD-1427,28/10/2026,Ikeja,Indomie carton,Funke,1.0,,POS
+ORD-1428,07-01-2026,Ikeja ,peak milk,Tunde,2.0,85000.0,TRANSFER
+ORD-1429,28/07/2026,Ikeja ,Peak Milk,Funke,3.0,,
+ORD-1430,13/05/2026,Lekki,Bournvita,Musa,1.0,85000.0,Transfer
+ORD-1431,2026-09-09,ikeja,Groundnut Oil 5L,Ada,10.0,85000.0,cash
+ORD-1432,07-04-2026,Surulere,Peak Milk,Funke,1.0,22000.0,cash
+ORD-1433,2026/06/25,Surulere ,Rice 50KG,Funke,3.0,9800.0,
+ORD-1434,09-21-2026,Surulere ,Indomie Carton,Funke,1.0,,
+ORD-1435,07-10-2026,Lekki,Indomie carton,Funke,2.0,,POS
+ORD-1436,2026/05/15,LEKKI,Groundnut Oil 5L,,3.0,22000.0,
+ORD-1437,2026/07/06,Surulere,Rice 50kg,Ada,3.0,9800.0,cash
+ORD-1438,2026/10/23,Ikeja,Groundnut Oil 5L,,,22000.0,TRANSFER
+ORD-1439,2026/05/25,LEKKI,Peak Milk,Chiamaka,3.0,9800.0,
+ORD-1440,06-26-2026,LEKKI,Peak Milk,Musa,,18500.0,
+ORD-1441,07-06-2026,LEKKI,peak milk,Tunde,,,Cash
+ORD-1441,2026-06-19,Ikeja ,Rice 50kg,Ada,2.0,12500.0,TRANSFER
+ORD-1443,05/06/2026,LEKKI,peak milk,,1.0,12500.0,cash
+ORD-1444,2026/05/21,Ikeja ,Peak Milk,,,12500.0,
+ORD-1445,08-24-2026,Surulere,Rice 50KG,Musa,1.0,85000.0,Transfer
+ORD-1446,2026/10/05,Surulere,Indomie carton,Ada,2.0,12500.0,cash
+ORD-1447,10/05/2026,Surulere ,Indomie carton,,2.0,85000.0,Cash
+ORD-1448,08/10/2026,Lekki ,Groundnut Oil 5L,Musa,1.0,85000.0,
+ORD-1449,08-07-2026,Lekki ,Bournvita,Chiamaka,3.0,18500.0,Cash
+ORD-1450,09-11-2026,Ikeja,Bournvita,Ada,10.0,12500.0,
+ORD-1451,18/06/2026,Surulere,Rice 50KG,Ada,3.0,,Cash
+ORD-1452,06/05/2026,ikeja,Groundnut Oil 5L,Tunde,3.0,22000.0,POS
+ORD-1453,2026-09-30,Ikeja,peak milk,Tunde,10.0,85000.0,
+ORD-1454,2026/08/22,Ikeja,Rice 50kg,Tunde,2.0,85000.0,TRANSFER
+ORD-1455,2026-10-25,LEKKI,Indomie carton,Funke,3.0,22000.0,cash
+ORD-1456,2026-05-27,Lekki,Bournvita,Funke,3.0,85000.0,Cash
+ORD-1457,07/07/2026,Lekki,Indomie carton,,5.0,22000.0,
+ORD-1458,2026/09/18,Surulere ,Bournvita,Musa,3.0,85000.0,
+ORD-1458,2026-05-04,Ikeja ,Rice 50KG,Tunde,5.0,85000.0,TRANSFER
+ORD-1460,05-26-2026,Ikeja ,Peak Milk,Musa,2.0,18500.0,cash
+ORD-1461,26/05/2026,LEKKI,Bournvita,Ada,3.0,85000.0,POS
+ORD-1462,2026-05-25,Lekki ,Rice 50KG,Ada,2.0,18500.0,Transfer
+ORD-1463,10-07-2026,Surulere,Rice 50KG,Tunde,,12500.0,POS
+ORD-1464,2026/08/11,Lekki ,Peak Milk,Funke,2.0,85000.0,cash
+ORD-1465,2026-06-03,Ikeja ,peak milk,Chiamaka,3.0,18500.0,Cash
+ORD-1466,2026/10/04,Surulere ,Indomie carton,,3.0,12500.0,TRANSFER
+ORD-1467,2026/05/29,Ikeja,Peak Milk,Tunde,3.0,12500.0,Cash
+ORD-1468,28/10/2026,Lekki,Bournvita,,,85000.0,TRANSFER
+ORD-1469,2026/07/28,Lekki,peak milk,Chiamaka,5.0,12500.0,TRANSFER
+ORD-1470,04/09/2026,Ikeja,Rice 50kg,Tunde,3.0,12500.0,cash
+ORD-1471,13/05/2026,Lekki ,Groundnut Oil 5L,Ada,,9800.0,cash
+ORD-1472,2026/09/24,ikeja,Indomie Carton,Tunde,3.0,12500.0,cash
+ORD-1473,2026-10-15,Ikeja ,Rice 50KG,Tunde,2.0,12500.0,cash
+ORD-1474,10-02-2026,Surulere ,Rice 50kg,Musa,1.0,18500.0,
+ORD-1475,2026/06/27,Ikeja ,Rice 50KG,,,85000.0,TRANSFER
+ORD-1475,25/05/2026,Ikeja ,Rice 50KG,Ada,3.0,18500.0,POS
+ORD-1477,12/05/2026,Lekki ,Bournvita,Tunde,,18500.0,Transfer
+ORD-1478,2026-06-18,Surulere ,Indomie Carton,Ada,10.0,22000.0,Transfer
+ORD-1479,2026-08-15,Ikeja ,Groundnut Oil 5L,Tunde,,18500.0,cash
+ORD-1480,2026-09-13,Ikeja ,Peak Milk,Ada,3.0,85000.0,TRANSFER
+ORD-1481,2026/05/27,Ikeja ,Peak Milk,,3.0,12500.0,TRANSFER
+ORD-1482,08-10-2026,Surulere ,peak milk,Funke,5.0,9800.0,cash
+ORD-1483,10-27-2026,Surulere,Peak Milk,Musa,2.0,9800.0,Transfer
+ORD-1484,14/10/2026,ikeja,Bournvita,,,12500.0,
+ORD-1485,10-20-2026,Lekki,Rice 50KG,Ada,3.0,85000.0,Cash
+ORD-1486,2026-05-14,Lekki,Rice 50kg,Musa,2.0,12500.0,POS
+ORD-1487,05-16-2026,Surulere,Bournvita,Musa,10.0,12500.0,TRANSFER
+ORD-1488,05/10/2026,Ikeja,Rice 50KG,Ada,3.0,18500.0,Transfer
+ORD-1489,08-15-2026,LEKKI,Rice 50kg,Ada,2.0,85000.0,Cash
+ORD-1490,10-10-2026,LEKKI,Groundnut Oil 5L,Musa,3.0,22000.0,
+ORD-1491,2026-10-22,ikeja,Bournvita,Chiamaka,3.0,12500.0,Transfer
+ORD-1492,07-11-2026,Lekki,peak milk,Chiamaka,1.0,85000.0,Transfer
+ORD-1492,2026-06-09,LEKKI,Rice 50kg,Chiamaka,,12500.0,POS
+ORD-1494,05-19-2026,Ikeja,Bournvita,Musa,3.0,,Transfer
+ORD-1495,05-24-2026,Lekki,Peak Milk,Musa,2.0,85000.0,Transfer
+ORD-1496,2026/06/25,Lekki ,Rice 50KG,Ada,,9800.0,Cash
+ORD-1497,05-11-2026,Lekki ,Indomie carton,Ada,5.0,22000.0,Cash
+ORD-1498,09-10-2026,Surulere ,Bournvita,Tunde,10.0,85000.0,cash
+ORD-1499,2026-09-09,Ikeja,Bournvita,Tunde,5.0,,Transfer
+ORD-1500,2026/10/23,Ikeja,Indomie Carton,Tunde,5.0,22000.0,Transfer
+ORD-1501,08-26-2026,Surulere ,Indomie Carton,Ada,3.0,85000.0,Cash
+ORD-1502,2026-09-20,Lekki,Rice 50kg,Musa,3.0,9800.0,POS
+ORD-1503,08-19-2026,Surulere ,peak milk,Ada,3.0,85000.0,cash
+ORD-1504,2026-10-27,Lekki,Rice 50kg,,2.0,85000.0,TRANSFER
+ORD-1505,2026/07/12,Lekki,Bournvita,Ada,10.0,18500.0,cash
+ORD-1506,2026/06/04,Ikeja,Indomie carton,Funke,3.0,22000.0,
+ORD-1507,19/09/2026,Surulere,Bournvita,Tunde,,85000.0,Cash
+ORD-1508,06-23-2026,Ikeja,peak milk,Musa,2.0,9800.0,cash
+ORD-1509,10-05-2026,Surulere,Peak Milk,Musa,3.0,22000.0,Cash
+ORD-1509,2026-07-14,Surulere,Rice 50kg,Funke,3.0,18500.0,Cash
+ORD-1511,02/06/2026,ikeja,Indomie carton,Tunde,,,POS
+ORD-1512,08-24-2026,Lekki,Groundnut Oil 5L,Funke,,12500.0,
+ORD-1513,2026-06-13,Surulere,Rice 50KG,,,85000.0,Transfer
+ORD-1514,06-04-2026,ikeja,peak milk,Tunde,10.0,,cash
+ORD-1515,2026-09-19,Ikeja ,Rice 50KG,Chiamaka,10.0,12500.0,
+ORD-1516,2026-07-07,Lekki,Bournvita,Tunde,3.0,22000.0,Cash
+ORD-1517,09-19-2026,Ikeja,peak milk,Tunde,5.0,85000.0,
+ORD-1518,09-28-2026,Surulere,Rice 50KG,Chiamaka,2.0,22000.0,cash
+ORD-1519,17/10/2026,Lekki,peak milk,Chiamaka,,85000.0,TRANSFER
+ORD-1520,22/09/2026,Surulere,Indomie carton,Tunde,3.0,12500.0,POS
+ORD-1521,05-17-2026,Ikeja,Groundnut Oil 5L,,3.0,22000.0,Transfer
+ORD-1522,2026/08/29,Ikeja,Groundnut Oil 5L,Ada,,85000.0,Cash
+ORD-1523,26/09/2026,Lekki ,Indomie Carton,Ada,10.0,9800.0,
+ORD-1524,05/08/2026,Surulere ,Rice 50KG,Ada,2.0,9800.0,POS
+ORD-1525,06/09/2026,Lekki ,Indomie carton,Tunde,3.0,85000.0,Transfer
+ORD-1526,08/06/2026,ikeja,Indomie Carton,Chiamaka,10.0,22000.0,POS
+ORD-1526,2026/05/30,Lekki,Groundnut Oil 5L,Tunde,2.0,,cash
+ORD-1528,2026-07-02,ikeja,Peak Milk,Chiamaka,2.0,85000.0,TRANSFER
+ORD-1529,15/05/2026,Surulere,Peak Milk,Funke,1.0,12500.0,Transfer
+ORD-1530,2026/06/25,Surulere ,Rice 50kg,Tunde,10.0,18500.0,cash
+ORD-1531,27/09/2026,Surulere,Groundnut Oil 5L,Funke,2.0,12500.0,Transfer
+ORD-1532,2026/08/05,Lekki ,Indomie carton,Chiamaka,2.0,22000.0,Cash
+ORD-1533,2026-10-03,Ikeja,Groundnut Oil 5L,Chiamaka,2.0,12500.0,cash
+ORD-1534,16/10/2026,Ikeja,Indomie Carton,Ada,2.0,12500.0,
+ORD-1535,2026/10/26,Surulere ,peak milk,Musa,,85000.0,cash
+ORD-1536,06-04-2026,Surulere ,Rice 50KG,Tunde,2.0,85000.0,Transfer
+ORD-1537,2026-06-18,Lekki,Bournvita,Ada,2.0,9800.0,TRANSFER
+ORD-1538,10-24-2026,Lekki,Rice 50kg,Ada,2.0,22000.0,POS
+ORD-1539,2026/07/06,Lekki,Peak Milk,,2.0,9800.0,TRANSFER
+ORD-1540,2026/09/19,LEKKI,peak milk,Chiamaka,5.0,85000.0,POS
+ORD-1541,2026/10/28,Ikeja ,Bournvita,Chiamaka,10.0,,
+ORD-1542,26/05/2026,Lekki,Groundnut Oil 5L,Ada,3.0,12500.0,POS
+ORD-1543,24/05/2026,Ikeja,Peak Milk,Tunde,2.0,85000.0,TRANSFER
+ORD-1543,06-26-2026,Surulere ,Indomie Carton,Tunde,2.0,9800.0,TRANSFER
+ORD-1545,2026-09-30,Ikeja,peak milk,Chiamaka,2.0,9800.0,
+ORD-1546,10-16-2026,Ikeja ,Indomie carton,Musa,1.0,22000.0,Cash
+ORD-1547,2026-07-01,ikeja,Peak Milk,Chiamaka,1.0,,Cash
+ORD-1548,12/08/2026,LEKKI,peak milk,Ada,,85000.0,
+ORD-1549,07-28-2026,Lekki,Indomie Carton,Musa,10.0,,TRANSFER
+ORD-1550,06/07/2026,ikeja,Indomie carton,Ada,2.0,85000.0,TRANSFER
+ORD-1551,05-30-2026,Lekki,Indomie Carton,Funke,10.0,,
+ORD-1552,2026/07/26,Ikeja ,peak milk,Tunde,3.0,22000.0,TRANSFER
+ORD-1553,2026/05/18,Ikeja,Indomie carton,Musa,2.0,9800.0,
+ORD-1554,2026-09-10,ikeja,Rice 50KG,Funke,2.0,,Transfer
+ORD-1555,20/05/2026,LEKKI,Indomie Carton,Tunde,2.0,,POS
+ORD-1556,22/10/2026,Lekki ,Groundnut Oil 5L,Tunde,10.0,12500.0,
+ORD-1557,22/06/2026,ikeja,Groundnut Oil 5L,Musa,5.0,9800.0,Transfer
+ORD-1558,2026/05/21,Lekki ,Peak Milk,Ada,2.0,18500.0,TRANSFER
+ORD-1559,09-04-2026,Ikeja,Indomie carton,Tunde,,,Transfer
+ORD-1560,2026/05/14,LEKKI,peak milk,Tunde,5.0,12500.0,TRANSFER
+ORD-1560,2026-08-26,Ikeja,Rice 50KG,Tunde,2.0,12500.0,POS
+ORD-1562,2026-09-26,Ikeja,Rice 50kg,,5.0,85000.0,POS
+ORD-1563,2026/07/08,LEKKI,Peak Milk,,10.0,22000.0,POS
+ORD-1564,08-16-2026,Surulere,Indomie carton,,2.0,22000.0,cash
+ORD-1565,25/09/2026,LEKKI,Indomie carton,Tunde,3.0,12500.0,
+ORD-1566,20/06/2026,LEKKI,Groundnut Oil 5L,Chiamaka,2.0,85000.0,cash
+ORD-1567,06-04-2026,Ikeja,Peak Milk,Tunde,2.0,12500.0,POS
+ORD-1568,24/10/2026,LEKKI,Rice 50kg,Ada,2.0,18500.0,Transfer
+ORD-1569,07-25-2026,LEKKI,Indomie carton,,2.0,12500.0,POS
+ORD-1570,06-01-2026,LEKKI,Rice 50KG,Musa,1.0,85000.0,TRANSFER
+ORD-1571,2026/10/20,Surulere,Bournvita,Tunde,,,Cash
+ORD-1572,06-12-2026,Surulere ,Bournvita,Ada,3.0,12500.0,
+ORD-1573,27/07/2026,Surulere ,Indomie Carton,,2.0,12500.0,POS
+ORD-1574,08-22-2026,LEKKI,Bournvita,Tunde,2.0,9800.0,cash
+ORD-1575,06-30-2026,Surulere,Peak Milk,Tunde,1.0,12500.0,Transfer
+ORD-1576,2026/05/17,Surulere,peak milk,Ada,2.0,18500.0,Cash
+ORD-1577,06/10/2026,Surulere ,Indomie Carton,Tunde,2.0,9800.0,
+ORD-1577,2026/07/12,Surulere ,Bournvita,Chiamaka,5.0,22000.0,Transfer
+ORD-1579,2026/07/23,Surulere,Rice 50kg,Tunde,1.0,,TRANSFER
+ORD-1580,2026/09/29,LEKKI,Indomie carton,Ada,3.0,12500.0,TRANSFER
+ORD-1581,2026/05/23,LEKKI,Rice 50KG,Funke,3.0,22000.0,POS
+ORD-1582,2026-05-03,Surulere ,Bournvita,Chiamaka,3.0,9800.0,POS
+ORD-1583,08-31-2026,LEKKI,Indomie carton,Ada,1.0,12500.0,cash
+ORD-1584,2026/06/18,LEKKI,Groundnut Oil 5L,Ada,1.0,,cash
+ORD-1585,06-26-2026,ikeja,Peak Milk,Tunde,2.0,85000.0,cash
+ORD-1586,14/08/2026,ikeja,Bournvita,Tunde,10.0,9800.0,Transfer
+ORD-1587,2026/10/06,Surulere,Bournvita,Funke,2.0,12500.0,
+ORD-1588,2026-06-08,Ikeja ,Groundnut Oil 5L,Ada,,85000.0,Transfer
+ORD-1589,2026-08-21,Lekki,Bournvita,Musa,10.0,12500.0,Cash
+ORD-1590,2026/07/27,Surulere,Rice 50kg,Funke,3.0,22000.0,cash
+ORD-1591,21/05/2026,Lekki ,Indomie carton,Ada,1.0,,POS
+ORD-1592,06-19-2026,Surulere ,Indomie Carton,Ada,3.0,12500.0,Cash
+ORD-1593,2026-07-03,Lekki,Groundnut Oil 5L,Musa,2.0,12500.0,cash
+ORD-1594,10-22-2026,Lekki,Groundnut Oil 5L,,3.0,85000.0,Transfer
+ORD-1594,10-11-2026,Ikeja,Indomie Carton,Musa,10.0,12500.0,POS
+ORD-1596,2026/10/10,Ikeja,Groundnut Oil 5L,,2.0,22000.0,Cash
+ORD-1597,2026-07-02,Surulere,Bournvita,Ada,2.0,85000.0,TRANSFER
+ORD-1598,03/07/2026,Ikeja ,Peak Milk,Tunde,,18500.0,Cash
+ORD-1599,13/10/2026,Lekki ,Rice 50kg,Tunde,1.0,,Transfer
+ORD-1600,21/08/2026,Ikeja ,Groundnut Oil 5L,Ada,,,
+ORD-1601,2026/05/11,Surulere ,Rice 50KG,Tunde,3.0,9800.0,TRANSFER
+ORD-1602,09-17-2026,LEKKI,Indomie carton,,5.0,12500.0,
+ORD-1603,13/09/2026,Ikeja ,Bournvita,Tunde,3.0,18500.0,POS
+ORD-1604,2026/10/11,LEKKI,Rice 50KG,Chiamaka,3.0,85000.0,Cash
+ORD-1605,2026/10/16,Lekki ,Groundnut Oil 5L,Musa,,18500.0,TRANSFER
+ORD-1606,08-13-2026,Ikeja ,Peak Milk,Tunde,10.0,,Cash
+ORD-1607,09/05/2026,Lekki,Rice 50kg,Tunde,3.0,12500.0,cash
+ORD-1608,2026/10/16,ikeja,Indomie Carton,Funke,1.0,85000.0,Cash
+ORD-1609,2026/06/23,Lekki ,Groundnut Oil 5L,Tunde,2.0,85000.0,cash
+ORD-1610,05-15-2026,Ikeja,Rice 50KG,Ada,2.0,,
+ORD-1611,2026-09-10,Lekki,Bournvita,Tunde,2.0,22000.0,
+ORD-1611,12/09/2026,ikeja,peak milk,Chiamaka,5.0,22000.0,TRANSFER
+ORD-1613,2026/10/27,Surulere ,Indomie Carton,Tunde,,12500.0,Transfer
+ORD-1614,2026/09/14,Surulere,peak milk,,,12500.0,POS
+ORD-1615,22/07/2026,Lekki ,Rice 50KG,Musa,2.0,85000.0,cash
+ORD-1616,2026-08-10,LEKKI,Rice 50KG,Ada,3.0,12500.0,POS
+ORD-1617,16/07/2026,Ikeja,Peak Milk,Musa,10.0,85000.0,POS
+ORD-1618,2026/05/10,Ikeja,Bournvita,,3.0,18500.0,Transfer
+ORD-1619,06-29-2026,Surulere,Bournvita,Funke,,22000.0,Cash
+ORD-1620,01/09/2026,Surulere ,Groundnut Oil 5L,Tunde,2.0,,
+ORD-1621,2026-05-21,Lekki,Bournvita,,1.0,85000.0,POS
+ORD-1622,2026-10-15,Surulere ,peak milk,Ada,2.0,22000.0,Cash
+ORD-1623,23/07/2026,LEKKI,Rice 50kg,Chiamaka,,12500.0,Cash
+ORD-1624,08-19-2026,Surulere ,Indomie carton,Ada,2.0,22000.0,Transfer
+ORD-1625,2026-09-24,Surulere,Rice 50KG,Ada,2.0,12500.0,POS
+ORD-1626,2026/06/04,Lekki,peak milk,Musa,2.0,12500.0,cash
+ORD-1627,05-19-2026,Surulere ,Groundnut Oil 5L,Ada,5.0,22000.0,POS
+ORD-1628,08-02-2026,Lekki,Indomie Carton,Musa,2.0,85000.0,POS
+ORD-1628,2026/07/29,Lekki ,Rice 50kg,Chiamaka,10.0,12500.0,cash
+ORD-1630,2026-06-09,Ikeja,Groundnut Oil 5L,Tunde,5.0,,
+ORD-1631,05-04-2026,Ikeja,Groundnut Oil 5L,Tunde,3.0,9800.0,POS
+ORD-1632,23/06/2026,Ikeja ,Indomie carton,Musa,1.0,,TRANSFER
+ORD-1633,2026-08-05,LEKKI,Indomie carton,Funke,3.0,85000.0,Transfer
+ORD-1634,2026/05/14,Ikeja,Bournvita,Ada,5.0,9800.0,Cash
+ORD-1635,05-05-2026,Surulere ,Bournvita,Ada,,18500.0,Transfer
+ORD-1636,2026-09-30,Surulere ,Indomie Carton,Chiamaka,,12500.0,Transfer
+ORD-1637,09-13-2026,Ikeja ,Rice 50kg,,1.0,22000.0,cash
+ORD-1638,10-23-2026,Surulere ,Peak Milk,,1.0,,
+ORD-1639,10-08-2026,LEKKI,Groundnut Oil 5L,Ada,10.0,85000.0,Cash
+ORD-1640,09/08/2026,LEKKI,Groundnut Oil 5L,Tunde,3.0,,
+ORD-1641,24/09/2026,Surulere ,Groundnut Oil 5L,Ada,2.0,22000.0,POS
+ORD-1642,15/10/2026,Lekki ,Indomie carton,Musa,3.0,22000.0,Transfer
+ORD-1643,15/10/2026,LEKKI,Peak Milk,,2.0,12500.0,Cash
+ORD-1644,05-08-2026,Lekki,Peak Milk,Ada,,12500.0,cash
+ORD-1645,2026-06-18,LEKKI,Indomie carton,Chiamaka,10.0,12500.0,Transfer
+ORD-1645,2026-06-29,Ikeja,Bournvita,,5.0,22000.0,Cash
+ORD-1647,2026/06/17,Ikeja ,Peak Milk,Tunde,3.0,,cash
+ORD-1648,2026/05/09,Surulere,Peak Milk,Ada,5.0,22000.0,POS
+ORD-1649,17/05/2026,Surulere ,Groundnut Oil 5L,Tunde,5.0,22000.0,TRANSFER
+ORD-1650,2026/08/18,Ikeja ,Rice 50KG,Ada,3.0,22000.0,TRANSFER
+ORD-1651,2026-09-11,Surulere ,Rice 50KG,Tunde,2.0,85000.0,cash
+ORD-1652,2026/09/20,Ikeja,Groundnut Oil 5L,Ada,2.0,85000.0,Transfer
+ORD-1653,2026/07/13,LEKKI,Indomie carton,Chiamaka,2.0,9800.0,cash
+ORD-1654,2026/10/13,LEKKI,Rice 50kg,Tunde,3.0,12500.0,
+ORD-1655,08-14-2026,Lekki,Peak Milk,Tunde,3.0,85000.0,Cash
+ORD-1656,05-24-2026,Surulere,Indomie carton,,5.0,12500.0,
+ORD-1657,2026/10/28,Surulere,Indomie Carton,,2.0,18500.0,Cash
+ORD-1658,12/05/2026,Surulere ,Peak Milk,,2.0,85000.0,TRANSFER
+ORD-1659,2026/05/14,Surulere,Peak Milk,Funke,3.0,12500.0,POS
+ORD-1660,03/06/2026,Ikeja ,Bournvita,Ada,3.0,18500.0,TRANSFER
+ORD-1661,2026-09-05,LEKKI,Rice 50kg,Tunde,3.0,12500.0,Transfer
+ORD-1662,2026-08-22,ikeja,Indomie carton,Ada,3.0,85000.0,Transfer
+ORD-1662,2026-06-07,LEKKI,Groundnut Oil 5L,,1.0,12500.0,Cash
+ORD-1664,2026-05-23,Surulere,Rice 50kg,Tunde,10.0,,cash
+ORD-1665,08-25-2026,Surulere,Peak Milk,Ada,10.0,12500.0,Cash
+ORD-1666,2026/05/18,LEKKI,Rice 50KG,Tunde,,85000.0,POS
+ORD-1667,2026/07/24,Ikeja ,Peak Milk,Musa,2.0,9800.0,
+ORD-1668,09-01-2026,ikeja,Rice 50kg,Ada,2.0,18500.0,TRANSFER
+ORD-1669,2026/10/05,Lekki ,Bournvita,Tunde,,12500.0,cash
+ORD-1670,2026-05-01,Surulere,Groundnut Oil 5L,Ada,10.0,22000.0,cash
+ORD-1671,05-12-2026,Lekki,Groundnut Oil 5L,,2.0,85000.0,TRANSFER
+ORD-1672,2026-07-05,ikeja,Rice 50kg,Funke,5.0,9800.0,POS
+ORD-1673,2026/07/27,Lekki ,Rice 50kg,Ada,2.0,,Transfer
+ORD-1674,2026-08-30,ikeja,Rice 50KG,Chiamaka,,12500.0,cash
+ORD-1675,2026-08-14,Surulere,Indomie carton,Funke,,12500.0,TRANSFER
+ORD-1676,2026-07-30,Lekki ,Rice 50kg,Chiamaka,5.0,,POS
+ORD-1677,2026/09/24,Ikeja,Rice 50KG,Chiamaka,2.0,12500.0,TRANSFER
+ORD-1678,2026/07/09,Lekki,Bournvita,Tunde,,85000.0,cash
+ORD-1679,06-25-2026,ikeja,Rice 50KG,Chiamaka,3.0,9800.0,Cash
+ORD-1679,2026-08-22,Lekki ,Rice 50kg,Tunde,5.0,18500.0,TRANSFER
+ORD-1681,09-12-2026,Surulere,Groundnut Oil 5L,,,12500.0,Transfer
+ORD-1682,2026/08/26,Lekki,Peak Milk,Tunde,5.0,85000.0,Cash
+ORD-1683,2026-08-28,LEKKI,Rice 50kg,Tunde,2.0,,TRANSFER
+ORD-1684,22/07/2026,LEKKI,Rice 50kg,Musa,10.0,22000.0,POS
+ORD-1685,09/07/2026,LEKKI,Rice 50KG,Chiamaka,3.0,18500.0,POS
+ORD-1686,09-16-2026,Lekki,Rice 50kg,,2.0,22000.0,POS
+ORD-1687,05-19-2026,Surulere,Bournvita,,5.0,12500.0,TRANSFER
+ORD-1688,2026-08-29,Ikeja ,Rice 50kg,Tunde,3.0,85000.0,cash
+ORD-1689,2026/06/15,Ikeja,Indomie Carton,,2.0,85000.0,POS
+ORD-1690,23/09/2026,Lekki ,Groundnut Oil 5L,Tunde,2.0,12500.0,
+ORD-1691,2026/10/23,Ikeja ,Indomie Carton,Tunde,3.0,9800.0,Transfer
+ORD-1692,09/08/2026,ikeja,Peak Milk,,10.0,,POS
+ORD-1693,2026-08-30,Ikeja ,Indomie carton,,1.0,18500.0,cash
+ORD-1694,02/10/2026,Ikeja ,Peak Milk,Tunde,10.0,,cash
+ORD-1695,2026/09/14,Lekki,Rice 50KG,Ada,2.0,9800.0,TRANSFER
+ORD-1696,2026/09/01,Surulere ,Groundnut Oil 5L,Tunde,5.0,12500.0,POS
+ORD-1696,17/09/2026,ikeja,peak milk,Chiamaka,2.0,,
+ORD-1698,2026-07-23,Lekki,Indomie carton,Tunde,2.0,12500.0,Transfer
+ORD-1699,2026/10/23,LEKKI,peak milk,,2.0,18500.0,cash
+ORD-1700,2026-09-26,Ikeja,Indomie Carton,Chiamaka,5.0,12500.0,
+ORD-1701,2026/10/05,Surulere,Indomie carton,Musa,10.0,85000.0,Transfer
+ORD-1702,2026-07-28,Lekki ,Bournvita,Ada,10.0,85000.0,TRANSFER
+ORD-1703,2026-08-03,Surulere ,Peak Milk,Ada,10.0,85000.0,
+ORD-1704,2026/06/30,Lekki ,Indomie Carton,Ada,10.0,85000.0,
+ORD-1705,20/08/2026,Lekki ,peak milk,Chiamaka,2.0,85000.0,cash
+ORD-1706,15/08/2026,Surulere,Groundnut Oil 5L,Funke,2.0,,
+ORD-1707,2026-10-13,Surulere,Peak Milk,Chiamaka,1.0,18500.0,
+ORD-1708,2026/06/05,Ikeja ,peak milk,Tunde,3.0,18500.0,
+ORD-1709,2026/09/19,Surulere ,Peak Milk,Ada,3.0,85000.0,POS
+ORD-1710,2026/09/25,ikeja,Peak Milk,Musa,2.0,85000.0,
+ORD-1711,2026/05/10,LEKKI,peak milk,,,85000.0,Cash
+ORD-1712,2026-08-28,Ikeja ,Indomie Carton,Tunde,3.0,9800.0,Transfer
+ORD-1713,2026-07-27,Ikeja ,Indomie Carton,Tunde,10.0,85000.0,cash
+ORD-1713,07-15-2026,Ikeja ,Rice 50KG,Chiamaka,2.0,,Cash
+ORD-1715,26/09/2026,LEKKI,Bournvita,Ada,1.0,12500.0,
+ORD-1716,22/05/2026,LEKKI,Rice 50kg,Tunde,10.0,12500.0,POS
+ORD-1717,2026-07-05,LEKKI,Peak Milk,Tunde,10.0,9800.0,TRANSFER
+ORD-1718,06-14-2026,Surulere,Peak Milk,Musa,3.0,,cash
+ORD-1719,07/06/2026,Surulere,Rice 50kg,Tunde,,18500.0,cash
+ORD-1720,06-23-2026,Surulere ,Groundnut Oil 5L,Ada,3.0,12500.0,
+ORD-1721,2026/08/27,LEKKI,Indomie Carton,Tunde,1.0,12500.0,POS
+ORD-1722,08-30-2026,Ikeja ,Groundnut Oil 5L,Chiamaka,2.0,85000.0,TRANSFER
+ORD-1723,08-06-2026,Surulere ,Rice 50kg,Ada,10.0,12500.0,Cash
+ORD-1724,07-09-2026,Lekki ,peak milk,Tunde,10.0,,POS
+ORD-1725,09-11-2026,Surulere ,Indomie carton,Chiamaka,5.0,22000.0,POS
+ORD-1726,2026-08-14,Ikeja,Rice 50kg,Tunde,2.0,85000.0,
+ORD-1727,04/07/2026,Ikeja ,Rice 50KG,Ada,5.0,9800.0,Cash
+ORD-1728,2026-05-31,Lekki,Rice 50kg,Chiamaka,5.0,18500.0,cash
+ORD-1729,2026/07/15,Surulere,Indomie Carton,Tunde,3.0,9800.0,
+ORD-1730,05/07/2026,Ikeja ,Bournvita,Tunde,2.0,,POS
+ORD-1730,05-16-2026,Ikeja,peak milk,Funke,2.0,,Transfer
+ORD-1732,2026/10/04,Ikeja ,Indomie Carton,Chiamaka,3.0,22000.0,
+ORD-1733,2026-06-25,Ikeja ,Indomie Carton,Tunde,3.0,85000.0,
+ORD-1734,05-19-2026,LEKKI,Indomie Carton,Tunde,1.0,18500.0,Cash
+ORD-1735,2026/10/18,Ikeja ,Peak Milk,Funke,1.0,85000.0,Transfer
+ORD-1736,2026/08/31,Lekki ,peak milk,Ada,1.0,12500.0,
+ORD-1737,2026/10/24,Lekki,Groundnut Oil 5L,Tunde,1.0,85000.0,TRANSFER
+ORD-1738,2026-05-15,Lekki ,Rice 50KG,,10.0,85000.0,TRANSFER
+ORD-1739,13/10/2026,Lekki ,Indomie Carton,Chiamaka,3.0,9800.0,TRANSFER
+ORD-1740,2026/10/26,Ikeja,peak milk,Tunde,5.0,9800.0,
+ORD-1741,18/06/2026,Lekki ,Indomie carton,Ada,2.0,12500.0,Transfer
+ORD-1742,05-17-2026,Ikeja,Groundnut Oil 5L,Tunde,3.0,85000.0,TRANSFER
+ORD-1743,05-15-2026,Ikeja ,Rice 50kg,Ada,1.0,,cash
+ORD-1744,26/09/2026,Lekki,Groundnut Oil 5L,Tunde,3.0,12500.0,Cash
+ORD-1745,2026-10-06,Surulere,Indomie carton,Musa,1.0,12500.0,
+ORD-1746,2026-07-18,Surulere,Rice 50kg,Tunde,3.0,85000.0,TRANSFER
+ORD-1747,05/09/2026,Surulere,Indomie Carton,Tunde,2.0,18500.0,Transfer
+ORD-1747,31/05/2026,Surulere ,Rice 50KG,,2.0,,Transfer
+ORD-1749,05-31-2026,Ikeja,Peak Milk,Chiamaka,,18500.0,cash
+ORD-1750,2026-07-02,Surulere,Rice 50KG,Chiamaka,3.0,12500.0,Cash
+ORD-1751,2026-05-21,Surulere ,Peak Milk,Ada,1.0,12500.0,Transfer
+ORD-1752,25/10/2026,Lekki,Bournvita,Musa,2.0,12500.0,Transfer
+ORD-1753,2026-06-14,LEKKI,Indomie carton,Chiamaka,2.0,22000.0,
+ORD-1754,2026-08-16,Ikeja ,Indomie Carton,Musa,10.0,,Transfer
+ORD-1755,27/08/2026,Lekki,Indomie Carton,Funke,,22000.0,Cash
+ORD-1756,05/09/2026,ikeja,Indomie Carton,Chiamaka,3.0,12500.0,
+ORD-1757,2026/06/23,Ikeja,Rice 50kg,Funke,,9800.0,POS
+ORD-1758,15/09/2026,Ikeja ,Rice 50kg,Chiamaka,2.0,85000.0,Cash
+ORD-1759,08-22-2026,Ikeja ,Indomie Carton,Ada,2.0,22000.0,Transfer
+ORD-1760,2026-06-28,Lekki ,Groundnut Oil 5L,Musa,2.0,,
+ORD-1761,2026/05/19,Surulere ,Groundnut Oil 5L,Tunde,2.0,22000.0,Cash
+ORD-1762,2026/06/15,Surulere ,Peak Milk,,5.0,12500.0,Transfer
+ORD-1763,06-21-2026,Ikeja ,Groundnut Oil 5L,Chiamaka,,9800.0,Cash
+ORD-1764,2026/08/28,Ikeja,Bournvita,Ada,3.0,18500.0,Transfer
+ORD-1764,11/10/2026,Lekki ,Groundnut Oil 5L,Musa,10.0,12500.0,Cash
+ORD-1766,08-27-2026,Surulere ,Indomie carton,Ada,5.0,12500.0,
+ORD-1767,20/08/2026,Surulere ,Groundnut Oil 5L,Chiamaka,5.0,,TRANSFER
+ORD-1768,2026-08-29,Ikeja,peak milk,Ada,1.0,85000.0,TRANSFER
+ORD-1769,04/09/2026,Surulere ,Indomie carton,Tunde,2.0,12500.0,TRANSFER
+ORD-1770,07-31-2026,Ikeja,peak milk,Musa,5.0,12500.0,
+ORD-1771,2026/06/11,Lekki,Rice 50kg,Ada,3.0,9800.0,cash
+ORD-1772,2026/08/03,Ikeja ,Peak Milk,Ada,2.0,12500.0,
+ORD-1773,2026/07/15,Lekki,peak milk,Funke,,85000.0,
+ORD-1774,09-09-2026,ikeja,Indomie Carton,Ada,,85000.0,Cash
+ORD-1775,08-02-2026,Surulere ,Rice 50KG,Chiamaka,3.0,85000.0,
+ORD-1776,2026-07-01,Lekki,Groundnut Oil 5L,Tunde,3.0,,
+ORD-1777,2026/07/08,ikeja,Groundnut Oil 5L,Funke,,,Cash
+ORD-1778,2026-09-02,Lekki,Rice 50KG,Tunde,,12500.0,
+ORD-1779,2026/06/18,LEKKI,Indomie carton,Tunde,,18500.0,Cash
+ORD-1780,28/05/2026,Surulere ,Peak Milk,Funke,10.0,18500.0,Cash
+ORD-1781,2026-09-11,Surulere,Indomie carton,Funke,3.0,22000.0,cash
+ORD-1781,2026-08-22,Surulere,Indomie carton,Funke,,85000.0,Transfer
+ORD-1783,08-14-2026,Lekki,Rice 50kg,,5.0,,cash
+ORD-1784,18/07/2026,Ikeja ,Indomie carton,Funke,10.0,12500.0,Transfer
+ORD-1785,06-07-2026,Ikeja ,Rice 50KG,Funke,10.0,85000.0,cash
+ORD-1786,14/06/2026,Surulere,Peak Milk,Chiamaka,10.0,12500.0,Transfer
+ORD-1787,08-21-2026,Lekki,Rice 50kg,,,12500.0,Transfer
+ORD-1788,06-07-2026,ikeja,Rice 50kg,Tunde,,,TRANSFER
+ORD-1789,2026/08/12,Surulere,Bournvita,Chiamaka,2.0,85000.0,cash
+ORD-1790,10-13-2026,Lekki ,Peak Milk,Tunde,1.0,,POS
+ORD-1791,2026-08-31,Surulere,Indomie carton,Chiamaka,,18500.0,
+ORD-1792,06/10/2026,Lekki,Bournvita,Tunde,1.0,85000.0,POS
+ORD-1793,27/09/2026,Lekki,Rice 50KG,Funke,1.0,22000.0,Transfer
+ORD-1794,2026/09/09,Ikeja,Indomie Carton,Musa,3.0,18500.0,cash
+ORD-1795,2026/06/07,Lekki ,Rice 50kg,,,85000.0,cash
+ORD-1796,07-29-2026,Lekki ,Rice 50kg,Tunde,10.0,,TRANSFER
+ORD-1797,08-22-2026,Lekki,Groundnut Oil 5L,Chiamaka,3.0,85000.0,
+ORD-1798,06/06/2026,Surulere ,peak milk,Funke,3.0,18500.0,cash
+ORD-1798,2026/05/02,Lekki ,Indomie Carton,Funke,2.0,18500.0,cash
+ORD-1800,2026/06/17,Surulere,Indomie carton,Funke,3.0,22000.0,TRANSFER
+ORD-1801,2026/09/04,Ikeja ,Rice 50kg,Musa,10.0,9800.0,Cash
+ORD-1802,2026/10/11,Ikeja,Peak Milk,Tunde,10.0,9800.0,
+ORD-1803,24/10/2026,LEKKI,peak milk,Ada,3.0,12500.0,Cash
+ORD-1804,2026/09/26,LEKKI,Indomie carton,Ada,2.0,,POS
+ORD-1805,06/07/2026,Ikeja ,Indomie Carton,Ada,,85000.0,Transfer
+ORD-1806,2026-06-11,Lekki ,Indomie carton,Funke,3.0,,POS
+ORD-1807,2026-07-14,Surulere ,Rice 50KG,Musa,1.0,9800.0,
+ORD-1808,07-20-2026,Surulere,Indomie Carton,Funke,3.0,,
+ORD-1809,04/05/2026,Lekki ,Indomie Carton,Funke,,12500.0,POS
+ORD-1810,27/05/2026,Ikeja ,peak milk,Chiamaka,,12500.0,TRANSFER
+ORD-1811,2026-08-26,ikeja,Groundnut Oil 5L,Tunde,2.0,85000.0,Transfer
+ORD-1812,10-24-2026,Ikeja,Indomie carton,Chiamaka,,9800.0,cash
+ORD-1813,31/05/2026,Lekki ,Peak Milk,Chiamaka,10.0,85000.0,
+ORD-1814,23/06/2026,Surulere,Groundnut Oil 5L,Tunde,10.0,12500.0,cash
+ORD-1815,2026-08-19,Lekki,Indomie Carton,Musa,1.0,12500.0,Cash
+ORD-1815,2026-07-04,Ikeja,Rice 50kg,Tunde,3.0,18500.0,POS
+ORD-1817,28/09/2026,Ikeja,Indomie Carton,Chiamaka,2.0,22000.0,
+ORD-1818,07-11-2026,Lekki ,Rice 50kg,,2.0,12500.0,Transfer
+ORD-1819,13/09/2026,ikeja,Indomie Carton,Musa,2.0,85000.0,POS
+ORD-1820,2026/09/07,Surulere,Rice 50kg,,2.0,22000.0,
+ORD-1821,2026/07/30,Surulere,Indomie carton,Ada,2.0,12500.0,Transfer
+ORD-1822,2026/06/01,ikeja,peak milk,Tunde,2.0,,TRANSFER
+ORD-1823,2026-09-20,Surulere,Indomie carton,Tunde,,9800.0,POS
+ORD-1824,08-25-2026,Ikeja ,Indomie Carton,Tunde,2.0,9800.0,Transfer
+ORD-1825,2026/05/18,Surulere ,Bournvita,,2.0,22000.0,Transfer
+ORD-1826,2026-08-21,Ikeja,Indomie carton,Tunde,2.0,85000.0,Transfer
+ORD-1827,05-17-2026,Surulere ,peak milk,Musa,2.0,12500.0,POS
+ORD-1828,2026/08/17,ikeja,peak milk,Funke,2.0,22000.0,
+ORD-1829,2026/10/18,LEKKI,peak milk,Tunde,,12500.0,TRANSFER
+ORD-1830,06-01-2026,LEKKI,Peak Milk,Tunde,3.0,18500.0,cash
+ORD-1831,2026-05-14,ikeja,Peak Milk,Tunde,1.0,18500.0,
+ORD-1832,06-09-2026,Ikeja,Peak Milk,Tunde,2.0,,Cash
+ORD-1832,2026/10/17,Ikeja ,Indomie carton,Tunde,5.0,9800.0,TRANSFER
+ORD-1834,2026-08-19,LEKKI,Rice 50KG,Ada,1.0,85000.0,cash
+ORD-1835,2026-05-10,Lekki ,peak milk,Chiamaka,3.0,12500.0,TRANSFER
+ORD-1836,06-04-2026,LEKKI,Peak Milk,Ada,3.0,85000.0,cash
+ORD-1837,21/09/2026,Lekki,Indomie carton,Ada,3.0,12500.0,cash
+ORD-1838,07-12-2026,LEKKI,Indomie carton,Ada,2.0,,Cash
+ORD-1839,2026-09-27,Ikeja,Peak Milk,,,,cash
+ORD-1840,08-14-2026,Lekki,peak milk,Ada,,,
+ORD-1841,2026-09-29,ikeja,Groundnut Oil 5L,Tunde,5.0,9800.0,POS
+ORD-1842,09-15-2026,Lekki,Rice 50KG,Ada,3.0,85000.0,cash
+ORD-1843,2026/10/26,Surulere ,peak milk,Ada,10.0,85000.0,POS
+ORD-1844,2026-09-03,Surulere ,peak milk,Musa,,18500.0,POS
+ORD-1845,2026/08/02,Ikeja ,Rice 50KG,Musa,3.0,9800.0,cash
+ORD-1846,05-13-2026,Lekki,Groundnut Oil 5L,Ada,10.0,9800.0,Transfer
+ORD-1847,2026/05/18,Lekki,Indomie Carton,Ada,,9800.0,Transfer
+ORD-1848,08-19-2026,Lekki ,Indomie Carton,Musa,10.0,9800.0,cash
+ORD-1849,05/05/2026,Surulere ,Bournvita,Tunde,3.0,12500.0,Transfer
+ORD-1849,11/09/2026,Ikeja ,Bournvita,,2.0,85000.0,cash
+ORD-1851,2026/08/20,Surulere,Groundnut Oil 5L,,3.0,9800.0,Cash
+ORD-1852,13/10/2026,ikeja,peak milk,Funke,10.0,9800.0,
+ORD-1853,08/06/2026,ikeja,peak milk,Ada,5.0,18500.0,Transfer
+ORD-1854,2026-08-17,LEKKI,Indomie carton,Musa,3.0,85000.0,Transfer
+ORD-1855,11/07/2026,LEKKI,Peak Milk,Ada,1.0,9800.0,
+ORD-1856,07-20-2026,Ikeja ,Rice 50kg,Tunde,1.0,18500.0,cash
+ORD-1857,2026-06-30,Lekki ,Indomie Carton,Tunde,2.0,12500.0,TRANSFER
+ORD-1858,2026-10-01,LEKKI,Indomie carton,,2.0,22000.0,POS
+ORD-1859,2026-06-06,Surulere ,Groundnut Oil 5L,Chiamaka,2.0,22000.0,Transfer
+ORD-1860,2026-09-28,LEKKI,Indomie carton,Tunde,2.0,9800.0,TRANSFER
+ORD-1861,30/08/2026,Lekki ,Indomie Carton,Funke,,85000.0,Transfer
+ORD-1862,2026-05-06,Lekki ,Indomie carton,Ada,,9800.0,
+ORD-1863,10-11-2026,ikeja,Bournvita,Tunde,2.0,9800.0,TRANSFER
+ORD-1864,08-09-2026,ikeja,Indomie carton,Funke,2.0,85000.0,Cash
+ORD-1865,08-21-2026,ikeja,Bournvita,Ada,5.0,12500.0,Cash
+ORD-1866,08-14-2026,LEKKI,Indomie Carton,Ada,3.0,12500.0,Cash
+ORD-1866,08-16-2026,Surulere,Bournvita,Tunde,2.0,,
+ORD-1868,12/10/2026,Ikeja,Rice 50kg,Ada,3.0,12500.0,cash
+ORD-1869,29/05/2026,ikeja,Bournvita,Musa,,18500.0,TRANSFER
+ORD-1870,31/08/2026,Surulere,peak milk,Funke,,12500.0,Transfer
+ORD-1871,08-15-2026,Lekki ,Bournvita,Chiamaka,5.0,18500.0,cash
+ORD-1872,20/09/2026,Surulere ,Groundnut Oil 5L,Tunde,1.0,85000.0,cash
+ORD-1873,2026/08/11,ikeja,Bournvita,Funke,3.0,85000.0,Transfer
+ORD-1874,2026/05/04,Lekki,Rice 50KG,Tunde,3.0,18500.0,
+ORD-1875,06-18-2026,Ikeja ,Indomie Carton,Funke,5.0,22000.0,
+ORD-1876,22/06/2026,Ikeja ,peak milk,Funke,3.0,85000.0,
+ORD-1877,2026-06-07,ikeja,peak milk,Funke,3.0,85000.0,POS
+ORD-1878,2026/09/27,ikeja,Indomie carton,Tunde,5.0,,Cash
+ORD-1879,23/10/2026,Ikeja ,Peak Milk,Ada,,85000.0,
+ORD-1880,2026-09-20,Surulere ,Bournvita,Ada,2.0,18500.0,POS
+ORD-1881,05-02-2026,ikeja,Indomie carton,Ada,,85000.0,POS
+ORD-1882,26/09/2026,Surulere ,Rice 50KG,Funke,3.0,85000.0,Transfer
+ORD-1883,05-23-2026,Ikeja ,Rice 50KG,Ada,3.0,12500.0,Transfer
+ORD-1883,2026/06/02,LEKKI,Indomie Carton,Funke,,85000.0,
+ORD-1885,10-04-2026,Lekki ,peak milk,,10.0,9800.0,cash
+ORD-1886,2026/09/20,Surulere,Rice 50KG,Ada,3.0,12500.0,Transfer
+ORD-1887,2026/05/10,Surulere,Rice 50kg,Funke,5.0,12500.0,Transfer
+ORD-1888,2026/05/11,Ikeja ,peak milk,,2.0,12500.0,
+ORD-1889,2026-06-07,Ikeja ,Indomie carton,,3.0,18500.0,Cash
+ORD-1890,09-08-2026,ikeja,Bournvita,Musa,3.0,12500.0,TRANSFER
+ORD-1891,2026/07/03,Ikeja,Peak Milk,Tunde,2.0,18500.0,POS
+ORD-1892,2026-08-04,Ikeja,Bournvita,,2.0,85000.0,Transfer
+ORD-1893,08-25-2026,Ikeja,Indomie Carton,Ada,3.0,12500.0,POS
+ORD-1894,2026-06-24,Ikeja,Indomie carton,Funke,,12500.0,POS
+ORD-1895,08-11-2026,Ikeja,Indomie Carton,Chiamaka,2.0,18500.0,Transfer
+ORD-1896,2026/06/11,Surulere ,Indomie Carton,Ada,1.0,22000.0,POS
+ORD-1897,08-19-2026,Surulere,Indomie Carton,Chiamaka,10.0,12500.0,POS
+ORD-1898,2026/08/23,Lekki,Rice 50KG,Tunde,5.0,12500.0,POS
+ORD-1899,05/10/2026,Surulere ,Indomie Carton,Ada,2.0,,
+ORD-1900,27/08/2026,Surulere ,Indomie Carton,Chiamaka,1.0,,cash
+ORD-1900,2026/05/21,Lekki,Bournvita,Funke,3.0,85000.0,Transfer
+ORD-1902,2026-07-15,Surulere,Bournvita,Tunde,5.0,85000.0,Cash
+ORD-1903,08-27-2026,Lekki,peak milk,,2.0,18500.0,POS
+ORD-1904,15/06/2026,Lekki,Rice 50kg,Ada,2.0,12500.0,Cash
+ORD-1905,2026/09/28,Lekki,peak milk,Tunde,10.0,,TRANSFER
+ORD-1906,2026-06-17,LEKKI,Rice 50KG,Funke,3.0,22000.0,
+ORD-1907,2026-08-10,Lekki,peak milk,Ada,1.0,85000.0,Transfer
+ORD-1908,07-17-2026,Ikeja ,Indomie carton,Ada,2.0,12500.0,POS
+ORD-1909,2026-06-18,Lekki,Peak Milk,Ada,3.0,85000.0,
+ORD-1910,14/10/2026,ikeja,Rice 50kg,Musa,5.0,12500.0,cash
+ORD-1911,2026/06/07,ikeja,Indomie Carton,Ada,10.0,12500.0,Cash
+ORD-1912,2026/09/02,Lekki,Peak Milk,Ada,3.0,12500.0,cash
+ORD-1913,05-14-2026,ikeja,Groundnut Oil 5L,Ada,10.0,85000.0,Cash
+ORD-1914,2026/05/10,Surulere ,peak milk,Ada,3.0,9800.0,cash
+ORD-1915,08-17-2026,Ikeja ,Groundnut Oil 5L,Tunde,1.0,85000.0,POS
+ORD-1916,10-07-2026,Surulere ,Indomie carton,Tunde,2.0,12500.0,
+ORD-1917,2026/06/19,Surulere ,Rice 50kg,,3.0,9800.0,cash
+ORD-1917,06-03-2026,ikeja,Groundnut Oil 5L,Ada,,12500.0,cash
+ORD-1919,2026-07-12,Lekki ,Indomie carton,Tunde,3.0,22000.0,Transfer
+ORD-1920,2026/05/26,Surulere,Groundnut Oil 5L,Tunde,3.0,12500.0,POS
+ORD-1921,07-31-2026,ikeja,Groundnut Oil 5L,,1.0,85000.0,
+ORD-1922,2026/07/26,Surulere,Peak Milk,Tunde,1.0,18500.0,TRANSFER
+ORD-1923,07-06-2026,ikeja,Indomie Carton,,5.0,12500.0,Cash
+ORD-1924,2026/08/21,LEKKI,Peak Milk,Tunde,2.0,85000.0,Cash
+ORD-1925,2026-10-09,Lekki,Rice 50kg,Musa,2.0,12500.0,POS
+ORD-1926,26/05/2026,Surulere,Bournvita,,3.0,12500.0,POS
+ORD-1927,2026-08-15,Surulere,Indomie Carton,Musa,5.0,12500.0,cash
+ORD-1928,07-08-2026,Lekki ,Bournvita,Ada,3.0,18500.0,POS
+ORD-1929,2026/06/05,ikeja,Peak Milk,Ada,2.0,22000.0,cash
+ORD-1930,2026-06-07,Ikeja ,Rice 50KG,Tunde,1.0,12500.0,Cash
+ORD-1931,2026-08-20,Lekki ,Rice 50KG,Ada,2.0,12500.0,Cash
+ORD-1932,08-11-2026,Surulere,Rice 50kg,,10.0,85000.0,POS
+ORD-1933,23/08/2026,Ikeja,Bournvita,Tunde,3.0,85000.0,
+ORD-1934,2026-05-22,Lekki ,peak milk,,5.0,9800.0,cash
+ORD-1934,09-08-2026,Surulere,Bournvita,,5.0,18500.0,
+ORD-1936,07-01-2026,Surulere,Rice 50kg,Ada,1.0,9800.0,TRANSFER
+ORD-1937,10-08-2026,Lekki,Rice 50kg,Tunde,,9800.0,Cash
+ORD-1938,08-25-2026,Lekki,Indomie carton,Musa,10.0,85000.0,
+ORD-1939,18/10/2026,ikeja,Rice 50KG,Ada,10.0,9800.0,TRANSFER
+ORD-1940,2026/08/01,ikeja,Indomie Carton,Tunde,,22000.0,Transfer
+ORD-1941,2026/05/16,Surulere ,peak milk,Chiamaka,2.0,18500.0,cash
+ORD-1942,2026/10/21,ikeja,Indomie carton,Ada,2.0,,POS
+ORD-1943,15/08/2026,Ikeja ,peak milk,Chiamaka,3.0,12500.0,TRANSFER
+ORD-1944,2026-10-28,Surulere,Indomie carton,Musa,3.0,12500.0,cash
+ORD-1945,2026/05/31,Ikeja ,Rice 50kg,Tunde,3.0,,Cash
+ORD-1946,05-31-2026,Lekki ,Bournvita,Funke,1.0,12500.0,POS
+ORD-1947,06/06/2026,LEKKI,Bournvita,Ada,3.0,85000.0,Cash
+ORD-1948,2026-09-03,LEKKI,Bournvita,Tunde,5.0,12500.0,TRANSFER
+ORD-1949,09-01-2026,Lekki ,Indomie Carton,Tunde,1.0,85000.0,POS
+ORD-1950,2026/09/07,Surulere ,Indomie carton,Tunde,3.0,12500.0,
+ORD-1951,2026/10/07,Ikeja ,Peak Milk,Ada,,18500.0,Transfer
+ORD-1951,2026-07-11,Surulere ,Rice 50KG,Chiamaka,1.0,12500.0,
+ORD-1953,2026-06-19,Ikeja,Bournvita,Musa,2.0,18500.0,cash
+ORD-1954,10/07/2026,Ikeja,Indomie Carton,Musa,3.0,85000.0,
+ORD-1955,2026-09-28,Ikeja ,Indomie Carton,Tunde,,85000.0,Cash
+ORD-1956,05-07-2026,Lekki ,peak milk,Ada,3.0,85000.0,POS
+ORD-1957,13/07/2026,Lekki,Indomie Carton,Chiamaka,2.0,12500.0,POS
+ORD-1958,21/10/2026,Lekki,Peak Milk,Ada,10.0,85000.0,TRANSFER
+ORD-1959,2026/07/16,Lekki ,Peak Milk,Tunde,1.0,85000.0,POS
+ORD-1960,2026-08-05,Surulere,peak milk,Ada,,9800.0,Transfer
+ORD-1961,05-30-2026,ikeja,Groundnut Oil 5L,Ada,3.0,85000.0,POS
+ORD-1962,2026/05/08,Ikeja ,peak milk,Musa,2.0,12500.0,Cash
+ORD-1963,2026/07/17,LEKKI,Indomie Carton,Tunde,5.0,12500.0,Cash
+ORD-1964,2026/07/02,ikeja,Peak Milk,Tunde,,12500.0,Cash
+ORD-1965,2026-05-01,Ikeja,Indomie carton,Tunde,10.0,12500.0,POS
+ORD-1966,09-27-2026,LEKKI,peak milk,Ada,,22000.0,Transfer
+ORD-1967,2026-10-26,Lekki,Bournvita,Chiamaka,2.0,85000.0,
+ORD-1968,10-22-2026,LEKKI,peak milk,Funke,5.0,,
+ORD-1968,27/07/2026,Ikeja ,Bournvita,Tunde,5.0,,TRANSFER
+ORD-1970,2026/10/03,Lekki ,Rice 50kg,Ada,3.0,85000.0,Cash
+ORD-1971,2026-09-15,Surulere,peak milk,Tunde,3.0,85000.0,TRANSFER
+ORD-1972,08-05-2026,Ikeja,Indomie carton,Ada,2.0,,Transfer
+ORD-1973,2026/06/19,Ikeja,Indomie Carton,Ada,3.0,,Transfer
+ORD-1974,05-24-2026,Ikeja,Bournvita,Musa,,22000.0,Transfer
+ORD-1975,04/09/2026,Ikeja ,Rice 50KG,Ada,1.0,9800.0,Transfer
+ORD-1976,13/06/2026,Surulere ,Indomie Carton,Chiamaka,10.0,12500.0,Cash
+ORD-1977,23/09/2026,Surulere,Indomie Carton,Funke,3.0,9800.0,Transfer
+ORD-1978,2026-08-18,Ikeja,Bournvita,,3.0,85000.0,cash
+ORD-1979,09-04-2026,Surulere ,Bournvita,Ada,2.0,12500.0,
+ORD-1980,2026/09/14,ikeja,Rice 50kg,,10.0,85000.0,Cash
+ORD-1981,2026-09-24,Surulere ,Groundnut Oil 5L,Musa,,18500.0,
+ORD-1982,06-12-2026,Surulere ,Indomie Carton,Funke,5.0,22000.0,Cash
+ORD-1983,05-07-2026,Lekki,Rice 50kg,Funke,3.0,85000.0,Transfer
+ORD-1984,05-14-2026,Lekki,Indomie carton,Musa,5.0,,Cash
+ORD-1985,2026-05-22,Ikeja ,Indomie Carton,Ada,3.0,18500.0,cash
+ORD-1985,2026-08-22,Lekki ,Indomie Carton,Funke,3.0,85000.0,TRANSFER
+ORD-1987,2026-09-21,Surulere ,Indomie Carton,Funke,2.0,85000.0,cash
+ORD-1988,2026-10-01,Surulere ,Indomie Carton,Tunde,2.0,22000.0,cash
+ORD-1989,2026-10-14,Ikeja ,peak milk,Tunde,2.0,,TRANSFER
+ORD-1990,2026-05-04,Lekki ,Groundnut Oil 5L,Musa,2.0,18500.0,TRANSFER
+ORD-1991,2026/09/01,Surulere,Bournvita,Chiamaka,,85000.0,Transfer
+ORD-1992,2026/07/19,Surulere,Rice 50kg,,1.0,12500.0,POS
+ORD-1993,10-02-2026,Surulere,Peak Milk,Funke,3.0,9800.0,POS
+ORD-1994,2026-09-07,Ikeja,Peak Milk,Ada,1.0,22000.0,POS
+ORD-1995,27/07/2026,ikeja,Groundnut Oil 5L,Tunde,5.0,18500.0,
+ORD-1996,08-16-2026,Ikeja ,Rice 50KG,Chiamaka,,9800.0,Cash
+ORD-1997,01/05/2026,Ikeja ,Rice 50kg,Musa,3.0,22000.0,cash
+ORD-1998,05/08/2026,ikeja,Groundnut Oil 5L,Ada,3.0,,Transfer
+ORD-1999,2026-07-31,Ikeja,Rice 50KG,Tunde,1.0,18500.0,Transfer
+ORD-2000,2026-05-12,LEKKI,Indomie carton,Musa,5.0,,Transfer
+ORD-2001,06-14-2026,LEKKI,Peak Milk,Musa,5.0,9800.0,Transfer
+ORD-2002,2026-05-26,ikeja,Rice 50kg,Chiamaka,3.0,9800.0,cash
+ORD-2002,25/08/2026,Lekki,Rice 50KG,,5.0,9800.0,POS
+ORD-2004,06/06/2026,Surulere,peak milk,Musa,2.0,18500.0,Transfer
+ORD-2005,10/10/2026,Surulere ,Rice 50KG,Ada,,85000.0,TRANSFER
+ORD-2006,2026-07-03,ikeja,Bournvita,Funke,3.0,,Transfer
+ORD-2007,2026-10-17,Ikeja ,Groundnut Oil 5L,Chiamaka,2.0,12500.0,TRANSFER
+ORD-2008,06-15-2026,Surulere ,Rice 50KG,,3.0,12500.0,TRANSFER
+ORD-2009,2026/09/26,Ikeja ,Indomie carton,Ada,3.0,9800.0,Transfer
+ORD-2010,10/08/2026,ikeja,Groundnut Oil 5L,Funke,3.0,22000.0,cash
+ORD-2011,2026-09-18,Surulere ,Peak Milk,Chiamaka,,9800.0,Cash
+ORD-2012,2026-09-27,LEKKI,Indomie carton,Tunde,,22000.0,TRANSFER
+ORD-2013,2026/08/19,Lekki ,peak milk,,3.0,12500.0,cash
+ORD-2014,2026/06/15,Lekki ,Bournvita,Musa,2.0,85000.0,POS
+ORD-2015,2026-09-06,Lekki,Rice 50KG,Funke,2.0,9800.0,Transfer
+ORD-2016,10/05/2026,Lekki,Indomie Carton,,2.0,,Transfer
+ORD-2017,18/06/2026,Lekki ,Bournvita,Funke,10.0,9800.0,Cash
+ORD-2018,2026-08-12,LEKKI,Bournvita,Tunde,,85000.0,
+ORD-2019,2026/06/23,Surulere,peak milk,Musa,5.0,22000.0,TRANSFER
+ORD-2019,20/07/2026,Ikeja ,Indomie carton,Ada,,18500.0,
+ORD-2021,2026-09-20,Surulere ,Groundnut Oil 5L,,3.0,12500.0,Transfer
+ORD-2022,10-16-2026,Surulere,Bournvita,,1.0,12500.0,Transfer
+ORD-2023,2026-07-23,Surulere ,peak milk,Ada,2.0,9800.0,Transfer
+ORD-2024,2026/06/22,Surulere,Rice 50KG,Tunde,2.0,85000.0,TRANSFER
+ORD-2025,2026/07/24,Surulere ,Groundnut Oil 5L,Funke,3.0,18500.0,Cash
+ORD-2026,2026/10/24,Surulere,Indomie Carton,Ada,3.0,85000.0,Transfer
+ORD-2027,22/06/2026,ikeja,Indomie Carton,Funke,2.0,9800.0,
+ORD-2028,2026-09-10,Lekki,Indomie carton,Chiamaka,1.0,,POS
+ORD-2029,2026/06/03,Surulere ,peak milk,Tunde,3.0,18500.0,
+ORD-2030,06-22-2026,Lekki,peak milk,Ada,5.0,12500.0,
+ORD-2031,2026/09/06,Ikeja ,Peak Milk,Funke,10.0,22000.0,Transfer
+ORD-2032,11/08/2026,Ikeja,Peak Milk,,3.0,18500.0,TRANSFER
+ORD-2033,05-24-2026,Ikeja ,Indomie carton,Tunde,3.0,85000.0,POS
+ORD-2034,03/07/2026,LEKKI,peak milk,Ada,3.0,85000.0,cash
+ORD-2035,2026-10-26,Surulere ,Peak Milk,Musa,2.0,85000.0,Transfer
+ORD-2036,2026/09/04,LEKKI,Bournvita,Tunde,2.0,22000.0,POS
+ORD-2036,24/08/2026,Lekki,Indomie Carton,Funke,,85000.0,Transfer
+ORD-2038,2026/10/11,Ikeja,Indomie carton,Ada,1.0,18500.0,POS
+ORD-2039,05-03-2026,Surulere ,Groundnut Oil 5L,Tunde,2.0,85000.0,
+ORD-2040,2026-08-27,Surulere,Rice 50KG,Tunde,3.0,12500.0,TRANSFER
+ORD-2041,11/07/2026,ikeja,Indomie carton,Chiamaka,3.0,12500.0,Cash
+ORD-2042,2026/09/14,Lekki,Peak Milk,Chiamaka,10.0,18500.0,Cash
+ORD-2043,31/07/2026,Ikeja,Bournvita,Musa,3.0,12500.0,
+ORD-2044,2026-10-10,Ikeja,Groundnut Oil 5L,Ada,3.0,85000.0,
+ORD-2045,2026/05/13,LEKKI,Indomie carton,Musa,1.0,85000.0,Transfer
+ORD-2046,2026/05/05,Lekki ,Groundnut Oil 5L,Ada,5.0,18500.0,Cash
+ORD-2047,25/05/2026,Lekki ,Groundnut Oil 5L,Chiamaka,2.0,22000.0,Cash
+ORD-2048,21/09/2026,Surulere ,Indomie Carton,Musa,,,TRANSFER
+ORD-2049,2026-06-24,Surulere ,peak milk,,2.0,22000.0,POS
+ORD-2050,2026/05/04,Surulere,Rice 50kg,Musa,2.0,,cash
+ORD-2051,2026-05-12,ikeja,Indomie Carton,Musa,10.0,,cash
+ORD-2052,2026-07-04,LEKKI,Indomie carton,,2.0,12500.0,
+ORD-2053,10-10-2026,Surulere ,Peak Milk,Tunde,,12500.0,Cash
+ORD-2053,08/09/2026,Lekki ,Rice 50kg,Ada,3.0,85000.0,Transfer
+ORD-2055,18/08/2026,Ikeja,Indomie Carton,Tunde,10.0,22000.0,Cash
+ORD-2056,21/06/2026,Surulere,Rice 50KG,Ada,3.0,9800.0,Transfer
+ORD-2057,06-04-2026,Ikeja,Groundnut Oil 5L,,3.0,,
+ORD-2058,06-28-2026,Ikeja,peak milk,,10.0,85000.0,Transfer
+ORD-2059,2026/10/03,ikeja,Rice 50kg,,5.0,22000.0,Transfer
+ORD-2060,18/05/2026,Ikeja ,Rice 50kg,Ada,2.0,12500.0,
+ORD-2061,14/06/2026,Surulere,Groundnut Oil 5L,Musa,3.0,18500.0,TRANSFER
+ORD-2062,12/06/2026,Lekki,peak milk,Musa,3.0,9800.0,cash
+ORD-2063,2026/09/25,Surulere,Groundnut Oil 5L,Musa,10.0,9800.0,POS
+ORD-2064,05/08/2026,Ikeja ,Indomie Carton,Tunde,,85000.0,cash
+ORD-2065,2026/05/06,Surulere ,peak milk,Ada,3.0,12500.0,Cash
+ORD-2066,2026/08/06,LEKKI,Peak Milk,Funke,3.0,9800.0,cash
+ORD-2067,25/07/2026,LEKKI,peak milk,Tunde,3.0,18500.0,Transfer
+ORD-2068,09-06-2026,Surulere,Groundnut Oil 5L,Tunde,1.0,85000.0,cash
+ORD-2069,09-03-2026,Surulere ,peak milk,Tunde,,85000.0,cash
+ORD-2070,2026/06/19,Ikeja,Indomie Carton,Funke,2.0,12500.0,
+ORD-2070,2026/10/14,Lekki ,Indomie carton,Ada,,85000.0,
+ORD-2072,2026-08-01,ikeja,Groundnut Oil 5L,Chiamaka,3.0,85000.0,POS
+ORD-2073,02/10/2026,Ikeja ,Peak Milk,Ada,10.0,22000.0,Cash
+ORD-2074,10/09/2026,Lekki,peak milk,Ada,2.0,18500.0,Transfer
+ORD-2075,09-28-2026,Surulere ,Bournvita,Ada,10.0,85000.0,
+ORD-2076,08/07/2026,Lekki,Indomie Carton,Ada,,12500.0,
+ORD-2077,2026-05-01,LEKKI,Rice 50kg,Tunde,3.0,12500.0,
+ORD-2078,13/06/2026,Surulere ,peak milk,,10.0,85000.0,Transfer
+ORD-2079,2026-09-06,Surulere,Groundnut Oil 5L,Tunde,3.0,12500.0,TRANSFER
+ORD-2080,16/06/2026,ikeja,Peak Milk,Funke,5.0,85000.0,cash
+ORD-2081,2026-07-15,Ikeja ,Indomie Carton,Ada,3.0,18500.0,Cash
+ORD-2082,27/09/2026,LEKKI,Indomie Carton,Tunde,,85000.0,cash
+ORD-2083,2026-05-02,Lekki,Rice 50kg,Tunde,1.0,9800.0,Transfer
+ORD-2084,08-30-2026,Ikeja,peak milk,Ada,10.0,12500.0,POS
+ORD-2085,2026/08/01,Lekki ,Rice 50KG,Ada,,22000.0,TRANSFER
+ORD-2086,2026/05/01,Ikeja,Rice 50KG,Ada,,18500.0,
+ORD-2087,27/10/2026,Surulere,Rice 50kg,,2.0,9800.0,cash
+ORD-2087,10-11-2026,Ikeja ,peak milk,Ada,5.0,85000.0,
+ORD-2089,2026/06/29,Lekki ,Rice 50kg,Ada,,12500.0,
+ORD-2090,2026-10-16,Lekki,Rice 50KG,Ada,2.0,12500.0,POS
+ORD-2091,2026-09-05,ikeja,Peak Milk,Funke,1.0,12500.0,
+ORD-2092,01/09/2026,Ikeja ,Peak Milk,Musa,3.0,18500.0,Transfer
+ORD-2093,08/05/2026,Surulere,Indomie Carton,,2.0,85000.0,cash
+ORD-2094,2026-10-19,LEKKI,Groundnut Oil 5L,Chiamaka,10.0,12500.0,TRANSFER
+ORD-2095,2026-09-25,Ikeja ,Indomie Carton,,,22000.0,cash
+ORD-2096,2026-07-06,Surulere ,peak milk,Funke,5.0,22000.0,Cash
+ORD-2097,05-30-2026,Lekki,Indomie Carton,Chiamaka,,22000.0,POS
+ORD-2098,29/09/2026,Surulere ,Rice 50kg,Ada,10.0,85000.0,cash
+ORD-2099,2026/05/28,Lekki ,Rice 50KG,Ada,3.0,22000.0,TRANSFER
+ORD-2100,2026/06/26,Ikeja ,Rice 50KG,Tunde,3.0,9800.0,Transfer
+ORD-2101,2026-07-19,LEKKI,Peak Milk,Funke,1.0,,
+ORD-2102,2026/10/28,Ikeja ,Groundnut Oil 5L,Ada,3.0,9800.0,POS
+ORD-2103,2026/06/15,Surulere,Groundnut Oil 5L,Ada,5.0,85000.0,POS
+ORD-2104,2026/08/17,Surulere,Rice 50kg,,2.0,,cash
+ORD-2104,26/10/2026,Surulere ,Indomie Carton,Ada,10.0,9800.0,Cash
+ORD-2106,26/08/2026,Surulere,Rice 50KG,Chiamaka,1.0,9800.0,cash
+ORD-2107,25/06/2026,Ikeja ,Bournvita,Ada,3.0,22000.0,POS
+ORD-2108,21/10/2026,Lekki,Peak Milk,Ada,2.0,85000.0,Cash
+ORD-2109,05-31-2026,Lekki ,Indomie carton,Ada,3.0,85000.0,Transfer
+ORD-2110,2026/07/01,Surulere ,Groundnut Oil 5L,Tunde,1.0,18500.0,POS
+ORD-2111,2026/10/14,Surulere,peak milk,Funke,2.0,12500.0,
+ORD-2112,2026-05-30,Ikeja ,Rice 50KG,Tunde,1.0,18500.0,cash
+ORD-2113,2026-10-25,ikeja,Rice 50kg,Chiamaka,3.0,9800.0,cash
+ORD-2114,05-26-2026,Ikeja ,peak milk,Tunde,10.0,12500.0,
+ORD-2115,2026/09/20,Surulere,peak milk,Tunde,1.0,85000.0,TRANSFER
+ORD-2116,01/10/2026,Lekki,Groundnut Oil 5L,Ada,2.0,12500.0,TRANSFER
+ORD-2117,02/06/2026,Ikeja ,Rice 50KG,Chiamaka,2.0,85000.0,Cash
+ORD-2118,09-07-2026,LEKKI,Rice 50kg,,2.0,18500.0,TRANSFER
+ORD-2119,2026-07-16,Surulere,peak milk,Funke,1.0,22000.0,
+ORD-2120,09-11-2026,Ikeja ,Peak Milk,Musa,3.0,,
+ORD-2121,18/06/2026,Lekki,Rice 50kg,Funke,5.0,85000.0,Transfer
+ORD-2121,2026/06/02,Surulere,Groundnut Oil 5L,Tunde,,9800.0,TRANSFER
+ORD-2123,2026/08/11,LEKKI,Bournvita,Tunde,2.0,12500.0,POS
+ORD-2124,10-09-2026,Surulere ,Peak Milk,Musa,5.0,18500.0,
+ORD-2125,2026/07/20,Lekki ,Peak Milk,Ada,2.0,12500.0,Cash
+ORD-2126,2026-09-14,ikeja,Indomie Carton,Ada,10.0,18500.0,Cash
+ORD-2127,09/07/2026,Lekki ,Indomie Carton,Musa,,,POS
+ORD-2128,2026-08-05,Ikeja,Indomie Carton,Tunde,2.0,22000.0,Transfer
+ORD-2129,10-27-2026,LEKKI,Indomie carton,Funke,2.0,,TRANSFER
+ORD-2130,08/08/2026,Lekki,Rice 50kg,,3.0,,
+ORD-2131,03/05/2026,Surulere ,Indomie carton,Chiamaka,3.0,9800.0,Transfer
+ORD-2132,2026/07/03,Surulere ,Bournvita,Tunde,1.0,,Transfer
+ORD-2133,2026/07/10,Ikeja ,Rice 50KG,Musa,3.0,9800.0,POS
+ORD-2134,2026-05-24,Lekki,Bournvita,Tunde,2.0,,
+ORD-2135,05-22-2026,ikeja,Indomie Carton,Tunde,3.0,85000.0,Cash
+ORD-2136,2026-09-09,Surulere ,Peak Milk,Ada,3.0,12500.0,Cash
+ORD-2137,2026-07-02,ikeja,Rice 50kg,Tunde,2.0,,Transfer
+ORD-2138,06-04-2026,ikeja,Peak Milk,Ada,2.0,,cash
+ORD-2138,05-29-2026,Ikeja ,peak milk,Musa,3.0,,TRANSFER
+ORD-2140,07-15-2026,Lekki,Bournvita,Musa,10.0,12500.0,Cash
+ORD-2141,2026/08/27,Surulere ,Groundnut Oil 5L,Ada,10.0,85000.0,POS
+ORD-2142,2026-07-30,Ikeja,Indomie carton,Ada,,9800.0,POS
+ORD-2143,2026/05/26,Surulere,peak milk,Tunde,,85000.0,Transfer
+ORD-2144,2026-09-02,Lekki,Peak Milk,Chiamaka,2.0,18500.0,
+ORD-2145,08-04-2026,LEKKI,Groundnut Oil 5L,,3.0,85000.0,cash
+ORD-2146,2026/10/16,Surulere,Bournvita,Chiamaka,2.0,12500.0,Transfer
+ORD-2147,2026-06-20,Lekki ,peak milk,Musa,1.0,,POS
+ORD-2148,2026-07-24,Ikeja,Peak Milk,Chiamaka,2.0,85000.0,
+ORD-2149,2026/08/16,ikeja,Indomie carton,Tunde,10.0,18500.0,
+ORD-2150,2026-06-03,Surulere,Rice 50KG,Tunde,2.0,85000.0,Cash
+ORD-2151,23/10/2026,Surulere,Peak Milk,Ada,,85000.0,
+ORD-2152,08-31-2026,Lekki ,peak milk,Funke,1.0,85000.0,cash
+ORD-2153,08/09/2026,Lekki,peak milk,Musa,5.0,12500.0,POS
+ORD-2154,2026/06/20,Lekki,Bournvita,Tunde,5.0,85000.0,
+ORD-2155,31/05/2026,Surulere,Groundnut Oil 5L,Ada,3.0,22000.0,Cash
+ORD-2155,05/05/2026,LEKKI,Groundnut Oil 5L,Tunde,3.0,85000.0,Cash
+ORD-2157,06-26-2026,Surulere ,peak milk,Ada,10.0,22000.0,cash
+ORD-2158,05-29-2026,Ikeja,peak milk,,1.0,9800.0,POS
+ORD-2159,13/05/2026,Lekki ,peak milk,Ada,5.0,,Cash
+ORD-2160,08-29-2026,Ikeja,Rice 50KG,Tunde,5.0,9800.0,cash
+ORD-2161,07-25-2026,Surulere,Bournvita,Tunde,3.0,,Cash
+ORD-2162,08-01-2026,Ikeja,Peak Milk,Musa,,,
+ORD-2163,28/05/2026,LEKKI,Groundnut Oil 5L,Tunde,2.0,18500.0,Cash
+ORD-2164,05-20-2026,ikeja,Groundnut Oil 5L,Funke,3.0,18500.0,
+ORD-2165,02/06/2026,Ikeja ,Groundnut Oil 5L,Ada,3.0,85000.0,TRANSFER
+ORD-2166,2026-10-09,LEKKI,Rice 50KG,Ada,,12500.0,Cash
+ORD-2167,10-01-2026,Ikeja ,peak milk,Chiamaka,1.0,12500.0,POS
+ORD-2168,2026-09-04,Ikeja,Rice 50kg,Chiamaka,5.0,85000.0,cash
+ORD-2169,22/06/2026,Surulere ,peak milk,Ada,2.0,9800.0,Transfer
+ORD-2170,17/07/2026,ikeja,Rice 50kg,Funke,3.0,9800.0,
+ORD-2171,12/05/2026,LEKKI,Indomie Carton,Funke,3.0,22000.0,Cash
+ORD-2172,14/05/2026,Surulere,Bournvita,Musa,3.0,9800.0,TRANSFER
+ORD-2172,2026-07-23,Lekki,Rice 50kg,Funke,,,
+ORD-2174,2026-05-15,Surulere,peak milk,,10.0,,Transfer
+ORD-2175,2026-09-15,LEKKI,Peak Milk,Ada,10.0,85000.0,
+ORD-2176,07-23-2026,LEKKI,Groundnut Oil 5L,Musa,3.0,22000.0,TRANSFER
+ORD-2177,08-20-2026,Surulere ,Peak Milk,Chiamaka,3.0,22000.0,cash
+ORD-2178,17/06/2026,Lekki,Indomie carton,Musa,3.0,12500.0,TRANSFER
+ORD-2179,19/07/2026,Ikeja ,Peak Milk,Chiamaka,10.0,85000.0,cash
+ORD-2180,18/08/2026,ikeja,Indomie Carton,Tunde,3.0,18500.0,
+ORD-2181,2026-10-02,Surulere ,Indomie Carton,Ada,3.0,85000.0,cash
+ORD-2182,03/06/2026,Ikeja,Indomie Carton,Tunde,1.0,85000.0,POS
+ORD-2183,09-16-2026,Surulere,Rice 50kg,Tunde,1.0,18500.0,Transfer
+ORD-2184,07-18-2026,Surulere,Indomie carton,Tunde,3.0,12500.0,Transfer
+ORD-2185,2026-05-06,ikeja,Rice 50kg,Tunde,10.0,18500.0,TRANSFER
+ORD-2186,01/05/2026,LEKKI,Indomie Carton,Ada,2.0,12500.0,Transfer
+ORD-2187,10-15-2026,Surulere ,peak milk,Musa,3.0,,
+ORD-2188,29/05/2026,Surulere ,Indomie Carton,Tunde,3.0,12500.0,POS
+ORD-2189,2026-08-01,Lekki ,Indomie Carton,Ada,,18500.0,TRANSFER
+ORD-2189,01/10/2026,Surulere,Peak Milk,Ada,2.0,,Transfer
+ORD-2191,2026/07/09,LEKKI,Bournvita,,,18500.0,POS
+ORD-2192,21/07/2026,Lekki,Rice 50kg,Ada,3.0,12500.0,cash
+ORD-2193,11/07/2026,Ikeja ,Indomie Carton,Tunde,2.0,85000.0,POS
+ORD-2194,2026/07/21,Surulere,Peak Milk,Ada,2.0,,cash
+ORD-2195,2026/08/07,Surulere ,Rice 50KG,Tunde,3.0,22000.0,TRANSFER
+ORD-2196,2026/09/26,Ikeja ,Groundnut Oil 5L,Musa,2.0,18500.0,
+ORD-2197,2026-06-22,Lekki,Groundnut Oil 5L,,,85000.0,TRANSFER
+ORD-2198,07-29-2026,Ikeja ,Peak Milk,Chiamaka,2.0,85000.0,POS
+ORD-2199,23/06/2026,Ikeja ,Peak Milk,Ada,2.0,22000.0,
+ORD-2200,2026/05/07,Surulere,Indomie Carton,,3.0,85000.0,Cash
+ORD-2201,08/05/2026,Lekki,Indomie Carton,,3.0,12500.0,Transfer
+ORD-2202,2026/09/23,Lekki,Groundnut Oil 5L,Chiamaka,2.0,85000.0,Transfer
+ORD-2203,08-14-2026,Ikeja ,Peak Milk,Tunde,10.0,12500.0,
+ORD-2204,2026-05-16,Ikeja,Bournvita,Chiamaka,2.0,12500.0,TRANSFER
+ORD-2205,2026/10/22,Surulere,Rice 50kg,Funke,2.0,85000.0,TRANSFER
+ORD-2206,2026-07-09,LEKKI,Groundnut Oil 5L,Ada,2.0,12500.0,Transfer
+ORD-2206,09/08/2026,ikeja,peak milk,Tunde,1.0,22000.0,
+ORD-2208,06/08/2026,Ikeja ,Indomie carton,Ada,,85000.0,POS
+ORD-2209,2026-05-27,Surulere ,Groundnut Oil 5L,,10.0,18500.0,TRANSFER
+ORD-2210,2026-06-11,Lekki ,Rice 50kg,Tunde,5.0,9800.0,Transfer
+ORD-2211,2026-10-11,Ikeja,Bournvita,Musa,5.0,22000.0,POS
+ORD-2212,05-13-2026,Lekki,Rice 50kg,Tunde,3.0,85000.0,POS
+ORD-2213,06/09/2026,Ikeja,Rice 50KG,,10.0,85000.0,cash
+ORD-2214,2026-08-13,Lekki ,Peak Milk,Chiamaka,2.0,,Cash
+ORD-2215,11/06/2026,Surulere ,Indomie carton,Tunde,1.0,9800.0,Cash
+ORD-2216,06-11-2026,Lekki,Groundnut Oil 5L,Tunde,5.0,12500.0,Transfer
+ORD-2217,2026/05/11,Lekki ,Bournvita,Musa,,85000.0,Transfer
+ORD-2218,04/05/2026,Lekki,Peak Milk,Funke,3.0,18500.0,TRANSFER
+ORD-2219,20/07/2026,Lekki,Indomie carton,Funke,2.0,12500.0,Transfer
+ORD-2220,2026-05-23,Lekki,Bournvita,Chiamaka,,,
+ORD-2221,22/08/2026,Ikeja ,Bournvita,Tunde,3.0,9800.0,TRANSFER
+ORD-2222,2026/08/11,Ikeja ,Rice 50kg,Chiamaka,,9800.0,cash
+ORD-2223,2026/10/22,Lekki ,Rice 50KG,Tunde,,18500.0,POS
+ORD-2223,2026-06-09,Ikeja,Rice 50kg,Funke,5.0,85000.0,cash
+ORD-2225,2026/08/08,Surulere,peak milk,Tunde,2.0,22000.0,POS
+ORD-2226,22/05/2026,Ikeja ,Indomie carton,Tunde,3.0,18500.0,cash
+ORD-2227,05-17-2026,Surulere ,Groundnut Oil 5L,,2.0,,TRANSFER
+ORD-2228,2026/07/11,Ikeja ,Groundnut Oil 5L,Ada,3.0,18500.0,TRANSFER
+ORD-2229,2026-07-21,Surulere,Indomie carton,Ada,3.0,22000.0,Cash
+ORD-2230,14/05/2026,Lekki ,peak milk,Ada,3.0,22000.0,
+ORD-2231,22/05/2026,Surulere ,Bournvita,Tunde,10.0,12500.0,POS
+ORD-2232,16/08/2026,Surulere ,Indomie Carton,Funke,10.0,12500.0,Transfer
+ORD-2233,16/07/2026,Ikeja,Indomie Carton,Musa,2.0,,POS
+ORD-2234,2026/10/26,Surulere ,Indomie carton,,3.0,12500.0,
+ORD-2235,18/10/2026,Surulere ,Rice 50kg,,5.0,18500.0,
+ORD-2236,2026/06/07,Lekki ,Rice 50kg,,3.0,12500.0,Cash
+ORD-2237,2026/06/02,Surulere ,Bournvita,Tunde,1.0,12500.0,Cash
+ORD-2238,2026/10/01,ikeja,Groundnut Oil 5L,Musa,2.0,12500.0,POS
+ORD-2239,2026-08-02,ikeja,Groundnut Oil 5L,Funke,1.0,,POS
+ORD-2240,08-14-2026,Lekki,Indomie carton,,3.0,85000.0,TRANSFER
+ORD-2240,2026/08/26,Surulere ,Rice 50KG,,2.0,12500.0,Transfer
+ORD-2242,2026/10/16,Surulere,peak milk,Funke,2.0,9800.0,
+ORD-2243,2026-10-14,Lekki,Indomie Carton,Ada,2.0,18500.0,Cash
+ORD-2244,10-18-2026,Ikeja ,Indomie Carton,Ada,3.0,85000.0,Transfer
+ORD-2245,2026/06/20,ikeja,Indomie carton,Tunde,2.0,18500.0,POS
+ORD-2246,04/08/2026,Ikeja ,peak milk,Funke,2.0,85000.0,POS
+ORD-2247,2026/05/02,LEKKI,Bournvita,Ada,2.0,22000.0,Cash
+ORD-2248,25/07/2026,Ikeja,Peak Milk,Ada,,,Transfer
+ORD-2249,2026/09/25,Surulere ,Groundnut Oil 5L,Chiamaka,2.0,85000.0,
+ORD-2250,10/09/2026,Surulere ,Peak Milk,Ada,2.0,,Transfer
+ORD-2251,10-08-2026,Lekki,Peak Milk,Chiamaka,2.0,85000.0,POS
+ORD-2252,2026-08-20,ikeja,Indomie Carton,Chiamaka,2.0,85000.0,Cash
+ORD-2253,08-25-2026,Lekki,peak milk,Chiamaka,1.0,12500.0,Transfer
+ORD-2254,08-05-2026,ikeja,Bournvita,Ada,5.0,22000.0,POS
+ORD-2255,2026/05/29,Lekki,Peak Milk,Tunde,1.0,18500.0,Cash
+ORD-2256,2026-05-24,Surulere,Bournvita,Tunde,10.0,12500.0,POS
+ORD-2257,2026/05/06,ikeja,peak milk,Tunde,2.0,12500.0,cash
+ORD-2257,2026/07/20,Lekki,Groundnut Oil 5L,Chiamaka,2.0,85000.0,Transfer
+ORD-2259,05-31-2026,LEKKI,Rice 50kg,,3.0,85000.0,cash
+ORD-2260,2026-06-19,Ikeja,Peak Milk,Ada,10.0,18500.0,TRANSFER
+ORD-2261,2026-06-25,Surulere,Groundnut Oil 5L,,,18500.0,Transfer
+ORD-2262,2026/07/10,ikeja,Indomie Carton,Musa,3.0,9800.0,Cash
+ORD-2263,2026/08/20,Lekki ,Bournvita,Musa,3.0,12500.0,POS
+ORD-2264,05-27-2026,Surulere,Groundnut Oil 5L,Chiamaka,10.0,85000.0,Transfer
+ORD-2265,09-30-2026,Ikeja ,peak milk,,3.0,85000.0,TRANSFER
+ORD-2266,09-23-2026,Lekki,peak milk,,2.0,22000.0,
+ORD-2267,09-08-2026,Lekki,Indomie carton,Ada,3.0,85000.0,POS
+ORD-2268,06-16-2026,Lekki ,peak milk,Ada,1.0,18500.0,Transfer
+ORD-2269,10-16-2026,Lekki ,Groundnut Oil 5L,,2.0,22000.0,Transfer
+ORD-2270,2026-10-24,Lekki ,Indomie Carton,,1.0,,Transfer
+ORD-2271,08-07-2026,Ikeja ,Rice 50KG,Musa,5.0,18500.0,TRANSFER
+ORD-2272,2026/09/24,ikeja,Indomie Carton,Ada,10.0,18500.0,POS
+ORD-2273,2026/09/04,Lekki ,Groundnut Oil 5L,Ada,5.0,85000.0,POS
+ORD-2274,06-13-2026,Surulere ,Indomie Carton,Ada,2.0,12500.0,Transfer
+ORD-2274,08-27-2026,Ikeja,Bournvita,Chiamaka,1.0,85000.0,cash
+ORD-2276,2026/05/18,Ikeja,Rice 50kg,Tunde,,85000.0,cash
+ORD-2277,2026-08-11,LEKKI,Bournvita,,,,cash
+ORD-2278,2026-09-04,Ikeja,peak milk,,10.0,12500.0,TRANSFER
+ORD-2279,03/05/2026,Lekki,Rice 50kg,Tunde,5.0,85000.0,POS
+ORD-2280,06-18-2026,Surulere ,Groundnut Oil 5L,Ada,3.0,18500.0,
+ORD-2281,05-13-2026,Ikeja,Bournvita,Tunde,1.0,18500.0,POS
+ORD-2282,2026/06/05,Lekki ,peak milk,Tunde,10.0,12500.0,Transfer
+ORD-2283,2026-10-19,Lekki ,Peak Milk,Musa,2.0,12500.0,TRANSFER
+ORD-2284,01/09/2026,Ikeja ,Indomie carton,Tunde,10.0,,POS
+ORD-2285,16/10/2026,LEKKI,Indomie Carton,Tunde,,22000.0,Cash
+ORD-2286,19/10/2026,Ikeja ,Rice 50kg,Tunde,5.0,85000.0,cash
+ORD-2287,06-23-2026,ikeja,Indomie carton,Funke,2.0,,
+ORD-2288,06-26-2026,Ikeja ,Peak Milk,Ada,2.0,12500.0,cash
+ORD-2289,2026/07/11,ikeja,peak milk,Chiamaka,5.0,18500.0,
+ORD-2290,2026-05-28,LEKKI,Indomie Carton,Musa,3.0,12500.0,Cash
+ORD-2291,2026/08/30,Ikeja ,Peak Milk,,10.0,85000.0,POS
+ORD-2291,24/06/2026,Lekki,Indomie Carton,Ada,,85000.0,TRANSFER
+ORD-2293,07-09-2026,Surulere ,Rice 50KG,Tunde,1.0,12500.0,Cash
+ORD-2294,2026/06/18,Surulere ,peak milk,Chiamaka,5.0,9800.0,TRANSFER
+ORD-2295,2026-10-22,LEKKI,Indomie carton,Musa,2.0,18500.0,Cash
+ORD-2296,09-25-2026,ikeja,Indomie Carton,Musa,1.0,85000.0,Cash
+ORD-2297,2026/08/09,Lekki,Bournvita,Tunde,5.0,85000.0,Transfer
+ORD-2298,06-22-2026,LEKKI,Indomie carton,Funke,5.0,12500.0,
+ORD-2299,2026/09/06,LEKKI,Rice 50kg,Funke,2.0,12500.0,
+ORD-2300,12/06/2026,ikeja,Peak Milk,,,18500.0,cash
+ORD-2301,2026-07-25,Surulere,Rice 50kg,Chiamaka,3.0,85000.0,POS
+ORD-2302,2026-08-30,Lekki,Peak Milk,Tunde,1.0,,Transfer
+ORD-2303,09-23-2026,Ikeja ,Indomie Carton,Musa,1.0,85000.0,TRANSFER
+ORD-2304,07-17-2026,Surulere,Peak Milk,Tunde,2.0,18500.0,cash
+ORD-2305,2026/08/02,Lekki ,Bournvita,Ada,3.0,9800.0,POS
+ORD-2306,2026-07-09,LEKKI,Rice 50KG,Chiamaka,3.0,18500.0,cash
+ORD-2307,08/05/2026,ikeja,Peak Milk,Ada,,12500.0,POS
+ORD-2308,2026-10-11,ikeja,Indomie Carton,Funke,5.0,85000.0,
+ORD-2308,2026/07/24,Ikeja ,Peak Milk,Ada,10.0,,POS
+ORD-2310,2026-10-04,LEKKI,Groundnut Oil 5L,Ada,1.0,,cash
+ORD-2311,05/09/2026,Lekki ,Bournvita,Tunde,2.0,85000.0,
+ORD-2312,09-02-2026,Surulere,Bournvita,Tunde,3.0,9800.0,POS
+ORD-2313,2026-07-12,Ikeja,Indomie carton,Ada,1.0,22000.0,cash
+ORD-2314,2026-10-17,LEKKI,Rice 50kg,Ada,2.0,,POS
+ORD-2315,05-23-2026,Surulere,Rice 50KG,Chiamaka,10.0,12500.0,
+ORD-2316,2026-06-26,ikeja,peak milk,Tunde,2.0,9800.0,POS
+ORD-2317,05-26-2026,ikeja,peak milk,Funke,2.0,85000.0,TRANSFER
+ORD-2318,26/09/2026,LEKKI,Peak Milk,Musa,2.0,,POS
+ORD-2319,2026-07-18,Surulere,peak milk,Funke,5.0,9800.0,TRANSFER
+ORD-2320,25/05/2026,Ikeja ,Peak Milk,Tunde,2.0,85000.0,
+ORD-2321,2026/08/18,Lekki ,Rice 50KG,Ada,3.0,,cash
+ORD-2322,23/05/2026,Ikeja ,Rice 50kg,Funke,1.0,85000.0,Transfer
+ORD-2323,09/08/2026,Lekki ,Peak Milk,Ada,10.0,85000.0,
+ORD-2324,2026-05-22,Ikeja,Indomie carton,Funke,3.0,85000.0,
+ORD-2325,2026/09/22,Lekki,Rice 50KG,,2.0,9800.0,Cash
+ORD-2325,2026/09/21,Lekki,Rice 50kg,Chiamaka,5.0,12500.0,Transfer
+ORD-2327,02/09/2026,Surulere,Bournvita,Tunde,10.0,85000.0,Cash
+ORD-2328,03/07/2026,Ikeja,Peak Milk,Tunde,2.0,18500.0,cash
+ORD-2329,06-01-2026,Ikeja,Indomie carton,Ada,2.0,85000.0,cash
+ORD-2330,2026-10-16,Surulere,Groundnut Oil 5L,Ada,10.0,12500.0,Transfer
+ORD-2331,13/06/2026,Ikeja,Peak Milk,Tunde,3.0,22000.0,cash
+ORD-2332,08-03-2026,LEKKI,Bournvita,Ada,2.0,12500.0,cash
+ORD-2333,2026-06-07,Lekki,Indomie carton,Funke,2.0,85000.0,cash
+ORD-2334,2026/05/09,Lekki,peak milk,Ada,1.0,9800.0,POS
+ORD-2335,03/05/2026,Surulere,Indomie carton,,3.0,9800.0,TRANSFER
+ORD-2336,14/06/2026,ikeja,Rice 50KG,,2.0,18500.0,
+ORD-2337,10-16-2026,Lekki ,Indomie carton,Ada,3.0,9800.0,Cash
+ORD-2338,09-25-2026,Ikeja ,peak milk,Chiamaka,3.0,12500.0,
+ORD-2339,2026-05-12,Lekki ,Rice 50KG,Chiamaka,2.0,18500.0,Transfer
+ORD-2340,22/07/2026,Lekki,Indomie Carton,Musa,3.0,12500.0,Cash
+ORD-2341,05-16-2026,Surulere,peak milk,Tunde,2.0,18500.0,Cash
+ORD-2342,06-14-2026,Lekki,Indomie carton,Tunde,,85000.0,
+ORD-2342,06-20-2026,Ikeja ,peak milk,Tunde,3.0,22000.0,cash
+ORD-2344,20/08/2026,LEKKI,Groundnut Oil 5L,Tunde,5.0,12500.0,TRANSFER
+ORD-2345,2026-06-05,Ikeja,Indomie Carton,,5.0,85000.0,cash
+ORD-2346,18/06/2026,Lekki,Rice 50KG,Tunde,3.0,12500.0,TRANSFER
+ORD-2347,2026/08/21,Lekki ,Rice 50KG,Ada,3.0,18500.0,Cash
+ORD-2348,2026/05/31,Lekki,Peak Milk,Musa,10.0,18500.0,Cash
+ORD-2349,2026/07/04,Lekki ,Rice 50kg,,5.0,9800.0,Cash
+ORD-2350,09-10-2026,Surulere,Bournvita,Ada,2.0,22000.0,TRANSFER
+ORD-2351,2026-10-15,Ikeja,Indomie Carton,Ada,3.0,9800.0,POS
+ORD-2352,16/05/2026,Surulere ,Bournvita,Musa,5.0,,TRANSFER
+ORD-2353,2026-05-19,Lekki ,Rice 50kg,,5.0,12500.0,Cash
+ORD-2354,2026-07-09,Surulere ,Indomie Carton,Tunde,3.0,12500.0,Cash
+ORD-2355,08-31-2026,Ikeja ,Groundnut Oil 5L,Musa,,85000.0,Cash
+ORD-2356,2026-10-22,Ikeja,Rice 50kg,Tunde,5.0,85000.0,Cash
+ORD-2357,2026/10/27,Surulere ,peak milk,Chiamaka,3.0,85000.0,Cash
+ORD-2358,06-19-2026,Ikeja ,Indomie Carton,Ada,,,Cash
+ORD-2359,2026/06/28,ikeja,Groundnut Oil 5L,Ada,2.0,85000.0,Cash
+ORD-2359,2026/06/02,ikeja,Rice 50kg,Chiamaka,2.0,85000.0,POS
+ORD-2361,14/07/2026,Ikeja,Rice 50KG,Ada,,22000.0,cash
+ORD-2362,17/09/2026,Lekki,Indomie Carton,Tunde,2.0,9800.0,
+ORD-2363,08-02-2026,Lekki ,Groundnut Oil 5L,Musa,3.0,9800.0,TRANSFER
+ORD-2364,2026/07/28,LEKKI,Rice 50KG,Tunde,2.0,85000.0,POS
+ORD-2365,18/07/2026,Lekki,Groundnut Oil 5L,Tunde,3.0,22000.0,POS
+ORD-2366,2026/10/14,Surulere,Rice 50kg,Tunde,5.0,12500.0,Cash
+ORD-2367,2026/09/28,Ikeja ,Rice 50kg,Funke,10.0,9800.0,Cash
+ORD-2368,2026/05/05,Ikeja,Bournvita,Ada,2.0,12500.0,cash
+ORD-2369,2026/06/17,Ikeja,Groundnut Oil 5L,Ada,5.0,85000.0,
+ORD-2370,10-03-2026,LEKKI,Rice 50kg,Funke,,85000.0,TRANSFER
+ORD-2371,2026-08-18,ikeja,Rice 50kg,Tunde,,85000.0,TRANSFER
+ORD-2372,09-24-2026,Surulere ,Bournvita,Chiamaka,3.0,85000.0,cash
+ORD-2373,07-11-2026,Ikeja ,Groundnut Oil 5L,Tunde,3.0,85000.0,Transfer
+ORD-2374,10-05-2026,LEKKI,Rice 50KG,,2.0,85000.0,POS
+ORD-2375,09-23-2026,LEKKI,Rice 50kg,Funke,2.0,9800.0,Transfer
+ORD-2376,2026/05/03,Ikeja ,Indomie carton,Ada,1.0,12500.0,POS
+ORD-2376,2026-09-26,Ikeja ,Groundnut Oil 5L,Funke,2.0,85000.0,TRANSFER
+ORD-2378,07-06-2026,Lekki ,Indomie Carton,Funke,3.0,12500.0,cash
+ORD-2379,2026-10-06,Surulere,Groundnut Oil 5L,Musa,3.0,12500.0,Cash
+ORD-2380,11/05/2026,Ikeja,Peak Milk,Ada,3.0,,
+ORD-2381,2026-09-16,LEKKI,Bournvita,Musa,1.0,,POS
+ORD-2382,2026-09-08,Lekki,Indomie Carton,Musa,3.0,18500.0,Transfer
+ORD-2383,2026/10/12,Lekki ,Rice 50KG,Funke,2.0,18500.0,Transfer
+ORD-2384,08-13-2026,Ikeja,Rice 50KG,Tunde,,,POS
+ORD-2385,14/07/2026,Ikeja,Peak Milk,Ada,,85000.0,Cash
+ORD-2386,2026-08-05,ikeja,Rice 50KG,Chiamaka,,22000.0,cash
+ORD-2387,2026-09-15,Lekki,Indomie Carton,Ada,5.0,85000.0,TRANSFER
+ORD-2388,06-19-2026,Ikeja ,Indomie carton,Musa,,9800.0,POS
+ORD-2389,2026-07-20,ikeja,Rice 50KG,Musa,5.0,12500.0,cash
+ORD-2390,2026-09-21,Surulere ,Rice 50KG,,2.0,,
+ORD-2391,28/06/2026,Ikeja ,Groundnut Oil 5L,Musa,3.0,85000.0,cash
+ORD-2392,2026-07-20,Surulere,Bournvita,Tunde,10.0,,cash
+ORD-2393,2026/06/16,Surulere ,Peak Milk,Ada,3.0,22000.0,Transfer
+ORD-2393,26/05/2026,Lekki,peak milk,Ada,10.0,12500.0,cash
+ORD-2395,2026/09/09,Ikeja,Peak Milk,Ada,2.0,12500.0,POS
+ORD-2396,05-31-2026,Surulere,peak milk,,5.0,9800.0,TRANSFER
+ORD-2397,2026/08/23,Lekki,Rice 50kg,Tunde,2.0,,
+ORD-2398,2026-06-16,Surulere ,Bournvita,Chiamaka,3.0,12500.0,Cash
+ORD-2399,21/08/2026,Lekki ,Indomie carton,Funke,2.0,,Cash
+ORD-2400,2026/05/13,ikeja,Bournvita,Funke,3.0,,POS
+ORD-2401,11/05/2026,Surulere ,Rice 50KG,Ada,3.0,12500.0,TRANSFER
+ORD-2402,12/07/2026,LEKKI,Rice 50KG,Tunde,2.0,,POS
+ORD-2403,06-13-2026,LEKKI,Indomie carton,Funke,3.0,22000.0,TRANSFER
+ORD-2404,25/05/2026,Lekki,Groundnut Oil 5L,Chiamaka,10.0,12500.0,Cash
+ORD-2405,05-07-2026,Ikeja,Groundnut Oil 5L,Musa,1.0,12500.0,POS
+ORD-2406,2026-07-15,Surulere ,Indomie carton,Tunde,3.0,12500.0,cash
+ORD-2407,06-05-2026,Surulere ,Indomie carton,Tunde,10.0,18500.0,POS
+ORD-2408,06-10-2026,Lekki,Groundnut Oil 5L,Funke,2.0,,cash
+ORD-2409,05-26-2026,Lekki,Rice 50KG,Musa,1.0,85000.0,TRANSFER
+ORD-2410,2026/09/28,Ikeja,Rice 50kg,Musa,5.0,12500.0,
+ORD-2410,02/09/2026,ikeja,Bournvita,Tunde,3.0,12500.0,POS
+ORD-2412,2026/05/01,Surulere,Groundnut Oil 5L,Tunde,2.0,22000.0,cash
+ORD-2413,10-24-2026,ikeja,Peak Milk,Ada,1.0,85000.0,
+ORD-2414,16/07/2026,ikeja,Rice 50KG,Funke,3.0,12500.0,
+ORD-2415,2026/09/17,Ikeja ,Indomie carton,Funke,2.0,,Cash
+ORD-2416,08-23-2026,ikeja,Indomie Carton,Musa,10.0,85000.0,
+ORD-2417,2026-07-21,Surulere ,Indomie Carton,,3.0,12500.0,
+ORD-2418,2026/10/01,Surulere ,Peak Milk,Musa,3.0,12500.0,Cash
+ORD-2419,05-16-2026,LEKKI,Bournvita,Funke,5.0,85000.0,
+ORD-2420,2026/08/17,Lekki ,peak milk,Funke,2.0,12500.0,Cash
+ORD-2421,2026-10-10,LEKKI,Indomie carton,Funke,5.0,,cash
+ORD-2422,2026-10-08,Surulere ,Groundnut Oil 5L,,3.0,22000.0,Transfer
+ORD-2423,10-28-2026,Ikeja,Rice 50kg,,2.0,18500.0,TRANSFER
+ORD-2424,15/09/2026,Lekki,Rice 50kg,Chiamaka,5.0,,TRANSFER
+ORD-2425,08-04-2026,Surulere ,Groundnut Oil 5L,Ada,10.0,12500.0,Transfer
+ORD-2426,2026-09-12,ikeja,Rice 50kg,Ada,1.0,85000.0,cash
+ORD-2427,07/05/2026,Ikeja,Peak Milk,Musa,10.0,9800.0,Cash
+ORD-2427,06-03-2026,LEKKI,Indomie Carton,Tunde,2.0,85000.0,Cash
+ORD-2429,16/09/2026,Lekki,peak milk,Tunde,1.0,85000.0,
+ORD-2430,2026-08-17,Surulere ,Groundnut Oil 5L,Funke,10.0,,POS
+ORD-2431,2026/10/15,Ikeja ,Groundnut Oil 5L,Ada,2.0,9800.0,POS
+ORD-2432,09-21-2026,Surulere ,Indomie Carton,Tunde,5.0,85000.0,POS
+ORD-2433,08-09-2026,ikeja,peak milk,Tunde,1.0,12500.0,cash
+ORD-2434,08-23-2026,ikeja,Rice 50kg,Tunde,2.0,22000.0,TRANSFER
+ORD-2435,2026-10-09,Lekki,Bournvita,Tunde,,12500.0,TRANSFER
+ORD-2436,22/05/2026,Surulere,Groundnut Oil 5L,Ada,3.0,22000.0,TRANSFER
+ORD-2437,2026/07/04,Ikeja ,Groundnut Oil 5L,Funke,1.0,12500.0,
+ORD-2438,2026/10/24,Lekki ,Peak Milk,Ada,1.0,,POS
+ORD-2439,14/10/2026,ikeja,Indomie carton,,3.0,,cash
+ORD-2440,2026-10-27,Ikeja ,Indomie Carton,Ada,2.0,85000.0,Transfer
+ORD-2441,2026/06/20,Ikeja,Peak Milk,Tunde,2.0,12500.0,Cash
+ORD-2442,2026/06/05,Surulere ,Indomie carton,Ada,3.0,12500.0,Cash
+ORD-2443,10-21-2026,LEKKI,Indomie Carton,,2.0,9800.0,TRANSFER
+ORD-2444,11/09/2026,Lekki ,Peak Milk,,3.0,9800.0,TRANSFER
+ORD-2444,24/07/2026,LEKKI,Indomie carton,Chiamaka,3.0,22000.0,TRANSFER
+ORD-2446,15/06/2026,Ikeja ,Rice 50kg,Tunde,,85000.0,Cash
+ORD-2447,2026-10-25,Ikeja,Bournvita,Tunde,5.0,22000.0,POS
+ORD-2448,05-18-2026,Lekki,Rice 50kg,Musa,3.0,12500.0,POS
+ORD-2449,08-18-2026,Ikeja,Groundnut Oil 5L,,10.0,9800.0,TRANSFER
+ORD-2450,29/09/2026,Surulere ,Bournvita,Tunde,5.0,18500.0,
+ORD-2451,2026-09-22,ikeja,Bournvita,Chiamaka,3.0,9800.0,TRANSFER
+ORD-2452,23/06/2026,Surulere ,Rice 50KG,Ada,10.0,12500.0,Transfer
+ORD-2453,2026/06/12,ikeja,Indomie Carton,Ada,3.0,12500.0,POS
+ORD-2454,2026/08/17,Lekki,Rice 50kg,,3.0,12500.0,POS
+ORD-2455,2026/08/07,Lekki,Groundnut Oil 5L,,2.0,85000.0,POS
+ORD-2456,10-10-2026,Lekki ,Indomie Carton,Chiamaka,5.0,12500.0,cash
+ORD-2457,2026/09/20,Ikeja ,Indomie carton,,10.0,18500.0,Transfer
+ORD-2458,17/08/2026,Ikeja,Rice 50KG,Musa,3.0,,cash
+ORD-2459,08-22-2026,Lekki ,Peak Milk,Musa,1.0,22000.0,Cash
+ORD-2460,2026-07-04,LEKKI,Rice 50KG,Funke,2.0,,Cash
+ORD-2461,10-26-2026,LEKKI,Indomie carton,Funke,2.0,85000.0,
+ORD-2461,03/09/2026,Ikeja,Rice 50kg,Tunde,3.0,12500.0,
+ORD-2463,04/10/2026,Lekki,Rice 50kg,Chiamaka,,85000.0,Transfer
+ORD-2464,2026-08-22,Lekki,peak milk,,2.0,85000.0,Cash
+ORD-2465,10-20-2026,LEKKI,Groundnut Oil 5L,Chiamaka,1.0,,TRANSFER
+ORD-2466,2026-10-18,Lekki ,Rice 50kg,Tunde,2.0,85000.0,Transfer
+ORD-2467,2026-08-22,Surulere,Bournvita,Funke,2.0,12500.0,TRANSFER
+ORD-2468,07-19-2026,ikeja,peak milk,,3.0,85000.0,Cash
+ORD-2469,2026-05-23,Lekki ,Indomie carton,Tunde,2.0,12500.0,Transfer
+ORD-2470,2026-06-13,Lekki,Peak Milk,Musa,,85000.0,
+ORD-2471,18/07/2026,Lekki ,Indomie carton,Chiamaka,2.0,22000.0,POS
+ORD-2472,11/07/2026,Ikeja,peak milk,,10.0,12500.0,cash
+ORD-2473,06-15-2026,ikeja,Groundnut Oil 5L,Funke,10.0,22000.0,
+ORD-2474,07-30-2026,Ikeja ,Bournvita,,2.0,12500.0,
+ORD-2475,09/06/2026,Ikeja ,Peak Milk,Ada,1.0,85000.0,POS
+ORD-2476,24/05/2026,LEKKI,Groundnut Oil 5L,Funke,,9800.0,Transfer
+ORD-2477,10/09/2026,Ikeja ,Bournvita,Tunde,1.0,18500.0,Transfer
+ORD-2478,2026-10-16,Ikeja ,Rice 50KG,,,85000.0,
+ORD-2478,2026/08/16,Lekki,Rice 50KG,,1.0,12500.0,POS
+ORD-2480,2026/06/11,Lekki,Peak Milk,Chiamaka,,9800.0,Cash
+ORD-2481,30/08/2026,Ikeja ,Indomie carton,Funke,2.0,85000.0,
+ORD-2482,2026-07-16,Lekki ,Rice 50KG,Musa,3.0,85000.0,TRANSFER
+ORD-2483,2026/09/25,Lekki,peak milk,Ada,2.0,9800.0,Transfer
+ORD-2484,06-03-2026,Surulere,Bournvita,Ada,5.0,12500.0,Cash
+ORD-2485,10/08/2026,LEKKI,Peak Milk,Tunde,,12500.0,Cash
+ORD-2486,2026-07-18,Surulere,Groundnut Oil 5L,Chiamaka,3.0,9800.0,Transfer
+ORD-2487,06-09-2026,ikeja,peak milk,Ada,2.0,22000.0,cash
+ORD-2488,2026/09/18,Surulere,Rice 50KG,Musa,2.0,12500.0,cash
+ORD-2489,08/08/2026,Surulere ,Indomie carton,,5.0,18500.0,Transfer
+ORD-2490,2026/09/30,Surulere ,Rice 50KG,Tunde,10.0,85000.0,POS
+ORD-2491,06-30-2026,Ikeja ,Rice 50kg,,5.0,12500.0,POS
+ORD-2492,2026/06/05,Ikeja,peak milk,Musa,2.0,22000.0,Cash
+ORD-2493,2026/07/26,ikeja,Bournvita,Chiamaka,2.0,18500.0,cash
+ORD-2494,2026/10/20,Surulere,Bournvita,Ada,10.0,85000.0,POS
+ORD-2495,2026-10-22,Surulere ,Peak Milk,Tunde,3.0,85000.0,Cash
+ORD-2495,06-11-2026,Lekki ,Indomie Carton,Chiamaka,2.0,85000.0,TRANSFER
+ORD-2497,2026/10/15,Surulere ,Indomie carton,Ada,1.0,12500.0,Cash
+ORD-2498,2026/10/02,LEKKI,peak milk,,10.0,18500.0,cash
+ORD-2499,2026/08/17,Lekki ,Rice 50KG,Tunde,2.0,12500.0,Transfer
+ORD-2500,2026/09/09,Ikeja,Rice 50KG,Ada,10.0,22000.0,Cash
+ORD-2501,2026/09/03,Ikeja ,Bournvita,,1.0,18500.0,Cash
+ORD-2502,10-20-2026,Lekki ,Bournvita,Ada,2.0,,TRANSFER
+ORD-2503,2026-08-15,LEKKI,Peak Milk,Tunde,10.0,,POS
+ORD-2504,2026/05/10,LEKKI,Rice 50kg,Musa,2.0,,Transfer
+ORD-2505,2026/10/10,Lekki,Indomie Carton,Ada,3.0,12500.0,POS
+ORD-2506,2026-05-11,Lekki ,Indomie carton,,5.0,12500.0,POS
+ORD-2507,2026-09-09,Ikeja,Peak Milk,,2.0,85000.0,
+ORD-2508,06-17-2026,LEKKI,peak milk,Tunde,2.0,85000.0,cash
+ORD-2509,05/10/2026,Lekki,Groundnut Oil 5L,Ada,10.0,9800.0,POS
+ORD-2510,24/10/2026,Ikeja ,Groundnut Oil 5L,Funke,2.0,9800.0,TRANSFER
+ORD-2511,2026-07-09,Ikeja,peak milk,Ada,3.0,9800.0,Transfer
+ORD-2512,2026/07/08,Ikeja,peak milk,,3.0,9800.0,Cash
+ORD-2512,2026-06-26,ikeja,Groundnut Oil 5L,Funke,1.0,,
+ORD-2514,2026-08-30,Ikeja ,peak milk,,,85000.0,POS
+ORD-2515,2026/08/27,Lekki ,Rice 50KG,Musa,3.0,12500.0,TRANSFER
+ORD-2516,2026-05-09,Surulere,peak milk,Tunde,10.0,85000.0,TRANSFER
+ORD-2517,07-17-2026,Lekki ,Indomie Carton,,5.0,,cash
+ORD-2518,10-07-2026,Ikeja ,Rice 50kg,Ada,3.0,12500.0,cash
+ORD-2519,05/08/2026,Ikeja,Bournvita,Ada,3.0,22000.0,TRANSFER
+ORD-2520,2026-06-24,Lekki,Indomie Carton,Funke,2.0,22000.0,Transfer
+ORD-2521,2026/06/25,Surulere,peak milk,Funke,2.0,,POS
+ORD-2522,2026/06/27,Lekki ,Indomie Carton,Tunde,,85000.0,cash
+ORD-2523,08-11-2026,LEKKI,Indomie carton,Ada,3.0,12500.0,TRANSFER
+ORD-2524,2026/08/07,Lekki ,Indomie carton,Ada,3.0,18500.0,cash
+ORD-2525,2026-10-04,ikeja,Rice 50kg,Ada,5.0,12500.0,Cash
+ORD-2526,2026-10-23,Lekki ,Groundnut Oil 5L,,3.0,12500.0,Cash
+ORD-2527,03/08/2026,Surulere ,Groundnut Oil 5L,Chiamaka,3.0,12500.0,cash
+ORD-2528,2026-05-17,ikeja,Rice 50KG,Musa,3.0,9800.0,TRANSFER
+ORD-2529,01/07/2026,Ikeja ,Indomie carton,Tunde,5.0,12500.0,TRANSFER
+ORD-2529,2026-08-27,Lekki,Rice 50KG,Ada,3.0,22000.0,
+ORD-2531,2026/05/19,Ikeja,peak milk,Funke,3.0,85000.0,
+ORD-2532,05-16-2026,Lekki,Rice 50kg,Ada,3.0,12500.0,
+ORD-2533,2026-08-18,Ikeja,Rice 50KG,Tunde,2.0,12500.0,Transfer
+ORD-2534,08-14-2026,LEKKI,Indomie Carton,Chiamaka,3.0,,Transfer
+ORD-2535,2026-07-24,Ikeja ,Groundnut Oil 5L,Tunde,10.0,18500.0,
+ORD-2536,2026/07/15,Ikeja ,Groundnut Oil 5L,,10.0,,cash
+ORD-2537,06-07-2026,LEKKI,Bournvita,Ada,1.0,12500.0,Transfer
+ORD-2538,06-10-2026,Lekki ,Rice 50KG,Tunde,10.0,9800.0,
+ORD-2539,06-07-2026,Ikeja ,Bournvita,Ada,3.0,12500.0,POS
+ORD-2540,2026-06-07,ikeja,Rice 50kg,Funke,5.0,9800.0,POS
+ORD-2541,12/10/2026,Surulere ,Indomie carton,,3.0,,TRANSFER
+ORD-2542,2026/09/12,Lekki ,peak milk,Chiamaka,3.0,12500.0,cash
+ORD-2543,06-27-2026,Surulere ,Rice 50kg,Musa,2.0,,Transfer
+ORD-2544,2026/07/31,Surulere,Bournvita,Tunde,2.0,22000.0,TRANSFER
+ORD-2545,2026-10-18,Ikeja,Groundnut Oil 5L,Ada,5.0,,
+ORD-2546,2026-09-19,Lekki,Rice 50KG,Ada,2.0,9800.0,cash
+ORD-2546,24/10/2026,ikeja,Groundnut Oil 5L,Musa,10.0,12500.0,
+ORD-2548,09-19-2026,Ikeja ,Peak Milk,Tunde,1.0,9800.0,
+ORD-2549,16/05/2026,ikeja,Indomie Carton,Musa,3.0,9800.0,Transfer
+ORD-2550,2026-07-21,Ikeja ,Indomie carton,Musa,2.0,85000.0,cash
+ORD-2551,2026-06-20,Lekki,Indomie carton,Musa,2.0,12500.0,TRANSFER
+ORD-2552,2026/05/29,Ikeja ,Bournvita,Musa,1.0,85000.0,TRANSFER
+ORD-2553,10-01-2026,Ikeja ,Rice 50kg,Tunde,10.0,85000.0,
+ORD-2554,10-13-2026,Surulere,Rice 50KG,Funke,3.0,9800.0,TRANSFER
+ORD-2555,2026/10/08,ikeja,Rice 50KG,Tunde,10.0,9800.0,Transfer
+ORD-2556,04/09/2026,Ikeja ,Rice 50kg,Chiamaka,,12500.0,Cash
+ORD-2557,27/07/2026,Surulere ,Bournvita,Musa,2.0,12500.0,Cash
+ORD-2558,2026/07/21,ikeja,Groundnut Oil 5L,Tunde,10.0,9800.0,
+ORD-2559,10/06/2026,LEKKI,Groundnut Oil 5L,Ada,3.0,,Transfer
+ORD-2560,2026/10/15,Surulere,Peak Milk,Funke,,12500.0,Transfer
+ORD-2561,06-07-2026,LEKKI,Indomie carton,,10.0,,
+ORD-2562,2026/08/17,Lekki ,Rice 50KG,Ada,3.0,9800.0,Cash
+ORD-2563,13/10/2026,Surulere ,Rice 50kg,Tunde,2.0,,POS
+ORD-2563,07-15-2026,Ikeja,Groundnut Oil 5L,Ada,5.0,9800.0,POS
+ORD-2565,2026/06/25,Surulere ,peak milk,Funke,,22000.0,Cash
+ORD-2566,2026/08/31,Lekki,Groundnut Oil 5L,Ada,3.0,,
+ORD-2567,2026/10/03,Surulere ,Indomie carton,Ada,5.0,9800.0,Cash
+ORD-2568,08-21-2026,Ikeja,Rice 50KG,Tunde,10.0,,cash
+ORD-2569,08/06/2026,Surulere,Indomie Carton,Funke,,85000.0,TRANSFER
+ORD-2570,07-23-2026,ikeja,Indomie Carton,Funke,3.0,22000.0,
+ORD-2571,2026/08/01,Ikeja,Peak Milk,Musa,2.0,,Transfer
+ORD-2572,08-01-2026,Lekki ,Indomie carton,Musa,5.0,12500.0,
+ORD-2573,2026/05/31,LEKKI,Bournvita,Ada,1.0,12500.0,cash
+ORD-2574,2026/05/05,Ikeja ,Rice 50kg,Ada,1.0,,TRANSFER
+ORD-2575,2026-10-10,Lekki ,Indomie carton,Tunde,10.0,,TRANSFER
+ORD-2576,2026/09/24,Lekki,Indomie Carton,Musa,3.0,18500.0,Cash
+ORD-2577,06-08-2026,Surulere ,Bournvita,Tunde,3.0,12500.0,Transfer
+ORD-2578,08-11-2026,Lekki ,Indomie carton,Ada,2.0,85000.0,TRANSFER
+ORD-2579,2026/07/22,Surulere ,Rice 50kg,Chiamaka,1.0,22000.0,POS
+ORD-2580,09-25-2026,ikeja,Rice 50KG,Chiamaka,3.0,22000.0,Transfer
+ORD-2580,2026-05-26,Surulere,Groundnut Oil 5L,Ada,10.0,12500.0,Transfer
+ORD-2582,28/06/2026,Lekki ,Indomie Carton,Musa,,,POS
+ORD-2583,06-25-2026,Surulere,peak milk,Ada,10.0,22000.0,Transfer
+ORD-2584,22/08/2026,Ikeja ,Indomie Carton,Ada,2.0,85000.0,Cash
+ORD-2585,2026/06/22,Ikeja ,Indomie carton,Tunde,2.0,22000.0,Cash
+ORD-2586,2026/05/31,Surulere,Indomie Carton,,3.0,22000.0,
+ORD-2587,05-24-2026,Lekki ,peak milk,Tunde,5.0,22000.0,POS
+ORD-2588,2026/08/06,Lekki,Indomie carton,Ada,1.0,85000.0,Cash
+ORD-2589,08-20-2026,Lekki ,Rice 50KG,Musa,10.0,18500.0,
+ORD-2590,07-10-2026,Lekki,peak milk,Ada,3.0,85000.0,Transfer
+ORD-2591,10/09/2026,ikeja,Peak Milk,Chiamaka,1.0,12500.0,
+ORD-2592,10-17-2026,Ikeja ,Rice 50kg,,1.0,22000.0,TRANSFER
+ORD-2593,14/06/2026,Surulere ,Peak Milk,Chiamaka,2.0,12500.0,POS
+ORD-2594,06-22-2026,Lekki,Peak Milk,Ada,1.0,12500.0,
+ORD-2595,05-07-2026,Lekki ,Bournvita,Ada,,85000.0,cash
+ORD-2596,2026/09/16,Ikeja,Peak Milk,Chiamaka,2.0,85000.0,Transfer
+ORD-2597,2026/05/24,Lekki,Rice 50kg,Tunde,,22000.0,Cash
+ORD-2597,2026-06-04,Ikeja ,Indomie carton,Funke,2.0,12500.0,cash
+ORD-2599,10-16-2026,Ikeja ,Bournvita,Tunde,3.0,,cash
+ORD-2600,09/09/2026,Ikeja ,Groundnut Oil 5L,Chiamaka,3.0,22000.0,Transfer
+ORD-2601,2026-10-05,Lekki,Indomie Carton,Musa,2.0,9800.0,Transfer
+ORD-2602,08-27-2026,LEKKI,Peak Milk,Chiamaka,10.0,,POS
+ORD-2603,2026-08-07,Surulere ,Rice 50KG,Musa,3.0,85000.0,Transfer
+ORD-2604,2026/06/11,Ikeja,Peak Milk,,1.0,22000.0,Cash
+ORD-2605,2026/10/08,Ikeja ,Indomie carton,Tunde,,22000.0,Transfer
+ORD-2606,07-11-2026,Ikeja ,Bournvita,,3.0,18500.0,Transfer
+ORD-2607,2026-10-17,LEKKI,Rice 50KG,,3.0,12500.0,TRANSFER
+ORD-2608,2026-10-12,LEKKI,Indomie Carton,Chiamaka,,85000.0,Cash
+ORD-2609,09-18-2026,ikeja,Indomie carton,Chiamaka,2.0,18500.0,POS
+ORD-2610,07/09/2026,LEKKI,Indomie carton,Ada,2.0,18500.0,TRANSFER
+ORD-2611,06-20-2026,ikeja,Peak Milk,Chiamaka,5.0,85000.0,TRANSFER
+ORD-2612,04/08/2026,Ikeja,Rice 50KG,Tunde,5.0,12500.0,
+ORD-2613,06-21-2026,Surulere,Groundnut Oil 5L,Ada,3.0,85000.0,cash
+ORD-2614,08-28-2026,LEKKI,peak milk,Chiamaka,2.0,12500.0,
+ORD-2614,09-20-2026,LEKKI,Rice 50kg,Musa,2.0,9800.0,
+ORD-2616,2026/06/06,Lekki,Rice 50kg,Chiamaka,2.0,12500.0,Transfer
+ORD-2617,29/09/2026,Surulere ,Peak Milk,Musa,2.0,85000.0,POS
+ORD-2618,2026-08-11,Lekki,Groundnut Oil 5L,Chiamaka,10.0,12500.0,Transfer
+ORD-2619,2026-05-03,Ikeja ,Peak Milk,Funke,10.0,,TRANSFER
+ORD-2620,2026-07-16,Lekki,Indomie carton,Tunde,5.0,12500.0,Transfer
+ORD-2621,08-06-2026,Lekki,Rice 50KG,Tunde,10.0,85000.0,
+ORD-2622,14/07/2026,Ikeja ,peak milk,Tunde,3.0,12500.0,Cash
+ORD-2623,2026-08-16,Lekki ,Groundnut Oil 5L,Tunde,3.0,85000.0,POS
+ORD-2624,10-18-2026,LEKKI,Bournvita,,,85000.0,Cash
+ORD-2625,2026/09/27,Ikeja,Indomie Carton,Musa,3.0,22000.0,TRANSFER
+ORD-2626,2026/09/21,Surulere ,Bournvita,Ada,2.0,12500.0,Cash
+ORD-2627,07-01-2026,Lekki,Indomie Carton,Ada,2.0,18500.0,cash
+ORD-2628,2026-09-24,Ikeja,Rice 50KG,Ada,3.0,12500.0,
+ORD-2629,05-07-2026,Surulere ,Rice 50kg,Tunde,5.0,12500.0,POS
+ORD-2630,07-31-2026,Surulere ,Rice 50kg,,3.0,9800.0,Transfer
+ORD-2631,08-26-2026,LEKKI,Indomie carton,Chiamaka,1.0,,Transfer
+ORD-2631,2026-09-05,Lekki ,peak milk,,,12500.0,POS
+ORD-2633,2026/05/24,ikeja,Rice 50KG,,10.0,18500.0,TRANSFER
+ORD-2634,2026/07/07,Ikeja ,Peak Milk,,2.0,22000.0,POS
+ORD-2635,2026-07-22,Ikeja ,Rice 50KG,Tunde,3.0,12500.0,Transfer
+ORD-2636,2026-10-06,LEKKI,Bournvita,Musa,3.0,85000.0,Cash
+ORD-2637,07-27-2026,Lekki,peak milk,Ada,10.0,12500.0,Transfer
+ORD-2638,22/07/2026,Surulere ,Indomie Carton,Tunde,10.0,18500.0,Cash
+ORD-2639,04/09/2026,ikeja,Peak Milk,Musa,10.0,85000.0,Transfer
+ORD-2640,05-04-2026,ikeja,Indomie carton,Musa,5.0,12500.0,Cash
+ORD-2641,14/08/2026,Ikeja ,Indomie carton,Ada,2.0,22000.0,
+ORD-2642,08-19-2026,Surulere ,Bournvita,,,9800.0,Transfer
+ORD-2643,22/07/2026,Lekki ,Rice 50KG,Chiamaka,2.0,12500.0,Cash
+ORD-2644,29/07/2026,Ikeja ,Rice 50KG,Tunde,2.0,22000.0,POS
+ORD-2645,2026/09/29,Ikeja,Indomie carton,Tunde,3.0,12500.0,Transfer
+ORD-2646,31/08/2026,Ikeja,Indomie carton,Tunde,1.0,,
+ORD-2647,2026/05/08,Lekki ,Indomie Carton,Ada,10.0,9800.0,
+ORD-2648,07-19-2026,Surulere,peak milk,,5.0,12500.0,Transfer
+ORD-2648,2026-10-04,Surulere ,Peak Milk,,,85000.0,TRANSFER
+ORD-2650,11/06/2026,Lekki,Indomie Carton,Musa,2.0,85000.0,TRANSFER
+ORD-2651,05-31-2026,Surulere,Peak Milk,Tunde,1.0,12500.0,Cash
+ORD-2652,2026/10/26,Surulere ,peak milk,Chiamaka,2.0,85000.0,POS
+ORD-2653,2026/06/15,Surulere,Indomie Carton,Funke,10.0,,cash
+ORD-2654,21/06/2026,Lekki,Peak Milk,,10.0,85000.0,
+ORD-2655,09-12-2026,Lekki,Rice 50KG,Ada,3.0,18500.0,TRANSFER
+ORD-2656,2026-06-13,Ikeja,Rice 50kg,Ada,,18500.0,Cash
+ORD-2657,09-23-2026,Lekki ,peak milk,Tunde,10.0,85000.0,Transfer
+ORD-2658,2026-07-28,ikeja,Indomie carton,Chiamaka,3.0,22000.0,TRANSFER
+ORD-2659,07/09/2026,Lekki ,Peak Milk,Tunde,3.0,12500.0,Cash
+ORD-2660,05-28-2026,Ikeja,Indomie Carton,Chiamaka,10.0,9800.0,TRANSFER
+ORD-2661,02/10/2026,Surulere,Indomie Carton,,3.0,22000.0,cash
+ORD-2662,26/07/2026,Surulere ,Indomie carton,,2.0,18500.0,Transfer
+ORD-2663,05-11-2026,ikeja,Indomie carton,Ada,5.0,85000.0,cash
+ORD-2664,17/09/2026,Lekki,Indomie Carton,Funke,,85000.0,POS
+ORD-2665,2026/10/08,Surulere,Indomie carton,Ada,5.0,9800.0,cash
+ORD-2665,2026-09-03,Surulere ,Indomie Carton,,3.0,85000.0,TRANSFER
+ORD-2667,2026-07-13,Ikeja ,peak milk,Ada,10.0,12500.0,Transfer
+ORD-2668,2026-05-13,Lekki,Bournvita,Ada,3.0,,POS
+ORD-2669,2026/10/23,Surulere ,Groundnut Oil 5L,Chiamaka,,85000.0,TRANSFER
+ORD-2670,26/08/2026,Lekki ,Rice 50kg,Musa,5.0,18500.0,
+ORD-2671,2026-06-22,Lekki ,Indomie Carton,Ada,5.0,12500.0,cash
+ORD-2672,07-01-2026,ikeja,Indomie Carton,Chiamaka,10.0,85000.0,cash
+ORD-2673,09/06/2026,ikeja,Rice 50KG,Musa,2.0,85000.0,TRANSFER
+ORD-2674,10-15-2026,LEKKI,peak milk,Ada,10.0,22000.0,
+ORD-2675,11/07/2026,Ikeja,peak milk,Tunde,2.0,85000.0,POS
+ORD-2676,02/06/2026,Ikeja,peak milk,Tunde,1.0,12500.0,
+ORD-2677,18/05/2026,Lekki,Indomie Carton,,3.0,12500.0,Transfer
+ORD-2678,07-12-2026,LEKKI,peak milk,Tunde,10.0,9800.0,Cash
+ORD-2679,21/06/2026,Surulere ,Groundnut Oil 5L,Ada,2.0,12500.0,cash
+ORD-2680,2026/05/10,Ikeja ,Indomie Carton,Chiamaka,2.0,22000.0,Cash
+ORD-2681,21/08/2026,Lekki,Groundnut Oil 5L,Tunde,2.0,,TRANSFER
+ORD-2682,2026-05-12,Ikeja,Groundnut Oil 5L,Chiamaka,5.0,,POS
+ORD-2682,2026-06-21,LEKKI,Peak Milk,Ada,,12500.0,cash
+ORD-2684,17/06/2026,Surulere,Bournvita,,2.0,22000.0,
+ORD-2685,07-02-2026,Ikeja ,Rice 50kg,Chiamaka,3.0,18500.0,Transfer
+ORD-2686,2026-08-13,Lekki ,Rice 50kg,Chiamaka,2.0,18500.0,
+ORD-2687,27/05/2026,Lekki ,Rice 50KG,Ada,1.0,12500.0,cash
+ORD-2688,2026-06-27,Ikeja,Rice 50kg,Tunde,2.0,18500.0,Cash
+ORD-2689,24/08/2026,Ikeja ,peak milk,Tunde,10.0,85000.0,TRANSFER
+ORD-2690,2026/06/09,LEKKI,Rice 50KG,,3.0,12500.0,Transfer
+ORD-2691,05/07/2026,Surulere,Bournvita,,3.0,85000.0,
+ORD-2692,2026/05/11,Ikeja,peak milk,Ada,10.0,12500.0,
+ORD-2693,2026/06/23,ikeja,peak milk,Ada,3.0,,cash
+ORD-2694,08-27-2026,Ikeja ,Indomie carton,,3.0,85000.0,POS
+ORD-2695,25/06/2026,Surulere ,Peak Milk,Musa,5.0,22000.0,
+ORD-2696,10-12-2026,Lekki ,Indomie carton,Musa,2.0,,cash
+ORD-2697,2026/07/16,Surulere,Indomie carton,Ada,2.0,12500.0,Transfer
+ORD-2698,2026/09/10,ikeja,Rice 50KG,Chiamaka,3.0,85000.0,cash
+ORD-2699,09/07/2026,Ikeja,Groundnut Oil 5L,Ada,2.0,12500.0,TRANSFER
+ORD-2699,28/08/2026,ikeja,Peak Milk,Chiamaka,2.0,,cash
+ORD-2701,2026-05-22,Lekki ,Rice 50kg,Ada,2.0,18500.0,Cash
+ORD-2702,21/06/2026,Lekki ,Indomie Carton,Musa,,,POS
+ORD-2703,08-30-2026,Lekki,Rice 50KG,Chiamaka,,12500.0,POS
+ORD-2704,2026/06/11,LEKKI,Indomie Carton,Tunde,3.0,12500.0,TRANSFER
+ORD-2705,24/10/2026,Surulere ,Peak Milk,Tunde,3.0,9800.0,
+ORD-2706,2026/06/04,Surulere,Indomie carton,Tunde,2.0,85000.0,cash
+ORD-2707,21/08/2026,Ikeja ,Peak Milk,Tunde,1.0,,Cash
+ORD-2708,2026-08-03,Ikeja ,Rice 50KG,Chiamaka,,18500.0,Transfer
+ORD-2709,19/10/2026,LEKKI,peak milk,,3.0,18500.0,POS
+ORD-2710,2026/10/07,Lekki,Rice 50KG,Chiamaka,3.0,85000.0,POS
+ORD-2711,09-03-2026,LEKKI,Groundnut Oil 5L,Chiamaka,10.0,85000.0,Cash
+ORD-2712,08-19-2026,ikeja,Bournvita,Ada,10.0,12500.0,POS
+ORD-2713,2026-06-03,Ikeja ,Indomie Carton,Ada,,85000.0,POS
+ORD-2714,2026-08-08,Surulere ,Groundnut Oil 5L,Funke,3.0,85000.0,
+ORD-2715,08-13-2026,Surulere ,Rice 50KG,Chiamaka,,85000.0,POS
+ORD-2716,2026-07-08,LEKKI,Groundnut Oil 5L,Tunde,3.0,9800.0,
+ORD-2716,2026-06-02,Lekki,Rice 50KG,Musa,2.0,85000.0,Cash
+ORD-2718,24/09/2026,Surulere,Rice 50KG,Tunde,2.0,12500.0,Cash
+ORD-2719,2026/06/09,Ikeja,Rice 50kg,,,18500.0,
+ORD-2720,2026-06-21,Lekki,Indomie Carton,Chiamaka,1.0,12500.0,Cash
+ORD-2721,2026-06-23,Lekki,Rice 50kg,Tunde,2.0,22000.0,cash
+ORD-2722,04/09/2026,Lekki ,Groundnut Oil 5L,Tunde,3.0,22000.0,POS
+ORD-2723,21/05/2026,Ikeja,Indomie carton,Musa,3.0,85000.0,POS
+ORD-2724,18/06/2026,Surulere,Groundnut Oil 5L,,2.0,18500.0,Transfer
+ORD-2725,09-07-2026,Surulere,peak milk,Musa,10.0,85000.0,cash
+ORD-2726,10-15-2026,LEKKI,Rice 50KG,Funke,5.0,85000.0,Transfer
+ORD-2727,2026-07-28,Lekki,Rice 50kg,Ada,2.0,12500.0,Cash
+ORD-2728,09-28-2026,Ikeja ,Rice 50kg,Tunde,2.0,,TRANSFER
+ORD-2729,08-31-2026,LEKKI,Rice 50KG,Tunde,3.0,,POS
+ORD-2730,28/09/2026,Ikeja ,Rice 50KG,Ada,5.0,22000.0,
+ORD-2731,2026/07/23,Lekki ,peak milk,Tunde,3.0,12500.0,cash
+ORD-2732,2026-08-16,Ikeja ,Peak Milk,Chiamaka,3.0,85000.0,POS
+ORD-2733,2026/05/04,Surulere ,Peak Milk,Chiamaka,2.0,,Transfer
+ORD-2733,2026/08/09,Surulere,Groundnut Oil 5L,Chiamaka,2.0,85000.0,POS
+ORD-2735,09/08/2026,Lekki ,Groundnut Oil 5L,Funke,1.0,12500.0,TRANSFER
+ORD-2736,2026/10/03,LEKKI,Groundnut Oil 5L,Ada,5.0,12500.0,cash
+ORD-2737,2026-05-28,Surulere,Indomie carton,,1.0,,
+ORD-2738,2026/09/10,Ikeja ,Bournvita,Musa,3.0,22000.0,cash
+ORD-2739,07-26-2026,Ikeja ,Rice 50kg,Ada,10.0,12500.0,TRANSFER
+ORD-2740,04/08/2026,Lekki,Peak Milk,,10.0,,TRANSFER
+ORD-2741,2026/08/03,Ikeja ,Indomie Carton,Musa,1.0,12500.0,Transfer
+ORD-2742,07-11-2026,Lekki ,Groundnut Oil 5L,,,12500.0,
+ORD-2743,29/09/2026,ikeja,Peak Milk,Musa,,22000.0,cash
+ORD-2744,07/08/2026,Ikeja ,Rice 50kg,,,18500.0,Cash
+ORD-2745,2026/08/24,Ikeja ,Indomie carton,Musa,10.0,18500.0,POS
+ORD-2746,03/07/2026,Surulere,Rice 50KG,Ada,1.0,12500.0,POS
+ORD-2747,2026/07/21,Lekki ,Indomie carton,,3.0,9800.0,TRANSFER
+ORD-2748,16/05/2026,ikeja,Groundnut Oil 5L,Funke,2.0,9800.0,Transfer
+ORD-2749,06/07/2026,Surulere ,peak milk,Chiamaka,1.0,9800.0,POS
+ORD-2750,2026/08/03,Ikeja,Rice 50kg,Chiamaka,2.0,18500.0,cash
+ORD-2750,05-28-2026,Surulere ,Peak Milk,Tunde,3.0,,POS
+ORD-2752,28/09/2026,ikeja,Indomie carton,,10.0,12500.0,Cash
+ORD-2753,03/08/2026,Lekki,Rice 50kg,,,12500.0,
+ORD-2754,10/08/2026,Surulere ,Rice 50kg,,2.0,,TRANSFER
+ORD-2755,2026-09-08,Ikeja,Bournvita,Chiamaka,,85000.0,cash
+ORD-2756,27/05/2026,Lekki,Indomie Carton,Musa,3.0,12500.0,Cash
+ORD-2757,08-14-2026,Lekki ,Rice 50KG,Tunde,,18500.0,cash
+ORD-2758,25/10/2026,Surulere ,Rice 50kg,Tunde,2.0,85000.0,Transfer
+ORD-2759,28/06/2026,Ikeja ,Peak Milk,Ada,2.0,9800.0,
+ORD-2760,2026-05-11,Ikeja,Rice 50kg,Musa,5.0,12500.0,Transfer
+ORD-2761,2026/08/08,Surulere,Peak Milk,Ada,,,TRANSFER
+ORD-2762,2026-09-18,LEKKI,Indomie carton,Ada,1.0,85000.0,Transfer
+ORD-2763,05-02-2026,Ikeja,Groundnut Oil 5L,Tunde,5.0,12500.0,TRANSFER
+ORD-2764,2026-06-08,Lekki ,Peak Milk,Funke,2.0,22000.0,POS
+ORD-2765,10-03-2026,Lekki ,peak milk,,3.0,22000.0,Transfer
+ORD-2766,10-14-2026,Lekki ,Bournvita,Tunde,2.0,18500.0,Cash
+ORD-2767,2026-05-29,Ikeja ,peak milk,Ada,5.0,12500.0,Cash
+ORD-2767,09-29-2026,ikeja,Groundnut Oil 5L,,10.0,22000.0,cash
+ORD-2769,2026-09-08,Ikeja,Groundnut Oil 5L,Funke,10.0,22000.0,Cash
+ORD-2770,2026/09/05,ikeja,Peak Milk,,,22000.0,cash
+ORD-2771,09-21-2026,Surulere ,Peak Milk,Musa,3.0,12500.0,Cash
+ORD-2772,05-03-2026,Lekki,Rice 50kg,Ada,1.0,85000.0,POS
+ORD-2773,05-14-2026,Ikeja ,peak milk,Musa,3.0,18500.0,
+ORD-2774,2026/07/11,ikeja,peak milk,Ada,,18500.0,POS
+ORD-2775,2026/07/07,Ikeja,Indomie Carton,Musa,10.0,12500.0,Cash
+ORD-2776,2026-05-29,Ikeja,Indomie carton,Musa,3.0,85000.0,cash
+ORD-2777,17/05/2026,LEKKI,Bournvita,Musa,1.0,12500.0,Cash
+ORD-2778,2026/09/05,Surulere ,peak milk,Tunde,1.0,85000.0,cash
+ORD-2779,07-11-2026,Surulere,Rice 50kg,Tunde,1.0,18500.0,Transfer
+ORD-2780,2026/06/30,LEKKI,Rice 50kg,Ada,10.0,22000.0,
+ORD-2781,05-13-2026,Ikeja,peak milk,,3.0,22000.0,Cash
+ORD-2782,08-04-2026,Lekki ,Indomie carton,Chiamaka,3.0,12500.0,POS
+ORD-2783,2026/08/04,Lekki ,peak milk,,3.0,85000.0,POS
+ORD-2784,2026-08-19,Surulere,Indomie carton,Funke,2.0,,Transfer
+ORD-2784,16/09/2026,Lekki ,Rice 50KG,Ada,3.0,12500.0,POS
+ORD-2786,2026/06/22,Surulere,Rice 50KG,Tunde,3.0,12500.0,cash
+ORD-2787,05/07/2026,Lekki,Rice 50kg,Musa,2.0,85000.0,
+ORD-2788,2026/08/04,Lekki ,Indomie carton,Ada,2.0,,Transfer
+ORD-2789,2026/10/11,Lekki ,peak milk,Chiamaka,2.0,22000.0,
+ORD-2790,2026-06-06,ikeja,Rice 50kg,Funke,2.0,12500.0,Transfer
+ORD-2791,2026-06-18,Surulere ,Bournvita,Ada,5.0,18500.0,Cash
+ORD-2792,2026-10-22,LEKKI,Indomie Carton,Tunde,5.0,12500.0,POS
+ORD-2793,2026/10/17,Ikeja ,Indomie Carton,Ada,2.0,,
+ORD-2794,06-23-2026,LEKKI,Rice 50KG,Ada,2.0,,TRANSFER
+ORD-2795,09-05-2026,Ikeja ,Rice 50kg,,3.0,85000.0,Cash
+ORD-2796,08-17-2026,LEKKI,Indomie carton,Tunde,2.0,18500.0,Cash
+ORD-2797,08-30-2026,Surulere ,Rice 50kg,Tunde,3.0,18500.0,Cash
+ORD-2798,26/07/2026,ikeja,Indomie Carton,Tunde,3.0,85000.0,Cash
+ORD-2799,2026/10/05,Lekki ,Bournvita,Tunde,3.0,22000.0,Cash
+ORD-2800,06/09/2026,Surulere,Rice 50kg,Tunde,3.0,18500.0,POS
+ORD-2801,2026/10/26,Surulere ,Rice 50kg,Chiamaka,10.0,18500.0,cash
+ORD-2801,10-01-2026,LEKKI,Peak Milk,Ada,1.0,9800.0,Cash
+ORD-2803,02/09/2026,Surulere,Indomie Carton,Ada,5.0,12500.0,cash
+ORD-2804,16/06/2026,Surulere,peak milk,,1.0,9800.0,
+ORD-2805,26/05/2026,Ikeja ,Groundnut Oil 5L,Chiamaka,3.0,18500.0,Transfer
+ORD-2806,2026/10/26,Ikeja,Indomie carton,Ada,3.0,,
+ORD-2807,05-09-2026,Lekki ,Indomie Carton,Ada,2.0,12500.0,TRANSFER
+ORD-2808,07-07-2026,Surulere ,Indomie Carton,Tunde,2.0,18500.0,cash
+ORD-2809,2026-06-11,ikeja,Peak Milk,Chiamaka,2.0,85000.0,
+ORD-2810,2026-08-31,ikeja,Indomie carton,Chiamaka,,9800.0,TRANSFER
+ORD-2811,21/06/2026,Surulere ,Indomie Carton,Funke,1.0,22000.0,Transfer
+ORD-2812,2026-09-08,Surulere ,Rice 50kg,Tunde,,85000.0,TRANSFER
+ORD-2813,21/07/2026,LEKKI,Rice 50kg,Tunde,10.0,12500.0,Transfer
+ORD-2814,2026-06-24,ikeja,Indomie carton,Chiamaka,3.0,12500.0,cash
+ORD-2815,2026/05/18,Lekki,Peak Milk,Tunde,3.0,12500.0,TRANSFER
+ORD-2816,06-27-2026,Surulere,Groundnut Oil 5L,Ada,2.0,,Cash
+ORD-2817,08/05/2026,Surulere ,Rice 50kg,,,85000.0,cash
+ORD-2818,2026/10/05,Ikeja ,Groundnut Oil 5L,Chiamaka,3.0,12500.0,Transfer
+ORD-2818,2026-10-01,LEKKI,Indomie carton,Ada,2.0,85000.0,Cash
+ORD-2820,2026/07/11,Lekki,Peak Milk,Funke,1.0,,cash
+ORD-2821,2026/08/29,Lekki ,Bournvita,Ada,,9800.0,
+ORD-2822,2026/10/25,Surulere,Indomie carton,,,18500.0,TRANSFER
+ORD-2823,13/07/2026,Lekki,Bournvita,,10.0,9800.0,POS
+ORD-2824,06-19-2026,ikeja,Groundnut Oil 5L,Ada,,9800.0,POS
+ORD-2825,10-24-2026,LEKKI,peak milk,Musa,5.0,12500.0,
+ORD-2826,26/09/2026,Lekki ,Rice 50KG,Tunde,5.0,12500.0,
+ORD-2827,2026/06/16,LEKKI,Groundnut Oil 5L,,5.0,,Transfer
+ORD-2828,09-15-2026,Surulere ,Indomie carton,Chiamaka,10.0,12500.0,POS
+ORD-2829,2026/09/18,Lekki,Bournvita,Ada,2.0,85000.0,Cash
+ORD-2830,09-18-2026,ikeja,Bournvita,Ada,3.0,12500.0,Transfer
+ORD-2831,2026-09-30,LEKKI,Rice 50kg,Tunde,2.0,12500.0,cash
+ORD-2832,2026-06-16,Surulere ,Rice 50KG,,2.0,12500.0,Cash
+ORD-2833,09-18-2026,Ikeja,Indomie Carton,Chiamaka,10.0,18500.0,Cash
+ORD-2834,2026-05-03,Surulere ,Groundnut Oil 5L,,1.0,85000.0,TRANSFER
+ORD-2835,29/06/2026,LEKKI,Bournvita,Funke,2.0,22000.0,TRANSFER
+ORD-2835,09-19-2026,Lekki ,Groundnut Oil 5L,Musa,3.0,85000.0,Transfer
+ORD-2837,05-24-2026,Surulere ,Groundnut Oil 5L,Tunde,1.0,12500.0,Cash
+ORD-2838,2026/07/01,Lekki,Groundnut Oil 5L,Chiamaka,2.0,22000.0,Transfer
+ORD-2839,07-01-2026,ikeja,Bournvita,Ada,2.0,85000.0,TRANSFER
+ORD-2840,2026-05-26,Surulere ,Indomie carton,Ada,5.0,22000.0,
+ORD-2841,2026/10/05,Ikeja ,Indomie carton,Ada,3.0,85000.0,TRANSFER
+ORD-2842,09-12-2026,LEKKI,Groundnut Oil 5L,,3.0,85000.0,Cash
+ORD-2843,04/08/2026,Ikeja ,peak milk,Tunde,3.0,22000.0,TRANSFER
+ORD-2844,06-25-2026,Surulere ,Peak Milk,,2.0,22000.0,cash
+ORD-2845,2026/08/06,LEKKI,Groundnut Oil 5L,Ada,10.0,22000.0,
+ORD-2846,08-08-2026,ikeja,Indomie Carton,,3.0,85000.0,cash
+ORD-2847,2026-08-17,Ikeja,Indomie carton,Ada,2.0,12500.0,POS
+ORD-2848,2026/07/06,Lekki ,Groundnut Oil 5L,Chiamaka,10.0,,Transfer
+ORD-2849,2026-08-02,ikeja,Groundnut Oil 5L,Musa,1.0,85000.0,Cash
+ORD-2850,05-21-2026,Surulere,Indomie Carton,Tunde,1.0,9800.0,Transfer
+ORD-2851,17/06/2026,LEKKI,Peak Milk,Ada,2.0,9800.0,POS
+ORD-2852,2026-10-06,Surulere,Indomie Carton,Chiamaka,5.0,18500.0,POS
+ORD-2852,05/05/2026,Ikeja ,peak milk,Tunde,3.0,22000.0,Cash
+ORD-2854,08-27-2026,Lekki,Bournvita,Chiamaka,3.0,18500.0,Transfer
+ORD-2855,06-13-2026,Surulere,Groundnut Oil 5L,Ada,1.0,,TRANSFER
+ORD-2856,2026/05/13,Ikeja,peak milk,Chiamaka,3.0,12500.0,Transfer
+ORD-2857,2026/07/02,ikeja,Rice 50KG,Chiamaka,10.0,12500.0,
+ORD-2858,2026/05/18,Lekki,Groundnut Oil 5L,Chiamaka,3.0,85000.0,Cash
+ORD-2859,2026/09/18,LEKKI,Indomie carton,Tunde,3.0,85000.0,
+ORD-2860,2026/06/12,Lekki ,peak milk,Chiamaka,10.0,85000.0,Cash
+ORD-2861,2026/05/30,ikeja,Indomie Carton,Ada,,9800.0,cash
+ORD-2862,02/09/2026,LEKKI,Rice 50KG,Ada,1.0,,Transfer
+ORD-2863,10-14-2026,Surulere ,Peak Milk,Ada,3.0,12500.0,Transfer
+ORD-2864,2026/07/04,Surulere,Rice 50kg,Ada,5.0,12500.0,cash
+ORD-2865,2026/06/03,Ikeja ,Rice 50KG,Ada,5.0,12500.0,Transfer
+ORD-2866,05-14-2026,Surulere,Indomie Carton,Tunde,10.0,,cash
+ORD-2867,2026/09/09,Surulere ,Indomie Carton,Ada,10.0,,cash
+ORD-2868,19/07/2026,Lekki,Rice 50KG,Ada,,22000.0,Cash
+ORD-2869,08/09/2026,Surulere,Bournvita,,1.0,85000.0,Cash
+ORD-2869,07-28-2026,Ikeja ,peak milk,Funke,,12500.0,POS
+ORD-2871,2026-08-19,Ikeja,Indomie Carton,Tunde,3.0,12500.0,Transfer
+ORD-2872,06/06/2026,Surulere ,Rice 50KG,Musa,3.0,9800.0,Cash
+ORD-2873,2026-05-11,Surulere ,Bournvita,Funke,2.0,22000.0,Cash
+ORD-2874,15/08/2026,Surulere,Groundnut Oil 5L,Ada,2.0,22000.0,TRANSFER
+ORD-2875,2026-06-11,LEKKI,Groundnut Oil 5L,Funke,1.0,18500.0,
+ORD-2876,2026/06/12,Ikeja ,Indomie Carton,Tunde,5.0,12500.0,Cash
+ORD-2877,07-06-2026,Ikeja ,Rice 50KG,,,12500.0,TRANSFER
+ORD-2878,2026/05/06,Surulere,Bournvita,Tunde,5.0,22000.0,POS
+ORD-2879,05-14-2026,Lekki ,Bournvita,Funke,3.0,85000.0,Cash
+ORD-2880,27/08/2026,Surulere,Groundnut Oil 5L,Tunde,5.0,22000.0,
+ORD-2881,09-23-2026,Lekki ,peak milk,Funke,2.0,85000.0,Cash
+ORD-2882,2026-07-20,ikeja,Peak Milk,Ada,3.0,18500.0,cash
+ORD-2883,05-08-2026,Surulere ,Peak Milk,,2.0,12500.0,Cash
+ORD-2884,10/08/2026,LEKKI,Groundnut Oil 5L,Ada,3.0,12500.0,cash
+ORD-2885,26/07/2026,ikeja,Bournvita,,5.0,12500.0,TRANSFER
+ORD-2886,2026-05-22,Surulere ,Indomie Carton,Chiamaka,2.0,18500.0,TRANSFER
+ORD-2886,2026-05-14,Surulere ,Indomie carton,Tunde,2.0,12500.0,Transfer
+ORD-2888,10-21-2026,Ikeja,Peak Milk,Tunde,10.0,,Cash
+ORD-2889,2026-05-10,Surulere,Bournvita,Ada,,18500.0,TRANSFER
+ORD-2890,2026-09-03,Ikeja,Groundnut Oil 5L,Funke,3.0,85000.0,TRANSFER
+ORD-2891,2026/05/17,LEKKI,Indomie Carton,Funke,10.0,12500.0,Transfer
+ORD-2892,2026/05/09,Lekki,Indomie carton,,5.0,9800.0,
+ORD-2893,09-08-2026,Surulere,Indomie carton,Funke,3.0,,
+ORD-2894,10-18-2026,Surulere ,peak milk,Musa,5.0,9800.0,Transfer
+ORD-2895,2026-05-21,Ikeja ,Peak Milk,Tunde,3.0,85000.0,Transfer
+ORD-2896,05-19-2026,Lekki,Indomie carton,,3.0,12500.0,
+ORD-2897,2026-08-13,Lekki ,Groundnut Oil 5L,Funke,3.0,85000.0,
+ORD-2898,2026/06/10,ikeja,Indomie carton,Musa,1.0,,POS
+ORD-2899,08/08/2026,Lekki,Rice 50kg,Tunde,1.0,9800.0,cash
+ORD-2900,2026/07/23,Surulere ,Rice 50KG,,3.0,12500.0,TRANSFER
+ORD-2901,2026-08-15,Surulere,Rice 50kg,Tunde,3.0,9800.0,POS
+ORD-2902,2026/09/09,Surulere,Rice 50kg,Funke,3.0,22000.0,Transfer
+ORD-2903,10-09-2026,Surulere,peak milk,,1.0,85000.0,TRANSFER
+ORD-2903,01/09/2026,Lekki ,Rice 50KG,Musa,1.0,18500.0,Transfer
+ORD-2905,2026-08-20,Lekki ,Bournvita,Tunde,2.0,22000.0,
+ORD-2906,2026-07-25,LEKKI,Indomie carton,Ada,1.0,9800.0,TRANSFER
+ORD-2907,03/10/2026,Lekki,Indomie carton,,2.0,12500.0,TRANSFER
+ORD-2908,2026-10-14,ikeja,Indomie carton,Musa,10.0,9800.0,
+ORD-2909,13/09/2026,LEKKI,peak milk,Ada,10.0,85000.0,Transfer
+ORD-2910,2026-08-19,Ikeja ,Groundnut Oil 5L,Tunde,2.0,85000.0,POS
+ORD-2911,05/09/2026,Surulere ,Rice 50kg,Funke,10.0,85000.0,Cash
+ORD-2912,17/09/2026,ikeja,peak milk,Ada,,12500.0,
+ORD-2913,2026-08-31,Surulere ,Indomie Carton,Tunde,,22000.0,Transfer
+ORD-2914,15/08/2026,LEKKI,Peak Milk,Ada,10.0,9800.0,Transfer
+ORD-2915,2026-07-19,Surulere,Rice 50KG,Tunde,2.0,9800.0,Transfer
+ORD-2916,09/07/2026,Lekki,Rice 50kg,Tunde,5.0,18500.0,cash
+ORD-2917,09-01-2026,Lekki ,Indomie Carton,Tunde,3.0,18500.0,POS
+ORD-2918,06-18-2026,Lekki,Rice 50KG,Ada,3.0,85000.0,TRANSFER
+ORD-2919,27/07/2026,Lekki,Indomie Carton,Musa,3.0,12500.0,cash
+ORD-2920,2026-08-19,Lekki ,Rice 50kg,Ada,,85000.0,Transfer
+ORD-2920,2026/06/28,Surulere,Groundnut Oil 5L,Tunde,3.0,18500.0,cash
+ORD-2922,2026/05/10,Lekki ,Rice 50KG,Musa,5.0,85000.0,Cash
+ORD-2923,2026-08-15,Lekki ,Rice 50kg,,,,cash
+ORD-2924,29/09/2026,Lekki,Peak Milk,Tunde,2.0,18500.0,cash
+ORD-2925,07-02-2026,Lekki ,Indomie Carton,Ada,1.0,,POS
+ORD-2926,18/10/2026,Ikeja,Indomie Carton,Funke,1.0,9800.0,cash
+ORD-2927,05-20-2026,Surulere,Bournvita,Tunde,,85000.0,cash
+ORD-2928,05-07-2026,LEKKI,Bournvita,,2.0,85000.0,Transfer
+ORD-2929,2026-05-30,Lekki,Peak Milk,Funke,2.0,,POS
+ORD-2930,2026-09-27,Lekki ,Indomie Carton,Musa,3.0,22000.0,Cash
+ORD-2931,09-19-2026,LEKKI,Bournvita,Tunde,2.0,9800.0,cash
+ORD-2932,10-16-2026,Ikeja,Bournvita,Funke,2.0,18500.0,
+ORD-2933,2026-09-28,Ikeja,Peak Milk,Tunde,2.0,18500.0,cash
+ORD-2934,2026-09-16,Ikeja,Indomie carton,Funke,,85000.0,Transfer
+ORD-2935,2026-06-17,ikeja,Indomie Carton,Ada,,12500.0,cash
+ORD-2936,2026-08-13,ikeja,Peak Milk,Funke,3.0,22000.0,TRANSFER
+ORD-2937,19/08/2026,ikeja,Indomie carton,Ada,5.0,85000.0,Transfer
+ORD-2937,2026/09/29,LEKKI,Rice 50KG,Funke,3.0,85000.0,POS
+ORD-2939,2026/10/13,ikeja,Indomie Carton,Ada,2.0,9800.0,Cash
+ORD-2940,25/09/2026,Surulere ,Groundnut Oil 5L,Tunde,10.0,12500.0,
+ORD-2941,2026-07-03,ikeja,Peak Milk,Tunde,1.0,22000.0,
+ORD-2942,2026-05-29,Surulere ,Peak Milk,Musa,5.0,9800.0,
+ORD-2943,27/07/2026,Lekki,Rice 50kg,Tunde,2.0,18500.0,Transfer
+ORD-2944,2026/08/14,Surulere,Indomie Carton,Funke,,,cash
+ORD-2945,30/07/2026,ikeja,Peak Milk,Musa,5.0,85000.0,cash
+ORD-2946,2026-07-04,Ikeja ,Bournvita,Ada,2.0,85000.0,cash
+ORD-2947,09-12-2026,Surulere,Rice 50kg,Musa,1.0,12500.0,cash
+ORD-2948,11/07/2026,Lekki,Bournvita,Ada,3.0,9800.0,Cash
+ORD-2949,17/07/2026,Ikeja ,Indomie Carton,Tunde,3.0,,Transfer
+ORD-2950,2026/06/11,LEKKI,Indomie carton,Musa,2.0,9800.0,cash
+ORD-2951,07/08/2026,Surulere,Rice 50kg,Chiamaka,5.0,12500.0,Cash
+ORD-2952,07-09-2026,LEKKI,Rice 50KG,Ada,10.0,18500.0,Cash
+ORD-2953,04/07/2026,Lekki,Indomie Carton,Chiamaka,5.0,9800.0,
+ORD-2954,2026/07/23,Ikeja ,Rice 50kg,,3.0,85000.0,Cash
+ORD-2954,2026/07/18,Ikeja ,Groundnut Oil 5L,Funke,3.0,18500.0,
+ORD-2956,2026/05/25,LEKKI,Groundnut Oil 5L,Tunde,2.0,,TRANSFER
+ORD-2957,07-26-2026,ikeja,Groundnut Oil 5L,Tunde,,85000.0,Transfer
+ORD-2958,2026-09-21,Lekki ,Indomie carton,Tunde,5.0,85000.0,Cash
+ORD-2959,2026/06/22,Surulere,Groundnut Oil 5L,Ada,2.0,85000.0,TRANSFER
+ORD-2960,26/06/2026,Lekki,Indomie Carton,Musa,3.0,12500.0,POS
+ORD-2961,2026/09/28,Lekki,Rice 50kg,Tunde,10.0,85000.0,POS
+ORD-2962,2026-06-30,Ikeja ,Groundnut Oil 5L,Tunde,2.0,,POS
+ORD-2963,16/09/2026,ikeja,Rice 50kg,Ada,3.0,9800.0,cash
+ORD-2964,23/05/2026,ikeja,peak milk,Funke,,18500.0,Cash
+ORD-2965,20/09/2026,Surulere ,Rice 50KG,Ada,,12500.0,
+ORD-2966,14/06/2026,Lekki,Rice 50kg,Musa,10.0,22000.0,
+ORD-2967,20/06/2026,Ikeja,Peak Milk,Funke,5.0,22000.0,cash
+ORD-2968,2026-05-09,Ikeja,Indomie carton,Musa,5.0,12500.0,POS
+ORD-2969,2026/06/10,LEKKI,peak milk,Ada,3.0,18500.0,Cash
+ORD-2970,2026/10/23,Surulere,Rice 50KG,Tunde,1.0,12500.0,Cash
+ORD-2971,2026-08-15,Surulere,Groundnut Oil 5L,Ada,2.0,12500.0,Transfer
+ORD-2971,10/06/2026,Surulere,Bournvita,Tunde,,12500.0,cash
+ORD-2973,06/07/2026,Surulere,Indomie carton,Ada,10.0,,Transfer
+ORD-2974,2026-05-24,Surulere ,Bournvita,Chiamaka,2.0,12500.0,Cash
+ORD-2975,14/10/2026,ikeja,Indomie Carton,Ada,3.0,85000.0,TRANSFER
+ORD-2976,2026-05-13,Surulere,Groundnut Oil 5L,Musa,3.0,22000.0,TRANSFER
+ORD-2977,07-06-2026,Lekki,Rice 50KG,Chiamaka,2.0,9800.0,Transfer
+ORD-2978,05/06/2026,Ikeja,peak milk,Tunde,3.0,22000.0,TRANSFER
+ORD-2979,2026-10-10,Surulere,Indomie carton,,2.0,85000.0,cash
+ORD-2980,2026-05-09,Surulere,Bournvita,Ada,,85000.0,
+ORD-2981,2026-06-12,Ikeja,Rice 50kg,Tunde,2.0,,
+ORD-2982,09-15-2026,ikeja,Indomie carton,Ada,2.0,12500.0,
+ORD-2983,2026-08-06,Ikeja,Peak Milk,Funke,,,POS
+ORD-2984,2026/10/01,LEKKI,Peak Milk,Funke,2.0,12500.0,cash
+ORD-2985,2026-09-06,Lekki,Peak Milk,,3.0,9800.0,cash
+ORD-2986,2026-05-07,Ikeja ,Rice 50kg,Ada,2.0,12500.0,Cash
+ORD-2987,10-10-2026,LEKKI,Groundnut Oil 5L,Tunde,2.0,,POS
+ORD-2988,2026-09-22,LEKKI,Peak Milk,Musa,2.0,85000.0,cash
+ORD-2988,2026-08-03,Surulere,Bournvita,,5.0,,POS
+ORD-2990,2026/10/08,Surulere,peak milk,Ada,1.0,85000.0,cash
+ORD-2991,10-06-2026,ikeja,Groundnut Oil 5L,Ada,2.0,12500.0,TRANSFER
+ORD-2992,2026-07-08,Surulere,Peak Milk,Tunde,2.0,85000.0,cash
+ORD-2993,10-08-2026,LEKKI,Indomie Carton,Chiamaka,1.0,9800.0,TRANSFER
+ORD-2994,05/08/2026,Ikeja ,Indomie carton,Tunde,5.0,22000.0,cash
+ORD-2995,2026/06/06,LEKKI,Groundnut Oil 5L,Funke,3.0,18500.0,
+ORD-2996,2026-06-10,Surulere,Bournvita,Musa,2.0,9800.0,cash
+ORD-2997,05-27-2026,Surulere,Rice 50KG,Funke,2.0,22000.0,Cash
+ORD-2998,2026/10/09,Ikeja ,Rice 50kg,Chiamaka,2.0,9800.0,POS
+ORD-2999,12/08/2026,Lekki ,Bournvita,,1.0,12500.0,POS
+ORD-3000,2026-10-19,Surulere,Bournvita,Tunde,5.0,85000.0,cash
+ORD-3001,2026-09-09,LEKKI,peak milk,Musa,10.0,9800.0,
+ORD-3002,07-10-2026,Lekki,Rice 50KG,Chiamaka,5.0,12500.0,cash
+ORD-3003,2026-10-23,Ikeja,Rice 50KG,Funke,1.0,9800.0,Transfer
+ORD-3004,06-19-2026,ikeja,Groundnut Oil 5L,,5.0,,
+ORD-3005,2026-05-27,Lekki,peak milk,Tunde,5.0,12500.0,
+ORD-3005,03/10/2026,Ikeja ,Indomie carton,Musa,2.0,85000.0,TRANSFER
+ORD-3007,2026/06/04,Lekki,Groundnut Oil 5L,,3.0,22000.0,Transfer
+ORD-3008,2026/05/22,Ikeja,peak milk,,1.0,18500.0,cash
+ORD-3009,03/05/2026,Lekki,Indomie carton,Musa,2.0,85000.0,Cash
+ORD-3010,29/05/2026,Ikeja,Indomie Carton,Ada,,85000.0,Transfer
+ORD-3011,07-07-2026,Surulere ,Rice 50KG,Tunde,3.0,12500.0,
+ORD-3012,08-03-2026,Surulere ,Rice 50kg,Chiamaka,5.0,85000.0,Cash
+ORD-3013,09-12-2026,Lekki,Bournvita,Tunde,2.0,18500.0,TRANSFER
+ORD-3014,2026/09/13,LEKKI,Groundnut Oil 5L,,5.0,85000.0,Cash
+ORD-3015,10/06/2026,Surulere,peak milk,Chiamaka,5.0,12500.0,Cash
+ORD-3016,2026/07/26,ikeja,Indomie carton,Tunde,10.0,,Cash
+ORD-3017,2026/09/11,LEKKI,Rice 50kg,Ada,10.0,12500.0,POS
+ORD-3018,2026/08/10,Ikeja,Rice 50KG,Ada,5.0,12500.0,
+ORD-3019,2026-08-18,Ikeja,Indomie Carton,Ada,2.0,12500.0,Transfer
+ORD-3020,2026-08-10,Ikeja,Groundnut Oil 5L,Ada,,85000.0,cash
+ORD-3021,2026-06-24,Surulere,Indomie carton,Chiamaka,2.0,,Transfer
+ORD-3022,19/08/2026,LEKKI,Rice 50KG,Ada,,85000.0,TRANSFER
+ORD-3022,21/09/2026,Lekki,Indomie carton,Musa,3.0,85000.0,TRANSFER
+ORD-3024,07-01-2026,LEKKI,Bournvita,Ada,1.0,18500.0,TRANSFER
+ORD-3025,2026/06/30,Ikeja ,Groundnut Oil 5L,Chiamaka,,9800.0,cash
+ORD-3026,2026-10-05,Ikeja,Groundnut Oil 5L,Ada,5.0,,Cash
+ORD-3027,09-07-2026,Lekki ,Indomie carton,Tunde,1.0,85000.0,POS
+ORD-3028,05/07/2026,LEKKI,Peak Milk,Ada,1.0,12500.0,TRANSFER
+ORD-3029,05-23-2026,Surulere ,peak milk,Chiamaka,10.0,12500.0,TRANSFER
+ORD-3030,2026-07-24,Lekki ,peak milk,Funke,5.0,12500.0,Cash
+ORD-3031,28/05/2026,LEKKI,Groundnut Oil 5L,Musa,3.0,22000.0,POS
+ORD-3032,2026-08-13,Surulere,peak milk,Tunde,2.0,85000.0,Transfer
+ORD-3033,2026/05/08,Surulere ,Indomie Carton,Chiamaka,3.0,85000.0,
+ORD-3034,07-23-2026,ikeja,Bournvita,Musa,5.0,22000.0,TRANSFER
+ORD-3035,2026/07/28,Surulere,Rice 50kg,Tunde,10.0,85000.0,Transfer
+ORD-3036,08-12-2026,Surulere ,Rice 50KG,Chiamaka,1.0,12500.0,cash
+ORD-3037,2026/07/28,LEKKI,Indomie Carton,Tunde,2.0,85000.0,Transfer
+ORD-3038,20/10/2026,Ikeja,Indomie carton,Musa,2.0,18500.0,TRANSFER
+ORD-3039,06-19-2026,Lekki ,Rice 50KG,Ada,2.0,9800.0,TRANSFER
+ORD-3039,2026-10-08,Surulere,Groundnut Oil 5L,Ada,10.0,9800.0,Transfer
+ORD-3041,2026/10/18,Ikeja ,Groundnut Oil 5L,Ada,1.0,85000.0,cash
+ORD-3042,06/09/2026,Lekki,Rice 50kg,Tunde,2.0,85000.0,Cash
+ORD-3043,2026/05/17,ikeja,Rice 50KG,Ada,1.0,85000.0,TRANSFER
+ORD-3044,2026-07-22,LEKKI,Indomie Carton,Tunde,10.0,18500.0,cash
+ORD-3045,08/10/2026,Surulere,Groundnut Oil 5L,Ada,3.0,85000.0,
+ORD-3046,2026/05/05,Lekki ,Groundnut Oil 5L,Tunde,10.0,9800.0,cash
+ORD-3047,23/08/2026,LEKKI,peak milk,Ada,3.0,85000.0,cash
+ORD-3048,2026-09-20,Surulere,Peak Milk,Tunde,,85000.0,
+ORD-3049,2026-09-22,Ikeja ,peak milk,Funke,1.0,12500.0,Cash
+ORD-3050,20/06/2026,Surulere ,Bournvita,Tunde,2.0,22000.0,Transfer
+ORD-3051,13/06/2026,Lekki,Peak Milk,,,,cash
+ORD-3052,03/05/2026,Lekki,Indomie carton,Chiamaka,2.0,12500.0,
+ORD-3053,2026-08-06,Lekki,Indomie Carton,Musa,3.0,85000.0,cash
+ORD-3054,09-04-2026,ikeja,Rice 50KG,Ada,3.0,12500.0,Cash
+ORD-3055,10-18-2026,ikeja,Groundnut Oil 5L,Funke,3.0,18500.0,POS
+ORD-3056,2026/06/06,Ikeja,Peak Milk,Funke,,85000.0,TRANSFER
+ORD-3056,2026-07-12,Ikeja,Indomie Carton,Musa,2.0,9800.0,cash
+ORD-3058,2026-08-29,ikeja,Bournvita,Chiamaka,2.0,85000.0,cash
+ORD-3059,04/05/2026,Ikeja ,Peak Milk,Tunde,3.0,18500.0,cash
+ORD-3060,2026/09/10,Surulere,Indomie Carton,Chiamaka,5.0,9800.0,TRANSFER
+ORD-3061,18/08/2026,Lekki ,Indomie carton,Musa,3.0,22000.0,Cash
+ORD-3062,26/07/2026,Surulere,Rice 50KG,Tunde,2.0,85000.0,
+ORD-3063,2026-10-22,Ikeja,Indomie carton,Tunde,2.0,85000.0,cash
+ORD-3064,12/08/2026,Ikeja,peak milk,Ada,3.0,22000.0,POS
+ORD-3065,16/10/2026,Ikeja,peak milk,Chiamaka,3.0,18500.0,Transfer
+ORD-3066,08-09-2026,Lekki ,Rice 50KG,Ada,3.0,18500.0,POS
+ORD-3067,23/09/2026,Ikeja ,Indomie Carton,Tunde,10.0,85000.0,TRANSFER
+ORD-3068,2026/09/23,Surulere,Indomie Carton,Tunde,3.0,,TRANSFER
+ORD-3069,10-07-2026,Ikeja,Bournvita,Ada,5.0,85000.0,Transfer
+ORD-3070,02/10/2026,Surulere,Rice 50kg,Ada,,85000.0,
+ORD-3071,10-03-2026,LEKKI,Bournvita,Tunde,3.0,9800.0,
+ORD-3072,2026/10/08,Lekki,Bournvita,Ada,,12500.0,
+ORD-3073,2026/06/30,Ikeja ,Indomie Carton,Tunde,,12500.0,cash
+ORD-3073,2026/10/05,Ikeja ,Groundnut Oil 5L,Funke,3.0,85000.0,cash
+ORD-3075,2026/10/04,Lekki,Indomie Carton,Ada,3.0,12500.0,TRANSFER
+ORD-3076,06-03-2026,Surulere,peak milk,Musa,3.0,12500.0,cash
+ORD-3077,12/10/2026,Ikeja,Rice 50KG,Musa,1.0,85000.0,POS
+ORD-3078,2026/08/08,Ikeja,Bournvita,,1.0,,
+ORD-3079,06-12-2026,Ikeja ,Rice 50kg,Chiamaka,1.0,18500.0,
+ORD-3080,2026/06/16,Lekki ,Rice 50KG,Tunde,10.0,9800.0,TRANSFER
+ORD-3081,10-04-2026,Surulere ,Groundnut Oil 5L,Chiamaka,3.0,,
+ORD-3082,26/06/2026,ikeja,Peak Milk,Tunde,10.0,85000.0,POS
+ORD-3083,10-23-2026,Surulere ,Peak Milk,Chiamaka,10.0,18500.0,TRANSFER
+ORD-3084,08/08/2026,Lekki ,Indomie carton,Chiamaka,3.0,,cash
+ORD-3085,27/05/2026,ikeja,Groundnut Oil 5L,Tunde,,,TRANSFER
+ORD-3086,2026/10/13,Surulere ,Rice 50KG,Funke,,85000.0,cash
+ORD-3087,10-22-2026,Lekki ,Rice 50kg,Funke,,12500.0,Transfer
+ORD-3088,2026-10-20,Ikeja,Groundnut Oil 5L,Tunde,10.0,18500.0,cash
+ORD-3089,09-11-2026,Ikeja ,Peak Milk,Musa,1.0,22000.0,POS
+ORD-3090,08-09-2026,Ikeja,Indomie Carton,Tunde,,22000.0,POS
+ORD-3090,23/07/2026,LEKKI,Indomie carton,Tunde,2.0,,Transfer
+ORD-3092,2026-08-30,Surulere,Rice 50KG,Musa,5.0,85000.0,cash
+ORD-3093,10-06-2026,Ikeja ,Rice 50KG,Chiamaka,1.0,85000.0,
+ORD-3094,30/07/2026,Lekki,Bournvita,Tunde,2.0,85000.0,cash
+ORD-3095,2026-08-31,Lekki,Indomie carton,Funke,1.0,12500.0,POS
+ORD-3096,11/06/2026,Surulere,Groundnut Oil 5L,,,85000.0,TRANSFER
+ORD-3097,2026/09/27,Surulere ,peak milk,Tunde,1.0,,TRANSFER
+ORD-3098,2026/06/05,Ikeja ,Bournvita,,10.0,12500.0,TRANSFER
+ORD-3099,08-02-2026,Lekki ,Bournvita,Funke,,85000.0,Transfer
+ORD-3100,2026/10/25,Surulere,Bournvita,,2.0,18500.0,Cash
+ORD-3101,06-09-2026,Surulere,Rice 50kg,,1.0,85000.0,
+ORD-3102,2026-06-03,ikeja,Groundnut Oil 5L,,2.0,22000.0,POS
+ORD-3103,2026/07/27,Lekki,Groundnut Oil 5L,Ada,1.0,,TRANSFER
+ORD-3104,07-12-2026,ikeja,peak milk,Funke,3.0,18500.0,TRANSFER
+ORD-3105,05/09/2026,Surulere ,peak milk,Ada,3.0,12500.0,cash
+ORD-3106,02/05/2026,Ikeja ,Bournvita,,2.0,12500.0,TRANSFER
+ORD-3107,18/05/2026,Surulere,Rice 50KG,Chiamaka,10.0,22000.0,
+ORD-3107,02/06/2026,Lekki,Peak Milk,Chiamaka,5.0,18500.0,
+ORD-3109,2026-08-05,Ikeja,Bournvita,Tunde,2.0,85000.0,TRANSFER
+ORD-3110,10/06/2026,ikeja,peak milk,Tunde,10.0,12500.0,POS
+ORD-3111,2026-09-10,Ikeja,Peak Milk,Tunde,3.0,85000.0,Transfer
+ORD-3112,07-22-2026,Surulere,Rice 50KG,,3.0,12500.0,TRANSFER
+ORD-3113,2026-06-09,LEKKI,Indomie carton,,3.0,85000.0,Transfer
+ORD-3114,2026/05/27,Lekki,Indomie carton,Ada,2.0,22000.0,TRANSFER
+ORD-3115,2026-06-14,Surulere,Indomie carton,Tunde,2.0,12500.0,
+ORD-3116,22/09/2026,ikeja,Groundnut Oil 5L,Ada,3.0,22000.0,POS
+ORD-3117,14/08/2026,Surulere,Peak Milk,Tunde,3.0,22000.0,
+ORD-3118,30/06/2026,Surulere ,Rice 50KG,Musa,2.0,9800.0,Transfer
+ORD-3119,07-21-2026,Lekki ,Rice 50KG,Funke,5.0,22000.0,cash
+ORD-3120,26/06/2026,Lekki,Indomie carton,Ada,3.0,12500.0,POS
+ORD-3121,2026/07/04,ikeja,Rice 50kg,Tunde,,9800.0,Transfer
+ORD-3122,24/09/2026,Ikeja ,Indomie carton,Tunde,1.0,12500.0,Cash
+ORD-3123,2026/10/18,Surulere,Rice 50kg,Tunde,,22000.0,
+ORD-3124,05/06/2026,Lekki,Groundnut Oil 5L,Chiamaka,3.0,,Transfer
+ORD-3124,2026-08-10,Ikeja,Indomie Carton,Musa,3.0,,Transfer
+ORD-3126,2026/10/03,Ikeja,Rice 50kg,Tunde,10.0,12500.0,POS
+ORD-3127,2026/06/30,ikeja,Rice 50KG,Ada,,12500.0,Cash
+ORD-3128,2026/06/30,ikeja,Rice 50kg,Tunde,10.0,9800.0,TRANSFER
+ORD-3129,28/07/2026,Lekki ,Indomie Carton,Musa,3.0,18500.0,
+ORD-3130,09-28-2026,Lekki,Rice 50kg,Ada,3.0,12500.0,Cash
+ORD-3131,15/10/2026,LEKKI,Groundnut Oil 5L,Ada,3.0,9800.0,TRANSFER
+ORD-3132,22/05/2026,ikeja,Rice 50kg,Tunde,2.0,12500.0,Cash
+ORD-3133,10/10/2026,Lekki,Peak Milk,Chiamaka,2.0,85000.0,Cash
+ORD-3134,2026/08/13,ikeja,Peak Milk,Chiamaka,2.0,12500.0,Cash
+ORD-3135,2026/08/06,Lekki,Indomie Carton,Tunde,2.0,18500.0,Transfer
+ORD-3136,23/08/2026,Surulere,Rice 50kg,,2.0,85000.0,
+ORD-3137,05-10-2026,Ikeja ,Groundnut Oil 5L,Musa,5.0,22000.0,cash
+ORD-3138,17/10/2026,Surulere ,Rice 50KG,Tunde,5.0,85000.0,
+ORD-3139,2026-06-15,LEKKI,Indomie Carton,Tunde,3.0,9800.0,POS
+ORD-3140,05-03-2026,Ikeja,peak milk,Chiamaka,3.0,,Transfer
+ORD-3141,29/09/2026,LEKKI,peak milk,,3.0,85000.0,POS
+ORD-3141,10-18-2026,Surulere ,Indomie Carton,Chiamaka,1.0,22000.0,
+ORD-3143,2026-08-25,Ikeja ,Rice 50kg,Chiamaka,2.0,22000.0,POS
+ORD-3144,09-16-2026,ikeja,peak milk,Ada,,,POS
+ORD-3145,20/05/2026,Surulere,Groundnut Oil 5L,Ada,1.0,9800.0,Transfer
+ORD-3146,01/08/2026,Ikeja ,Rice 50kg,Tunde,2.0,18500.0,Transfer
+ORD-3147,2026-10-01,Ikeja ,Bournvita,Tunde,1.0,12500.0,
+ORD-3148,14/08/2026,Lekki,peak milk,Chiamaka,2.0,85000.0,Transfer
+ORD-3149,06/07/2026,LEKKI,Indomie Carton,Ada,,,Transfer
+ORD-3150,2026-06-01,LEKKI,Rice 50kg,,5.0,85000.0,cash
+ORD-3151,2026-07-18,Ikeja ,Indomie carton,,,85000.0,cash
+ORD-3152,14/06/2026,Lekki ,Rice 50KG,Funke,10.0,85000.0,cash
+ORD-3153,2026-08-20,Lekki,Peak Milk,Tunde,10.0,12500.0,Cash
+ORD-3154,2026-06-23,Ikeja,Indomie Carton,Ada,2.0,85000.0,TRANSFER
+ORD-3155,2026-07-10,ikeja,Indomie Carton,Tunde,3.0,85000.0,Transfer
+ORD-3156,10-19-2026,Surulere ,Rice 50kg,Tunde,1.0,18500.0,Cash
+ORD-3157,2026-10-28,Surulere,Rice 50kg,Tunde,2.0,,Cash
+ORD-3158,27/05/2026,ikeja,Rice 50kg,Ada,2.0,12500.0,cash
+ORD-3158,07-13-2026,ikeja,Rice 50KG,Funke,2.0,85000.0,cash
+ORD-3160,30/05/2026,LEKKI,Groundnut Oil 5L,Ada,2.0,12500.0,Cash
+ORD-3161,2026/08/23,Surulere ,Peak Milk,Ada,,,TRANSFER
+ORD-3162,2026-05-31,LEKKI,Indomie carton,,1.0,22000.0,Transfer
+ORD-3163,2026/07/05,ikeja,peak milk,Ada,3.0,12500.0,cash
+ORD-3164,12/09/2026,Surulere,Indomie Carton,Chiamaka,,18500.0,
+ORD-3165,2026/07/08,Ikeja ,Rice 50kg,Ada,1.0,85000.0,cash
+ORD-3166,2026-05-18,Lekki,Bournvita,Ada,,85000.0,cash
+ORD-3167,2026-05-10,Ikeja ,Indomie carton,Funke,2.0,9800.0,TRANSFER
+ORD-3168,20/07/2026,ikeja,Indomie Carton,Tunde,10.0,85000.0,POS
+ORD-3169,09-28-2026,Surulere,Rice 50kg,Tunde,10.0,85000.0,cash
+ORD-3170,2026/08/27,Ikeja ,Groundnut Oil 5L,Tunde,2.0,22000.0,cash
+ORD-3171,2026-08-06,Surulere ,Bournvita,Chiamaka,2.0,85000.0,Transfer
+ORD-3172,08-31-2026,Ikeja ,Bournvita,Musa,1.0,12500.0,Transfer
+ORD-3173,06-23-2026,Surulere,Rice 50KG,Tunde,2.0,12500.0,TRANSFER
+ORD-3174,2026/06/12,Ikeja ,Rice 50kg,Chiamaka,2.0,9800.0,Cash
+ORD-3175,16/09/2026,ikeja,Indomie carton,Tunde,1.0,12500.0,Cash
+ORD-3175,10-09-2026,Surulere ,Rice 50kg,Tunde,3.0,85000.0,TRANSFER
+ORD-3177,2026-06-07,Lekki,Groundnut Oil 5L,Tunde,,12500.0,cash
+ORD-3178,2026/09/17,Ikeja,Bournvita,Funke,1.0,18500.0,POS
+ORD-3179,31/07/2026,Surulere,Peak Milk,Tunde,2.0,12500.0,TRANSFER
+ORD-3180,2026-05-16,Lekki ,Indomie carton,Funke,1.0,12500.0,TRANSFER
+ORD-3181,2026-08-30,Ikeja,peak milk,Chiamaka,3.0,,Transfer
+ORD-3182,2026-05-24,Surulere ,Indomie Carton,Chiamaka,10.0,85000.0,TRANSFER
+ORD-3183,21/09/2026,Ikeja ,Bournvita,Tunde,3.0,85000.0,
+ORD-3184,05-12-2026,Surulere ,Indomie carton,Musa,1.0,9800.0,
+ORD-3185,05-29-2026,Lekki,Bournvita,Ada,2.0,85000.0,Cash
+ORD-3186,12/07/2026,Ikeja ,Groundnut Oil 5L,,3.0,12500.0,
+ORD-3187,2026/09/26,Surulere ,Rice 50KG,Chiamaka,2.0,12500.0,POS
+ORD-3188,07/08/2026,Ikeja,peak milk,Funke,10.0,85000.0,TRANSFER
+ORD-3189,09-08-2026,Surulere ,Rice 50kg,Chiamaka,10.0,12500.0,Cash
+ORD-3190,2026/05/27,Ikeja ,Rice 50kg,Chiamaka,3.0,,Transfer
+ORD-3191,16/09/2026,Lekki ,Groundnut Oil 5L,Ada,2.0,9800.0,TRANSFER
+ORD-3192,2026-10-05,ikeja,Bournvita,Ada,2.0,22000.0,Transfer
+ORD-3192,2026/09/12,LEKKI,peak milk,Tunde,3.0,12500.0,cash
+ORD-3194,19/05/2026,Ikeja,Indomie Carton,Tunde,2.0,9800.0,TRANSFER
+ORD-3195,2026-08-13,ikeja,Rice 50KG,Musa,3.0,22000.0,Transfer
+ORD-3196,17/06/2026,Ikeja ,peak milk,Ada,1.0,,POS
+ORD-3197,2026-10-27,Lekki ,Indomie Carton,Chiamaka,2.0,,POS
+ORD-3198,2026-07-07,LEKKI,Bournvita,Tunde,3.0,12500.0,cash
+ORD-3199,2026-07-10,Lekki ,Rice 50kg,Ada,5.0,9800.0,cash
+ORD-3200,10/09/2026,Lekki,Indomie carton,Funke,3.0,18500.0,TRANSFER
+ORD-3201,19/09/2026,Ikeja,Rice 50kg,Tunde,2.0,12500.0,POS
+ORD-3202,2026-09-10,Lekki,Indomie carton,Musa,10.0,85000.0,POS
+ORD-3203,2026/09/17,Surulere,peak milk,Musa,2.0,9800.0,
+ORD-3204,09-23-2026,Surulere ,Indomie carton,Tunde,10.0,85000.0,POS
+ORD-3205,2026-05-29,Lekki ,Bournvita,Chiamaka,,85000.0,
+ORD-3206,2026/07/03,Surulere,Rice 50kg,Ada,3.0,,POS
+ORD-3207,2026-08-17,Lekki,Indomie Carton,Musa,3.0,18500.0,TRANSFER
+ORD-3208,2026/07/03,Surulere ,Groundnut Oil 5L,Chiamaka,2.0,,Cash
+ORD-3209,2026/08/06,LEKKI,Rice 50KG,Ada,,85000.0,Cash
+ORD-3209,09-13-2026,Ikeja,Bournvita,Chiamaka,3.0,9800.0,Cash
+ORD-3211,2026/09/20,LEKKI,peak milk,Ada,2.0,9800.0,cash
+ORD-3212,07/07/2026,Surulere ,Rice 50kg,Ada,,85000.0,POS
+ORD-3213,08-22-2026,Lekki ,peak milk,Ada,,12500.0,TRANSFER
+ORD-3214,2026-06-19,Ikeja ,Bournvita,Ada,,22000.0,Transfer
+ORD-3215,06/08/2026,ikeja,Rice 50KG,Chiamaka,10.0,85000.0,cash
+ORD-3216,08-10-2026,Lekki ,Bournvita,,1.0,18500.0,Transfer
+ORD-3217,2026-06-17,Ikeja,Rice 50kg,Chiamaka,2.0,12500.0,Transfer
+ORD-3218,2026/08/31,LEKKI,Peak Milk,Funke,3.0,85000.0,cash
+ORD-3219,2026-05-08,Surulere,Rice 50KG,Tunde,2.0,85000.0,Transfer
+ORD-3220,09-06-2026,LEKKI,Indomie Carton,Ada,2.0,,Cash
+ORD-3221,2026/09/28,Ikeja,Rice 50kg,Tunde,2.0,12500.0,
+ORD-3222,06-14-2026,Ikeja ,Peak Milk,Tunde,5.0,18500.0,Cash
+ORD-3223,07/07/2026,LEKKI,Indomie carton,Ada,3.0,85000.0,Cash
+ORD-3224,06-22-2026,Surulere,Indomie Carton,Musa,3.0,85000.0,
+ORD-3225,2026/07/28,Ikeja ,Rice 50KG,Ada,5.0,85000.0,cash
+ORD-3226,09/09/2026,Lekki ,Peak Milk,Funke,,9800.0,Transfer
+ORD-3226,08-01-2026,Lekki,Groundnut Oil 5L,Ada,,9800.0,Cash
+ORD-3228,2026/07/13,Surulere ,Bournvita,,10.0,,
+ORD-3229,05/06/2026,Surulere,Groundnut Oil 5L,Chiamaka,2.0,18500.0,
+ORD-3230,2026/08/24,Ikeja ,Bournvita,Ada,3.0,18500.0,Transfer
+ORD-3231,2026-06-13,ikeja,Bournvita,Musa,3.0,12500.0,TRANSFER
+ORD-3232,2026-07-30,Surulere ,Peak Milk,Ada,2.0,12500.0,Cash
+ORD-3233,24/07/2026,Surulere ,Groundnut Oil 5L,Ada,1.0,9800.0,cash
+ORD-3234,07/10/2026,ikeja,Rice 50KG,,3.0,9800.0,Transfer
+ORD-3235,2026-09-09,LEKKI,Rice 50kg,Ada,1.0,18500.0,cash
+ORD-3236,28/07/2026,Ikeja ,Bournvita,Funke,2.0,85000.0,POS
+ORD-3237,2026-08-18,LEKKI,Rice 50KG,Musa,10.0,9800.0,TRANSFER
+ORD-3238,2026-08-24,Lekki ,Indomie Carton,Ada,3.0,22000.0,
+ORD-3239,2026/09/15,Lekki ,Groundnut Oil 5L,Funke,2.0,12500.0,TRANSFER
+ORD-3240,07-18-2026,Surulere ,peak milk,Tunde,3.0,85000.0,TRANSFER
+ORD-3241,24/08/2026,Surulere,Indomie carton,Funke,2.0,9800.0,cash
+ORD-3242,04/07/2026,ikeja,Rice 50kg,Funke,2.0,85000.0,Transfer
+ORD-3243,11/09/2026,ikeja,Groundnut Oil 5L,Musa,3.0,12500.0,TRANSFER
+ORD-3243,2026/05/08,Lekki,Peak Milk,Chiamaka,2.0,12500.0,TRANSFER
+ORD-3245,12/06/2026,ikeja,Peak Milk,Tunde,1.0,22000.0,Cash
+ORD-3246,2026-06-14,Lekki,Rice 50kg,Ada,3.0,22000.0,Cash
+ORD-3247,2026-05-30,Surulere ,Indomie carton,Ada,2.0,85000.0,TRANSFER
+ORD-3248,2026-09-18,Ikeja ,peak milk,Funke,2.0,85000.0,Transfer
+ORD-3249,16/05/2026,Lekki ,peak milk,Funke,2.0,9800.0,POS
+ORD-3250,2026/07/10,ikeja,Indomie Carton,Chiamaka,1.0,12500.0,Transfer
+ORD-3251,2026-10-21,Lekki ,Bournvita,Ada,2.0,,Cash
+ORD-3252,2026-06-16,ikeja,Rice 50kg,,3.0,85000.0,POS
+ORD-3253,2026-07-24,Lekki ,peak milk,Ada,3.0,18500.0,cash
+ORD-3254,2026-05-24,Surulere ,peak milk,Ada,2.0,9800.0,
+ORD-3255,24/05/2026,Surulere ,Rice 50KG,Funke,10.0,18500.0,Cash
+ORD-3256,10-05-2026,Ikeja ,Rice 50KG,Tunde,2.0,85000.0,Cash
+ORD-3257,16/08/2026,Ikeja,Rice 50KG,Funke,5.0,85000.0,TRANSFER
+ORD-3258,2026/08/08,Surulere,peak milk,Ada,2.0,12500.0,TRANSFER
+ORD-3259,2026/09/13,ikeja,peak milk,Tunde,2.0,12500.0,POS
+ORD-3260,2026/08/01,Ikeja,Rice 50KG,Tunde,2.0,12500.0,TRANSFER
+ORD-3260,2026-06-02,Ikeja ,peak milk,Tunde,1.0,22000.0,Transfer
+ORD-3262,2026-08-06,Surulere ,Rice 50KG,Funke,3.0,12500.0,Cash
+ORD-3263,08-27-2026,Ikeja,Rice 50KG,,3.0,18500.0,TRANSFER
+ORD-3264,08-25-2026,Lekki ,Indomie Carton,Tunde,3.0,12500.0,
+ORD-3265,02/10/2026,Surulere,Indomie carton,Tunde,10.0,85000.0,Cash
+ORD-3266,2026/06/05,Surulere,Bournvita,Funke,2.0,85000.0,Transfer
+ORD-3267,2026-09-09,Surulere,Peak Milk,Tunde,3.0,,Cash
+ORD-3268,05-27-2026,LEKKI,Rice 50KG,Funke,10.0,12500.0,POS
+ORD-3269,07/09/2026,Ikeja ,Rice 50kg,Ada,,85000.0,TRANSFER
+ORD-3270,2026-05-01,Surulere,Peak Milk,Ada,,12500.0,Cash
+ORD-3271,2026-07-10,Surulere ,Groundnut Oil 5L,Tunde,,85000.0,Transfer
+ORD-3272,15/06/2026,ikeja,Peak Milk,,10.0,12500.0,
+ORD-3273,02/09/2026,LEKKI,Rice 50kg,Chiamaka,1.0,18500.0,
+ORD-3274,2026/06/04,LEKKI,Indomie carton,Tunde,5.0,18500.0,cash
+ORD-3275,05-16-2026,Lekki ,Rice 50kg,Ada,3.0,18500.0,Cash
+ORD-3276,2026-08-27,Lekki,Rice 50KG,Tunde,1.0,12500.0,POS
+ORD-3277,01/08/2026,Surulere,peak milk,Tunde,2.0,85000.0,Cash
+ORD-3277,2026-08-27,Surulere,Groundnut Oil 5L,Ada,1.0,85000.0,TRANSFER
+ORD-3279,2026-07-05,Lekki ,Rice 50kg,Funke,1.0,12500.0,TRANSFER
+ORD-3280,2026/09/23,Lekki ,Bournvita,Ada,5.0,12500.0,TRANSFER
+ORD-3281,09-30-2026,ikeja,peak milk,Funke,,12500.0,cash
+ORD-3282,30/08/2026,Lekki,peak milk,Funke,2.0,12500.0,TRANSFER
+ORD-3283,07-06-2026,Lekki,Groundnut Oil 5L,Ada,2.0,85000.0,Transfer
+ORD-3284,2026/05/18,Lekki ,peak milk,Funke,5.0,12500.0,Transfer
+ORD-3285,26/07/2026,Lekki ,Indomie carton,Ada,10.0,22000.0,TRANSFER
+ORD-3286,2026/05/10,Ikeja,peak milk,Tunde,10.0,85000.0,Transfer
+ORD-3287,09-18-2026,ikeja,Bournvita,Chiamaka,10.0,22000.0,POS
+ORD-3288,2026-06-05,ikeja,peak milk,,10.0,85000.0,POS
+ORD-3289,2026-10-28,Ikeja,Indomie carton,Ada,3.0,9800.0,POS
+ORD-3290,2026/08/02,Ikeja ,Rice 50KG,Chiamaka,,18500.0,Transfer
+ORD-3291,2026-07-23,Surulere,Rice 50kg,Ada,1.0,,cash
+ORD-3292,2026-05-26,LEKKI,Rice 50kg,Tunde,2.0,22000.0,cash
+ORD-3293,07-24-2026,Surulere ,Indomie Carton,Tunde,1.0,12500.0,
+ORD-3294,2026-10-10,Surulere ,Rice 50kg,Ada,3.0,12500.0,
+ORD-3294,2026-10-26,Lekki ,Groundnut Oil 5L,Chiamaka,,9800.0,Cash
+ORD-3296,07-20-2026,Lekki,Peak Milk,Ada,3.0,12500.0,Cash
+ORD-3297,2026-07-21,Surulere,peak milk,,1.0,18500.0,Transfer
+ORD-3298,10-10-2026,Surulere,Rice 50KG,Ada,10.0,12500.0,cash
+ORD-3299,22/08/2026,LEKKI,Rice 50kg,Chiamaka,3.0,18500.0,cash
+ORD-3300,2026-06-29,Ikeja,Rice 50KG,Ada,,85000.0,Cash
+ORD-3301,04/05/2026,Surulere ,Bournvita,Tunde,5.0,9800.0,Cash
+ORD-3302,2026/06/24,LEKKI,Rice 50KG,Ada,3.0,85000.0,TRANSFER
+ORD-3303,2026-10-08,LEKKI,Indomie Carton,Musa,2.0,9800.0,
+ORD-3304,07-02-2026,Lekki ,Peak Milk,,,,Transfer
+ORD-3305,2026-05-09,Ikeja,Rice 50KG,Ada,2.0,18500.0,cash
+ORD-3306,2026-09-18,Ikeja,Rice 50kg,Tunde,2.0,85000.0,TRANSFER
+ORD-3307,12/05/2026,Surulere ,Indomie carton,Tunde,3.0,9800.0,TRANSFER
+ORD-3308,09-23-2026,LEKKI,Peak Milk,Funke,5.0,22000.0,TRANSFER
+ORD-3309,2026/08/09,Lekki ,Groundnut Oil 5L,Tunde,1.0,85000.0,cash
+ORD-3310,25/06/2026,Surulere,Rice 50KG,,,85000.0,Cash
+ORD-3311,07-20-2026,Lekki,Indomie carton,Chiamaka,5.0,85000.0,cash
+ORD-3311,09-15-2026,Surulere,Bournvita,Chiamaka,2.0,12500.0,TRANSFER
+ORD-3313,06-26-2026,Ikeja,Peak Milk,,3.0,22000.0,Cash
+ORD-3314,2026/10/12,Lekki,Rice 50kg,Ada,1.0,85000.0,POS
+ORD-3315,2026-07-02,ikeja,Rice 50kg,Chiamaka,2.0,9800.0,Cash
+ORD-3316,26/06/2026,Lekki,peak milk,Ada,2.0,12500.0,POS
+ORD-3317,22/07/2026,Lekki ,Indomie carton,Tunde,,12500.0,Transfer
+ORD-3318,12/05/2026,Surulere ,Bournvita,Musa,3.0,85000.0,cash
+ORD-3319,08-03-2026,Surulere,Rice 50kg,Chiamaka,3.0,12500.0,Cash
+ORD-3320,25/10/2026,LEKKI,Indomie carton,Ada,3.0,85000.0,cash
+ORD-3321,2026-06-27,Lekki,Indomie Carton,Chiamaka,,12500.0,Transfer
+ORD-3322,05-18-2026,Surulere ,Peak Milk,Tunde,2.0,12500.0,TRANSFER
+ORD-3323,2026-08-20,Ikeja ,Rice 50kg,Tunde,,18500.0,TRANSFER
+ORD-3324,2026-09-18,Surulere ,Groundnut Oil 5L,,,,TRANSFER
+ORD-3325,2026-08-06,Ikeja ,Indomie carton,Ada,3.0,18500.0,POS
+ORD-3326,2026/09/18,ikeja,Indomie carton,Chiamaka,5.0,18500.0,TRANSFER
+ORD-3327,2026-07-19,Ikeja ,Peak Milk,Tunde,10.0,,TRANSFER
+ORD-3328,2026-05-01,Surulere,Peak Milk,Chiamaka,3.0,12500.0,TRANSFER
+ORD-3328,04/06/2026,ikeja,Bournvita,Ada,3.0,22000.0,POS
+ORD-3330,11/07/2026,Lekki,Bournvita,Chiamaka,10.0,12500.0,
+ORD-3331,25/09/2026,Lekki,Indomie Carton,Ada,2.0,,
+ORD-3332,10/10/2026,Surulere,Rice 50kg,Ada,3.0,85000.0,POS
+ORD-3333,2026/08/21,Surulere,Groundnut Oil 5L,,3.0,12500.0,Transfer
+ORD-3334,11/05/2026,Lekki,Groundnut Oil 5L,Tunde,,22000.0,cash
+ORD-3335,10/08/2026,Lekki ,Rice 50kg,Ada,2.0,9800.0,
+ORD-3336,2026/08/25,Ikeja,Rice 50KG,,5.0,12500.0,cash
+ORD-3337,2026-10-23,Lekki,Groundnut Oil 5L,Chiamaka,3.0,18500.0,TRANSFER
+ORD-3338,2026/07/16,Lekki,peak milk,Ada,2.0,12500.0,Transfer
+ORD-3339,07-03-2026,ikeja,Indomie Carton,Tunde,1.0,9800.0,TRANSFER
+ORD-3340,2026-09-23,Surulere ,peak milk,Musa,3.0,12500.0,Cash
+ORD-3341,2026/08/02,Surulere ,Indomie carton,,1.0,85000.0,cash
+ORD-3342,2026/06/29,Surulere ,Indomie carton,Chiamaka,1.0,85000.0,Cash
+ORD-3343,07-17-2026,Surulere ,Rice 50KG,Funke,,85000.0,POS
+ORD-3344,06-20-2026,Ikeja,Indomie carton,Musa,2.0,85000.0,
+ORD-3345,2026/07/17,ikeja,peak milk,Chiamaka,,85000.0,cash
+ORD-3345,2026/06/04,ikeja,Peak Milk,Tunde,3.0,85000.0,Cash
+ORD-3347,14/08/2026,LEKKI,Peak Milk,,10.0,22000.0,
+ORD-3348,2026-10-21,Lekki ,Bournvita,Tunde,3.0,18500.0,TRANSFER
+ORD-3349,2026-07-19,Lekki,peak milk,Ada,3.0,22000.0,POS
+ORD-3350,06-04-2026,ikeja,Groundnut Oil 5L,Tunde,,22000.0,Transfer
+ORD-3351,27/06/2026,Lekki ,Rice 50kg,Funke,,22000.0,Transfer
+ORD-3352,10-28-2026,Ikeja,Groundnut Oil 5L,Tunde,2.0,18500.0,cash
+ORD-3353,2026/08/28,Ikeja,Rice 50KG,Funke,10.0,,cash
+ORD-3354,10-10-2026,Lekki ,Indomie carton,Musa,2.0,9800.0,POS
+ORD-3355,2026/07/09,ikeja,peak milk,Ada,,12500.0,
+ORD-3356,11/07/2026,Surulere ,Indomie Carton,Tunde,2.0,22000.0,Transfer
+ORD-3357,2026-09-15,Lekki ,Bournvita,,,85000.0,TRANSFER
+ORD-3358,11/08/2026,LEKKI,Indomie Carton,,,12500.0,POS
+ORD-3359,2026-06-16,Surulere ,peak milk,Musa,10.0,12500.0,Cash
+ORD-3360,2026-08-03,Ikeja ,Bournvita,Funke,3.0,22000.0,Transfer
+ORD-3361,10-18-2026,Surulere ,Indomie Carton,Musa,10.0,85000.0,Transfer
+ORD-3362,07-21-2026,Surulere,peak milk,Musa,2.0,9800.0,
+ORD-3362,2026/10/16,Ikeja,Indomie carton,Musa,2.0,22000.0,Cash
+ORD-3364,09-13-2026,Ikeja,Rice 50kg,Chiamaka,2.0,12500.0,Transfer
+ORD-3365,05-24-2026,Lekki,Indomie Carton,,,12500.0,Transfer
+ORD-3366,2026/08/19,ikeja,Rice 50KG,Funke,10.0,12500.0,POS
+ORD-3367,19/06/2026,Ikeja ,Rice 50kg,Ada,2.0,12500.0,
+ORD-3368,2026/08/22,Surulere ,Rice 50KG,Tunde,3.0,22000.0,Transfer
+ORD-3369,18/06/2026,Surulere ,peak milk,Tunde,,85000.0,Cash
+ORD-3370,10-09-2026,Lekki,Bournvita,Chiamaka,1.0,85000.0,cash
+ORD-3371,2026-10-14,Lekki,Rice 50kg,Ada,,,Cash
+ORD-3372,05-17-2026,Surulere,Indomie carton,Chiamaka,3.0,12500.0,POS
+ORD-3373,05-07-2026,Ikeja ,Groundnut Oil 5L,Musa,2.0,85000.0,TRANSFER
+ORD-3374,04/09/2026,Lekki,Groundnut Oil 5L,Ada,2.0,18500.0,Transfer
+ORD-3375,29/07/2026,Lekki,Groundnut Oil 5L,Ada,2.0,,Transfer
+ORD-3376,28/07/2026,Ikeja,Peak Milk,,3.0,22000.0,TRANSFER
+ORD-3377,13/06/2026,Lekki ,Groundnut Oil 5L,Tunde,5.0,12500.0,Transfer
+ORD-3378,2026/08/02,ikeja,Peak Milk,Musa,1.0,9800.0,POS
+ORD-3379,2026-08-18,ikeja,Peak Milk,,5.0,85000.0,Cash
+ORD-3379,2026/09/19,Ikeja ,peak milk,Ada,2.0,85000.0,TRANSFER
+ORD-3381,07/09/2026,Surulere,peak milk,Musa,3.0,18500.0,cash
+ORD-3382,01/06/2026,Ikeja,Indomie Carton,Ada,1.0,12500.0,Cash
+ORD-3383,2026/09/04,Lekki ,Groundnut Oil 5L,Funke,3.0,18500.0,TRANSFER
+ORD-3384,2026/07/23,LEKKI,peak milk,Funke,3.0,22000.0,Transfer
+ORD-3385,06/06/2026,Surulere,Groundnut Oil 5L,Ada,5.0,12500.0,
+ORD-3386,28/07/2026,Lekki,Bournvita,Chiamaka,10.0,12500.0,Transfer
+ORD-3387,06-16-2026,Lekki ,peak milk,Musa,1.0,85000.0,POS
+ORD-3388,2026-07-02,Ikeja,peak milk,Tunde,5.0,12500.0,TRANSFER
+ORD-3389,2026-07-10,Ikeja,Bournvita,Musa,2.0,12500.0,Cash
+ORD-3390,06-01-2026,Ikeja ,Rice 50KG,Chiamaka,5.0,9800.0,Cash
+ORD-3391,2026-08-11,Lekki,Groundnut Oil 5L,Funke,2.0,12500.0,
+ORD-3392,2026-08-07,Surulere ,Groundnut Oil 5L,,3.0,,
+ORD-3393,07-21-2026,LEKKI,Indomie carton,Tunde,1.0,,Transfer
+ORD-3394,2026-07-08,Lekki,Rice 50KG,Tunde,2.0,85000.0,TRANSFER
+ORD-3395,2026-05-05,Lekki ,Rice 50KG,Ada,2.0,9800.0,TRANSFER
+ORD-3396,31/07/2026,ikeja,Rice 50KG,Ada,3.0,12500.0,cash
+ORD-3396,2026/06/13,Ikeja,Peak Milk,Chiamaka,1.0,9800.0,
+ORD-3398,2026-06-04,Ikeja,Indomie Carton,Chiamaka,3.0,18500.0,POS
+ORD-3399,2026/10/06,Lekki,Groundnut Oil 5L,Tunde,5.0,85000.0,TRANSFER
+ORD-3400,2026-06-25,Ikeja ,peak milk,Chiamaka,1.0,12500.0,cash
+ORD-3401,02/10/2026,Ikeja ,Indomie carton,Chiamaka,5.0,18500.0,cash
+ORD-3402,2026/10/26,Surulere ,Rice 50kg,Ada,3.0,,POS
+ORD-3403,2026-05-30,ikeja,Groundnut Oil 5L,Ada,10.0,22000.0,POS
+ORD-3404,16/06/2026,LEKKI,Groundnut Oil 5L,Tunde,1.0,,Transfer
+ORD-3405,2026-07-30,Ikeja,Peak Milk,,2.0,18500.0,cash
+ORD-3406,2026/07/12,Surulere ,Bournvita,Ada,10.0,12500.0,
+ORD-3407,2026/09/21,Ikeja,Rice 50kg,Ada,3.0,85000.0,POS
+ORD-3408,2026/07/16,LEKKI,peak milk,Tunde,3.0,85000.0,POS
+ORD-3409,2026/07/28,Lekki,peak milk,Ada,5.0,85000.0,POS
+ORD-3410,07-02-2026,Lekki ,Rice 50kg,,1.0,85000.0,
+ORD-3411,2026/09/28,ikeja,Indomie carton,Funke,5.0,85000.0,TRANSFER
+ORD-3412,2026-05-21,Surulere ,Peak Milk,,3.0,12500.0,Transfer
+ORD-3413,05-13-2026,Surulere ,Groundnut Oil 5L,Tunde,,22000.0,
+ORD-3413,29/05/2026,Ikeja,Peak Milk,Chiamaka,,,cash
+ORD-3415,2026-06-30,Surulere ,Groundnut Oil 5L,,2.0,9800.0,TRANSFER
+ORD-3416,2026/07/12,LEKKI,Rice 50KG,Ada,2.0,,Transfer
+ORD-3417,06-26-2026,LEKKI,Rice 50KG,Funke,10.0,9800.0,Cash
+ORD-3418,03/10/2026,LEKKI,Indomie Carton,Funke,2.0,22000.0,POS
+ORD-3419,08-13-2026,Ikeja ,Bournvita,Ada,5.0,9800.0,TRANSFER
+ORD-3420,09-29-2026,Surulere,Peak Milk,Ada,5.0,85000.0,Transfer
+ORD-3421,03/07/2026,Ikeja ,Groundnut Oil 5L,Tunde,10.0,18500.0,Cash
+ORD-3422,2026/05/30,Ikeja ,Peak Milk,Ada,1.0,12500.0,cash
+ORD-3423,2026/07/13,Lekki ,Bournvita,,,22000.0,POS
+ORD-3424,2026-07-02,Ikeja ,Peak Milk,Ada,3.0,85000.0,POS
+ORD-3425,17/05/2026,LEKKI,peak milk,Musa,10.0,85000.0,TRANSFER
+ORD-3426,28/05/2026,Ikeja,Rice 50kg,Tunde,3.0,,Transfer
+ORD-3427,2026/09/13,Ikeja ,Rice 50KG,Musa,2.0,,POS
+ORD-3428,21/05/2026,Lekki ,Indomie carton,Tunde,1.0,85000.0,POS
+ORD-3429,10-26-2026,Lekki ,Bournvita,Ada,5.0,9800.0,cash
+ORD-3430,09-16-2026,ikeja,Indomie Carton,Ada,2.0,22000.0,Transfer
+ORD-3430,10/06/2026,LEKKI,Peak Milk,Ada,5.0,85000.0,Transfer
+ORD-3432,06-16-2026,ikeja,Bournvita,Ada,3.0,9800.0,Transfer
+ORD-3433,2026/10/17,Lekki,Rice 50kg,Ada,10.0,22000.0,TRANSFER
+ORD-3434,06-06-2026,Surulere ,Rice 50kg,Ada,1.0,,TRANSFER
+ORD-3435,08-21-2026,Ikeja,Peak Milk,Tunde,2.0,12500.0,cash
+ORD-3436,06-23-2026,LEKKI,Groundnut Oil 5L,Ada,1.0,9800.0,Transfer
+ORD-3437,06-11-2026,ikeja,Rice 50KG,Ada,1.0,12500.0,cash
+ORD-3438,10/06/2026,Lekki ,Peak Milk,Musa,3.0,,Transfer
+ORD-3439,05/05/2026,Surulere,Groundnut Oil 5L,,1.0,12500.0,cash
+ORD-3440,2026-06-28,Lekki,Groundnut Oil 5L,Musa,5.0,85000.0,Transfer
+ORD-3441,2026-05-18,LEKKI,peak milk,Ada,3.0,12500.0,cash
+ORD-3442,2026/06/06,Lekki ,Rice 50kg,,3.0,85000.0,POS
+ORD-3443,10-12-2026,ikeja,Rice 50kg,Musa,3.0,9800.0,Cash
+ORD-3444,02/09/2026,Lekki,Peak Milk,Musa,5.0,9800.0,Cash
+ORD-3445,06-02-2026,ikeja,Bournvita,Tunde,3.0,85000.0,Cash
+ORD-3446,11/06/2026,Ikeja,Indomie Carton,Funke,3.0,12500.0,Cash
+ORD-3447,2026/07/06,Lekki ,Rice 50kg,Tunde,3.0,85000.0,cash
+ORD-3447,28/05/2026,Ikeja ,Rice 50KG,Funke,10.0,85000.0,Cash
+ORD-3449,2026/06/09,Surulere ,Rice 50KG,Chiamaka,5.0,12500.0,POS
+ORD-3450,2026-10-01,Lekki,Peak Milk,,3.0,,cash
+ORD-3451,2026/07/03,Surulere ,Bournvita,Musa,10.0,12500.0,
+ORD-3452,26/05/2026,ikeja,Indomie carton,Tunde,2.0,12500.0,Cash
+ORD-3453,06-30-2026,Ikeja,Indomie Carton,Ada,3.0,85000.0,
+ORD-3454,09-02-2026,Ikeja,Indomie Carton,Ada,3.0,85000.0,
+ORD-3455,09-28-2026,ikeja,Peak Milk,,,18500.0,Transfer
+ORD-3456,14/06/2026,Lekki ,Indomie Carton,Chiamaka,3.0,18500.0,cash
+ORD-3457,2026/09/20,Surulere ,Bournvita,Chiamaka,5.0,22000.0,Transfer
+ORD-3458,2026-06-06,Ikeja,Rice 50KG,Ada,10.0,12500.0,Transfer
+ORD-3459,19/06/2026,Surulere ,Rice 50KG,Ada,10.0,85000.0,
+ORD-3460,2026/07/17,ikeja,Groundnut Oil 5L,Ada,10.0,9800.0,POS
+ORD-3461,2026-08-27,Ikeja ,Rice 50KG,Chiamaka,1.0,9800.0,Cash
+ORD-3462,10-04-2026,Lekki ,peak milk,Musa,,18500.0,
+ORD-3463,2026/08/10,Ikeja ,Indomie carton,Musa,10.0,12500.0,Transfer
+ORD-3464,2026/06/17,Lekki ,peak milk,Tunde,5.0,9800.0,cash
+ORD-3464,23/09/2026,Lekki ,Peak Milk,Ada,3.0,,cash
+ORD-3466,06/06/2026,Lekki,peak milk,Ada,,18500.0,
+ORD-3467,2026-05-30,Lekki ,Peak Milk,,3.0,9800.0,cash
+ORD-3468,2026/07/20,ikeja,Rice 50kg,Musa,3.0,,cash
+ORD-3469,06-14-2026,ikeja,Indomie carton,Chiamaka,3.0,85000.0,Cash
+ORD-3470,10-17-2026,Surulere ,peak milk,Ada,2.0,,
+ORD-3471,28/05/2026,Lekki ,Indomie Carton,Ada,5.0,22000.0,Cash
+ORD-3472,2026-10-12,LEKKI,Groundnut Oil 5L,Chiamaka,3.0,18500.0,Transfer
+ORD-3473,2026-07-15,Lekki,Peak Milk,,2.0,,TRANSFER
+ORD-3474,08-11-2026,Surulere,peak milk,Ada,2.0,12500.0,Cash
+ORD-3475,08-08-2026,Lekki,Rice 50KG,Funke,10.0,85000.0,Transfer
+ORD-3476,2026/09/23,Ikeja,Rice 50kg,Tunde,2.0,12500.0,
+ORD-3477,2026/08/08,Ikeja ,Groundnut Oil 5L,Funke,,,cash
+ORD-3478,06-25-2026,LEKKI,Indomie Carton,Chiamaka,2.0,12500.0,Cash
+ORD-3479,20/05/2026,Surulere,peak milk,Chiamaka,3.0,12500.0,Cash
+ORD-3480,06-11-2026,LEKKI,Indomie Carton,Musa,1.0,9800.0,Cash
+ORD-3481,2026/08/29,LEKKI,Indomie carton,Chiamaka,2.0,18500.0,cash
+ORD-3481,2026-05-29,LEKKI,Indomie Carton,Ada,3.0,22000.0,Transfer
+ORD-3483,24/10/2026,Surulere ,peak milk,Ada,2.0,85000.0,Cash
+ORD-3484,09-16-2026,Ikeja,Rice 50KG,Musa,5.0,12500.0,TRANSFER
+ORD-3485,2026-07-22,Surulere ,Groundnut Oil 5L,,2.0,85000.0,Transfer
+ORD-3486,30/07/2026,LEKKI,Groundnut Oil 5L,Ada,5.0,85000.0,TRANSFER
+ORD-3487,2026/08/10,Surulere,Rice 50kg,Chiamaka,1.0,12500.0,cash
+ORD-3488,20/09/2026,Surulere ,Groundnut Oil 5L,Ada,5.0,12500.0,
+ORD-3489,05-22-2026,ikeja,Groundnut Oil 5L,Tunde,3.0,85000.0,
+ORD-3490,27/05/2026,Surulere ,Peak Milk,Ada,2.0,12500.0,TRANSFER
+ORD-3491,18/06/2026,LEKKI,Indomie Carton,Chiamaka,1.0,18500.0,Transfer
+ORD-3492,29/07/2026,ikeja,Peak Milk,Tunde,2.0,22000.0,
+ORD-3493,2026/08/12,Lekki,Indomie carton,Tunde,,85000.0,cash
+ORD-3494,26/09/2026,Lekki,Rice 50kg,Ada,2.0,,
+ORD-3495,07/10/2026,Lekki,Bournvita,Tunde,5.0,18500.0,TRANSFER
+ORD-3496,2026-09-06,Ikeja ,peak milk,,2.0,12500.0,TRANSFER
+ORD-3497,2026/10/17,Surulere ,Groundnut Oil 5L,Chiamaka,10.0,,
+ORD-3498,2026/08/03,Ikeja,Peak Milk,Ada,2.0,85000.0,Transfer
+ORD-3498,23/08/2026,Lekki ,Indomie Carton,Funke,3.0,,TRANSFER
+ORD-3500,10-02-2026,Surulere,Rice 50KG,Ada,,22000.0,
+ORD-3501,2026-09-26,Ikeja,Indomie carton,Tunde,10.0,12500.0,POS
+ORD-3502,09-29-2026,Ikeja ,Peak Milk,Tunde,2.0,85000.0,cash
+ORD-3503,2026/09/19,Surulere ,Indomie carton,Funke,1.0,85000.0,
+ORD-3504,08-12-2026,Ikeja ,Bournvita,Tunde,,9800.0,TRANSFER
+ORD-3505,27/08/2026,ikeja,Bournvita,Funke,2.0,85000.0,cash
+ORD-3506,08-06-2026,Lekki ,Groundnut Oil 5L,Ada,2.0,18500.0,POS
+ORD-3507,2026/10/17,LEKKI,Rice 50KG,Ada,1.0,12500.0,POS
+ORD-3508,11/08/2026,Surulere,Indomie Carton,Tunde,1.0,12500.0,Cash
+ORD-3509,05/05/2026,Surulere ,peak milk,Funke,10.0,85000.0,TRANSFER
+ORD-3510,01/05/2026,LEKKI,Rice 50KG,Ada,2.0,22000.0,POS
+ORD-3511,2026-07-07,Ikeja ,Bournvita,,5.0,12500.0,cash
+ORD-3512,2026-08-03,ikeja,Rice 50kg,Ada,3.0,12500.0,Cash
+ORD-3513,2026/10/21,ikeja,Rice 50kg,Tunde,,85000.0,TRANSFER
+ORD-3514,08-08-2026,Lekki ,Groundnut Oil 5L,Tunde,1.0,,TRANSFER
+ORD-3515,2026/08/19,LEKKI,Groundnut Oil 5L,Ada,3.0,9800.0,TRANSFER
+ORD-3515,2026/06/11,Ikeja ,Rice 50kg,Ada,2.0,12500.0,Cash
+ORD-3517,2026-10-24,Lekki,Groundnut Oil 5L,Ada,2.0,,Transfer
+ORD-3518,2026-06-03,LEKKI,Bournvita,Ada,10.0,9800.0,cash
+ORD-3519,04/08/2026,LEKKI,Rice 50KG,Funke,2.0,85000.0,Cash
+ORD-3520,07-22-2026,Surulere ,Peak Milk,Ada,3.0,18500.0,cash
+ORD-3521,17/06/2026,Surulere,Rice 50KG,Tunde,2.0,12500.0,TRANSFER
+ORD-3522,10-10-2026,Ikeja,Rice 50KG,Tunde,5.0,22000.0,Cash
+ORD-3523,08-08-2026,LEKKI,Indomie carton,Funke,10.0,12500.0,
+ORD-3524,23/07/2026,Lekki ,Rice 50KG,Tunde,5.0,85000.0,Transfer
+ORD-3525,21/05/2026,ikeja,Rice 50KG,Funke,1.0,12500.0,POS
+ORD-3526,2026-10-27,Lekki ,Groundnut Oil 5L,Ada,2.0,12500.0,
+ORD-3527,2026-05-24,ikeja,peak milk,Tunde,3.0,12500.0,Transfer
+ORD-3528,08-17-2026,Surulere,Indomie carton,Musa,3.0,12500.0,TRANSFER
+ORD-3529,13/06/2026,Lekki ,Rice 50KG,Funke,,,Transfer
+ORD-3530,2026-08-12,Lekki ,Peak Milk,,,18500.0,cash
+ORD-3531,05-15-2026,Lekki ,Indomie Carton,Ada,3.0,18500.0,TRANSFER
+ORD-3532,2026/07/06,Ikeja,Rice 50KG,Tunde,10.0,18500.0,POS
+ORD-3532,11/10/2026,LEKKI,Indomie carton,,5.0,,Transfer
+ORD-3534,2026-08-27,LEKKI,Indomie carton,,10.0,18500.0,TRANSFER
+ORD-3535,14/07/2026,LEKKI,Indomie carton,Ada,5.0,9800.0,POS
+ORD-3536,2026-06-19,ikeja,Indomie carton,Musa,1.0,22000.0,cash
+ORD-3537,12/10/2026,Lekki,Indomie Carton,Ada,5.0,22000.0,Cash
+ORD-3538,2026/06/14,Ikeja ,Peak Milk,Tunde,2.0,,Transfer
+ORD-3539,2026-07-20,Ikeja,Bournvita,,2.0,12500.0,Transfer
+ORD-3540,23/07/2026,Lekki,Indomie carton,,10.0,85000.0,
+ORD-3541,2026-09-09,ikeja,Indomie carton,,1.0,18500.0,cash
+ORD-3542,2026/08/06,Ikeja ,Groundnut Oil 5L,Tunde,10.0,9800.0,
+ORD-3543,2026/09/29,Ikeja ,Indomie carton,Tunde,2.0,12500.0,POS
+ORD-3544,09-28-2026,ikeja,Groundnut Oil 5L,Ada,2.0,12500.0,
+ORD-3545,2026-10-04,Surulere ,Bournvita,Ada,,85000.0,Cash
+ORD-3546,2026-09-25,Ikeja,Rice 50KG,Musa,3.0,22000.0,
+ORD-3547,2026/09/16,Lekki ,Peak Milk,Funke,2.0,18500.0,POS
+ORD-3548,09-09-2026,Surulere,Bournvita,Tunde,2.0,9800.0,TRANSFER
+ORD-3549,09-03-2026,Lekki ,Indomie carton,,3.0,,TRANSFER
+ORD-3549,2026-06-06,Surulere,Indomie Carton,Tunde,1.0,12500.0,
+ORD-3551,13/09/2026,Ikeja ,Indomie Carton,Tunde,3.0,9800.0,Cash
+ORD-3552,07-07-2026,Ikeja ,Rice 50kg,Tunde,,9800.0,POS
+ORD-3553,2026/09/11,ikeja,peak milk,Tunde,3.0,12500.0,Cash
+ORD-3554,09-13-2026,Surulere,Groundnut Oil 5L,Ada,1.0,22000.0,TRANSFER
+ORD-3555,2026-09-15,Lekki,Indomie Carton,Funke,5.0,12500.0,POS
+ORD-3556,2026/08/22,Ikeja,Rice 50kg,Ada,3.0,18500.0,POS
+ORD-3557,27/09/2026,Lekki ,Peak Milk,Musa,2.0,85000.0,POS
+ORD-3558,05-04-2026,Lekki,Rice 50KG,Musa,1.0,12500.0,Transfer
+ORD-3559,25/09/2026,Surulere ,Rice 50kg,Tunde,2.0,18500.0,Cash
+ORD-3560,06-04-2026,ikeja,Peak Milk,,3.0,9800.0,Cash
+ORD-3561,10-24-2026,ikeja,peak milk,Tunde,1.0,85000.0,TRANSFER
+ORD-3562,16/05/2026,Lekki,Rice 50kg,Funke,10.0,,Transfer
+ORD-3563,2026/07/27,Ikeja ,Groundnut Oil 5L,Musa,2.0,18500.0,cash
+ORD-3564,06-25-2026,Surulere ,Peak Milk,Ada,3.0,18500.0,TRANSFER
+ORD-3565,2026-10-06,ikeja,Groundnut Oil 5L,Ada,,22000.0,
+ORD-3566,08-02-2026,Lekki ,Rice 50KG,Tunde,2.0,18500.0,
+ORD-3566,05/08/2026,ikeja,Indomie Carton,Tunde,,85000.0,TRANSFER
+ORD-3568,2026/05/26,Surulere,Rice 50KG,Funke,,18500.0,Transfer
+ORD-3569,2026/08/29,Surulere ,Rice 50kg,Chiamaka,3.0,22000.0,cash
+ORD-3570,2026-08-13,Ikeja,Peak Milk,,2.0,85000.0,Transfer
+ORD-3571,07-05-2026,LEKKI,Peak Milk,Tunde,2.0,85000.0,
+ORD-3572,2026/10/07,Surulere ,Indomie Carton,,1.0,18500.0,
+ORD-3573,2026-07-07,ikeja,Rice 50KG,,10.0,85000.0,Cash
+ORD-3574,03/09/2026,Ikeja,Groundnut Oil 5L,Ada,1.0,12500.0,POS
+ORD-3575,17/08/2026,Surulere,Indomie carton,Tunde,2.0,22000.0,POS
+ORD-3576,13/09/2026,LEKKI,Bournvita,,3.0,18500.0,Transfer
+ORD-3577,2026/09/04,Ikeja,peak milk,Funke,1.0,85000.0,
+ORD-3578,2026/10/05,Ikeja,Peak Milk,Funke,3.0,9800.0,POS
+ORD-3579,2026/09/15,Lekki ,Indomie Carton,Chiamaka,5.0,,cash
+ORD-3580,2026/05/06,Lekki,Indomie carton,Tunde,10.0,22000.0,Cash
+ORD-3581,18/07/2026,Surulere ,Bournvita,Tunde,1.0,22000.0,TRANSFER
+ORD-3582,10-14-2026,Ikeja ,Groundnut Oil 5L,Musa,3.0,12500.0,
+ORD-3583,2026/08/30,ikeja,Groundnut Oil 5L,Ada,2.0,9800.0,POS
+ORD-3583,2026-10-07,Lekki,Groundnut Oil 5L,,1.0,85000.0,Transfer
+ORD-3585,10/08/2026,Surulere ,Rice 50kg,,3.0,12500.0,POS
+ORD-3586,15/10/2026,Surulere,Rice 50kg,Musa,10.0,18500.0,Cash
+ORD-3587,2026-06-04,Ikeja,Rice 50KG,Funke,3.0,12500.0,POS
+ORD-3588,10-24-2026,Lekki,Rice 50kg,Tunde,1.0,12500.0,TRANSFER
+ORD-3589,2026-07-01,ikeja,Peak Milk,Ada,10.0,,TRANSFER
+ORD-3590,06-06-2026,Ikeja ,Bournvita,Tunde,2.0,12500.0,Cash
+ORD-3591,2026/09/25,Ikeja ,Peak Milk,Musa,2.0,9800.0,Transfer
+ORD-3592,16/07/2026,Surulere,Rice 50KG,Chiamaka,2.0,12500.0,POS
+ORD-3593,2026-08-16,Ikeja,Bournvita,Tunde,5.0,12500.0,TRANSFER
+ORD-3594,2026/08/06,Ikeja,Rice 50kg,Tunde,5.0,9800.0,
+ORD-3595,04/05/2026,Surulere ,Groundnut Oil 5L,Ada,1.0,12500.0,cash
+ORD-3596,05-09-2026,Surulere,Rice 50kg,Musa,3.0,85000.0,cash
+ORD-3597,2026/06/20,Surulere ,Peak Milk,Ada,2.0,,Cash
+ORD-3598,2026-05-08,Lekki ,Indomie carton,Tunde,3.0,,cash
+ORD-3599,2026/05/07,ikeja,Peak Milk,Musa,,85000.0,TRANSFER
+ORD-3600,2026/10/15,Ikeja ,Indomie Carton,Chiamaka,5.0,85000.0,Transfer
+ORD-3600,2026-09-22,Lekki,Indomie Carton,Tunde,5.0,85000.0,Cash
+ORD-3602,2026-05-31,Surulere ,Indomie carton,Funke,3.0,12500.0,POS
+ORD-3603,29/05/2026,LEKKI,peak milk,Tunde,2.0,12500.0,cash
+ORD-3604,2026/07/02,Ikeja,Indomie carton,Ada,10.0,9800.0,Transfer
+ORD-3605,06-17-2026,ikeja,Bournvita,Chiamaka,10.0,12500.0,Cash
+ORD-3606,16/06/2026,Surulere ,Rice 50kg,Funke,3.0,,Cash
+ORD-3607,2026/08/23,Surulere,Rice 50kg,Chiamaka,10.0,9800.0,cash
+ORD-3608,10-12-2026,Ikeja,Groundnut Oil 5L,,3.0,85000.0,Cash
+ORD-3609,2026/05/21,ikeja,Peak Milk,Funke,3.0,85000.0,
+ORD-3610,10-25-2026,Ikeja,Peak Milk,,10.0,,Cash
+ORD-3611,2026-05-28,Surulere ,Rice 50kg,,3.0,18500.0,TRANSFER
+ORD-3612,10-27-2026,Lekki,Peak Milk,Ada,2.0,85000.0,POS
+ORD-3613,2026/06/24,Ikeja ,peak milk,Ada,2.0,12500.0,Cash
+ORD-3614,2026-07-06,Ikeja,Bournvita,Musa,10.0,12500.0,cash
+ORD-3615,14/07/2026,Lekki,Indomie Carton,Tunde,1.0,12500.0,cash
+ORD-3616,24/09/2026,LEKKI,Rice 50kg,Ada,1.0,85000.0,TRANSFER
+ORD-3617,07-11-2026,Surulere,Groundnut Oil 5L,Ada,,22000.0,POS
+ORD-3617,2026/06/27,Ikeja ,Rice 50kg,,3.0,18500.0,POS
+ORD-3619,2026-06-13,Surulere ,Peak Milk,Chiamaka,3.0,85000.0,Transfer
+ORD-3620,2026-07-24,Ikeja ,Peak Milk,Musa,1.0,,Transfer
+ORD-3621,2026/09/18,Ikeja,Rice 50kg,Musa,1.0,85000.0,POS
+ORD-3622,2026-10-04,Surulere ,Indomie carton,Ada,5.0,18500.0,TRANSFER
+ORD-3623,2026-08-12,Lekki,Indomie Carton,Ada,10.0,18500.0,TRANSFER
+ORD-3624,2026/06/05,Lekki,peak milk,Musa,3.0,22000.0,cash
+ORD-3625,09-16-2026,Ikeja ,Rice 50kg,Funke,2.0,85000.0,TRANSFER
+ORD-3626,08/08/2026,Lekki,peak milk,Ada,3.0,9800.0,Cash
+ORD-3627,2026-08-20,Ikeja,Bournvita,Tunde,5.0,22000.0,
+ORD-3628,2026-09-11,ikeja,Indomie carton,,2.0,18500.0,Cash
+ORD-3629,09-24-2026,Lekki ,Bournvita,Chiamaka,,12500.0,Cash
+ORD-3630,01/08/2026,ikeja,Bournvita,,1.0,18500.0,Transfer
+ORD-3631,08-23-2026,LEKKI,peak milk,Ada,2.0,85000.0,TRANSFER
+ORD-3632,2026/08/19,LEKKI,Bournvita,Chiamaka,10.0,85000.0,
+ORD-3633,2026-07-08,Ikeja,Indomie Carton,Chiamaka,1.0,12500.0,
+ORD-3634,2026/09/09,Lekki,Peak Milk,Funke,3.0,22000.0,Cash
+ORD-3634,09-13-2026,Surulere,peak milk,Tunde,3.0,85000.0,cash
+ORD-3636,06-28-2026,LEKKI,Rice 50KG,Musa,3.0,12500.0,cash
+ORD-3637,2026-08-25,LEKKI,Peak Milk,Ada,5.0,,POS
+ORD-3638,09-19-2026,Lekki,Peak Milk,Tunde,2.0,12500.0,TRANSFER
+ORD-3639,10-09-2026,Lekki,peak milk,,2.0,12500.0,TRANSFER
+ORD-3640,2026-05-09,Ikeja,Bournvita,Tunde,2.0,18500.0,TRANSFER
+ORD-3641,2026/08/18,Surulere,Groundnut Oil 5L,Ada,1.0,9800.0,Cash
+ORD-3642,2026-08-26,Lekki,Peak Milk,Ada,5.0,12500.0,Cash
+ORD-3643,05-18-2026,Surulere,Groundnut Oil 5L,Tunde,3.0,85000.0,Transfer
+ORD-3644,2026/09/05,Ikeja,Bournvita,Ada,,85000.0,POS
+ORD-3645,05-12-2026,ikeja,Bournvita,Chiamaka,10.0,85000.0,Transfer
+ORD-3646,2026-08-07,Ikeja ,peak milk,Tunde,5.0,9800.0,TRANSFER
+ORD-3647,2026/08/02,Lekki,Rice 50KG,Musa,5.0,85000.0,
+ORD-3648,06-30-2026,LEKKI,Indomie carton,Ada,3.0,9800.0,Cash
+ORD-3649,2026-07-21,Ikeja ,peak milk,Chiamaka,3.0,12500.0,cash
+ORD-3650,2026/09/08,Surulere,peak milk,Ada,3.0,85000.0,
+ORD-3651,06-03-2026,Surulere ,Rice 50KG,Tunde,2.0,12500.0,TRANSFER
+ORD-3651,10-07-2026,Ikeja ,peak milk,Tunde,3.0,9800.0,cash
+ORD-3653,2026-08-01,Lekki,Peak Milk,Ada,1.0,22000.0,cash
+ORD-3654,07/06/2026,Lekki,Bournvita,Musa,3.0,9800.0,POS
+ORD-3655,2026/07/18,LEKKI,Groundnut Oil 5L,Ada,10.0,85000.0,TRANSFER
+ORD-3656,2026/07/26,Surulere,Indomie Carton,Funke,3.0,18500.0,TRANSFER
+ORD-3657,25/09/2026,Lekki ,Peak Milk,Ada,,9800.0,cash
+ORD-3658,2026/05/26,LEKKI,Bournvita,Musa,2.0,18500.0,TRANSFER
+ORD-3659,2026/05/01,Lekki,Peak Milk,Musa,3.0,22000.0,POS
+ORD-3660,05-17-2026,ikeja,Rice 50KG,Ada,10.0,12500.0,TRANSFER
+ORD-3661,05-05-2026,Ikeja,peak milk,Tunde,2.0,9800.0,Cash
+ORD-3662,08-03-2026,Ikeja,Peak Milk,Musa,2.0,12500.0,
+ORD-3663,2026-05-08,LEKKI,Indomie Carton,Ada,3.0,22000.0,Cash
+ORD-3664,05/09/2026,LEKKI,peak milk,Tunde,1.0,22000.0,
+ORD-3665,2026-06-11,Surulere ,Rice 50kg,Musa,1.0,22000.0,Cash
+ORD-3666,2026-07-10,Ikeja ,Rice 50kg,Ada,2.0,18500.0,Transfer
+ORD-3667,2026/05/28,LEKKI,Indomie carton,Tunde,2.0,22000.0,TRANSFER
+ORD-3668,2026/10/09,Ikeja ,peak milk,Chiamaka,1.0,18500.0,POS
+ORD-3668,2026/10/10,Ikeja,Bournvita,,2.0,9800.0,POS
+ORD-3670,08-21-2026,Ikeja,Indomie Carton,Musa,2.0,22000.0,POS
+ORD-3671,2026/06/12,Surulere,Indomie Carton,Ada,1.0,12500.0,cash
+ORD-3672,2026-08-28,Surulere,Indomie carton,Ada,1.0,22000.0,Cash
+ORD-3673,09/06/2026,Surulere ,Rice 50kg,Musa,2.0,12500.0,
+ORD-3674,31/05/2026,Surulere ,Bournvita,Tunde,3.0,12500.0,POS
+ORD-3675,2026-09-21,ikeja,Rice 50kg,Ada,3.0,85000.0,Transfer
+ORD-3676,2026-08-28,LEKKI,Rice 50kg,Ada,,,Transfer
+ORD-3677,2026/06/24,LEKKI,Bournvita,Chiamaka,5.0,12500.0,Transfer
+ORD-3678,2026/10/02,Lekki,peak milk,,1.0,85000.0,cash
+ORD-3679,2026/08/08,LEKKI,peak milk,,3.0,85000.0,Cash
+ORD-3680,26/10/2026,Surulere ,Indomie Carton,Tunde,5.0,,POS
+ORD-3681,2026/06/07,Ikeja,Indomie Carton,Tunde,2.0,9800.0,Cash
+ORD-3682,2026-08-02,Ikeja ,Rice 50kg,Funke,5.0,22000.0,Transfer
+ORD-3683,25/09/2026,LEKKI,Groundnut Oil 5L,Funke,2.0,22000.0,TRANSFER
+ORD-3684,05-03-2026,LEKKI,Indomie Carton,Tunde,5.0,85000.0,
+ORD-3685,2026-06-28,Surulere ,Indomie Carton,Chiamaka,1.0,,Cash
+ORD-3685,2026/08/02,Lekki ,Indomie Carton,Funke,2.0,12500.0,cash
+ORD-3687,2026-07-19,ikeja,Groundnut Oil 5L,Tunde,,22000.0,Cash
+ORD-3688,2026/09/05,Lekki ,Rice 50kg,Funke,2.0,9800.0,Transfer
+ORD-3689,29/08/2026,Ikeja ,peak milk,,2.0,,POS
+ORD-3690,09-04-2026,Lekki,Peak Milk,Tunde,2.0,12500.0,Transfer
+ORD-3691,07-27-2026,ikeja,Rice 50KG,Funke,3.0,18500.0,Transfer
+ORD-3692,2026/06/28,Surulere ,Rice 50kg,Ada,3.0,12500.0,Transfer
+ORD-3693,2026/07/11,LEKKI,Bournvita,Tunde,2.0,,cash
+ORD-3694,2026-08-22,Surulere,Rice 50kg,Ada,,18500.0,cash
+ORD-3695,2026/08/01,ikeja,Rice 50kg,Funke,3.0,18500.0,
+ORD-3696,2026-06-25,Ikeja ,Groundnut Oil 5L,Tunde,3.0,85000.0,POS
+ORD-3697,08-22-2026,LEKKI,Groundnut Oil 5L,Tunde,1.0,12500.0,POS
+ORD-3698,13/05/2026,Lekki ,Indomie carton,Chiamaka,3.0,85000.0,POS
+ORD-3699,24/08/2026,LEKKI,peak milk,Funke,2.0,12500.0,Cash
+ORD-3700,2026-06-04,Ikeja ,peak milk,Tunde,2.0,9800.0,
+ORD-3701,18/05/2026,Surulere ,Groundnut Oil 5L,,3.0,12500.0,Transfer
+ORD-3702,31/07/2026,Surulere ,Indomie carton,Musa,2.0,12500.0,TRANSFER
+ORD-3702,2026-10-19,Surulere ,Indomie carton,Funke,1.0,85000.0,TRANSFER
+ORD-3704,10-25-2026,Surulere ,Groundnut Oil 5L,,3.0,85000.0,Transfer
+ORD-3705,23/10/2026,LEKKI,Rice 50kg,Tunde,,85000.0,Transfer
+ORD-3706,08-18-2026,Surulere ,Indomie Carton,Ada,,12500.0,POS
+ORD-3707,2026/05/15,ikeja,Rice 50KG,Tunde,2.0,12500.0,cash
+ORD-3708,2026-08-20,Lekki ,Rice 50KG,Ada,10.0,12500.0,Transfer
+ORD-3709,2026/06/23,LEKKI,Peak Milk,Chiamaka,3.0,12500.0,cash
+ORD-3710,14/06/2026,ikeja,Peak Milk,Tunde,1.0,12500.0,Cash
+ORD-3711,2026/10/14,Lekki,Indomie Carton,Ada,3.0,,TRANSFER
+ORD-3712,2026-06-12,Lekki,Indomie carton,Funke,2.0,85000.0,Transfer
+ORD-3713,2026/09/19,Lekki ,Indomie Carton,Musa,10.0,9800.0,Cash
+ORD-3714,2026-09-26,Lekki ,Peak Milk,Musa,2.0,85000.0,TRANSFER
+ORD-3715,2026-08-14,Surulere,Peak Milk,Tunde,1.0,12500.0,POS
+ORD-3716,2026-05-20,Surulere,peak milk,Ada,10.0,12500.0,TRANSFER
+ORD-3717,05/05/2026,Ikeja,Indomie Carton,Tunde,3.0,12500.0,cash
+ORD-3718,2026-10-23,ikeja,Indomie carton,Ada,1.0,,POS
+ORD-3719,26/08/2026,ikeja,Groundnut Oil 5L,Funke,3.0,85000.0,POS
+ORD-3719,06-10-2026,Surulere ,Groundnut Oil 5L,Tunde,2.0,12500.0,cash
+ORD-3721,08-10-2026,ikeja,Rice 50kg,Funke,5.0,85000.0,Cash
+ORD-3722,26/10/2026,Surulere,Rice 50KG,Musa,,18500.0,Transfer
+ORD-3723,2026-09-16,Ikeja ,Peak Milk,Chiamaka,3.0,12500.0,TRANSFER
+ORD-3724,2026-10-14,Lekki,peak milk,Funke,5.0,,TRANSFER
+ORD-3725,2026/08/16,Surulere ,Rice 50kg,Ada,3.0,85000.0,
+ORD-3726,09-19-2026,Lekki ,Peak Milk,,3.0,12500.0,Transfer
+ORD-3727,2026-08-24,Ikeja ,Bournvita,Ada,,85000.0,POS
+ORD-3728,2026-08-14,Ikeja,peak milk,Chiamaka,3.0,,Cash
+ORD-3729,12/06/2026,Ikeja,Indomie Carton,Tunde,3.0,85000.0,POS
+ORD-3730,2026-07-06,LEKKI,Groundnut Oil 5L,Musa,1.0,9800.0,Transfer
+ORD-3731,22/06/2026,Surulere,Rice 50KG,Ada,5.0,22000.0,Transfer
+ORD-3732,06-09-2026,ikeja,Rice 50KG,,2.0,85000.0,POS
+ORD-3733,07-12-2026,Ikeja,Indomie Carton,Ada,5.0,,Transfer
+ORD-3734,02/07/2026,Surulere ,Bournvita,Chiamaka,5.0,22000.0,POS
+ORD-3735,2026-06-03,ikeja,peak milk,Ada,3.0,85000.0,POS
+ORD-3736,2026-07-09,ikeja,Indomie Carton,Chiamaka,3.0,9800.0,TRANSFER
+ORD-3736,20/07/2026,Ikeja,Indomie carton,Ada,,85000.0,Cash
+ORD-3738,2026-06-20,Surulere,Groundnut Oil 5L,Tunde,3.0,85000.0,cash
+ORD-3739,2026-05-17,LEKKI,Rice 50KG,Ada,10.0,12500.0,Transfer
+ORD-3740,2026-07-27,LEKKI,Indomie Carton,Chiamaka,5.0,12500.0,Transfer
+ORD-3741,2026/05/26,Surulere ,Indomie carton,,2.0,22000.0,Transfer
+ORD-3742,08-30-2026,Surulere ,Peak Milk,Chiamaka,2.0,9800.0,
+ORD-3743,2026-06-06,Surulere ,Bournvita,Ada,2.0,18500.0,Cash
+ORD-3744,24/09/2026,Ikeja ,Groundnut Oil 5L,Funke,1.0,85000.0,POS
+ORD-3745,2026-06-12,Surulere,Bournvita,Tunde,1.0,22000.0,POS
+ORD-3746,2026-07-21,ikeja,Rice 50KG,Funke,,85000.0,Transfer
+ORD-3747,2026-06-30,Surulere,Indomie Carton,Tunde,2.0,9800.0,cash
+ORD-3748,02/10/2026,Ikeja ,Peak Milk,,10.0,12500.0,
+ORD-3749,06/09/2026,LEKKI,Peak Milk,Funke,3.0,18500.0,
+ORD-3750,2026/07/17,Lekki ,Indomie Carton,Tunde,3.0,85000.0,Cash
+ORD-3751,23/06/2026,Surulere ,Indomie carton,Chiamaka,2.0,22000.0,TRANSFER
+ORD-3752,2026-10-06,Surulere ,Rice 50KG,Chiamaka,2.0,,POS
+ORD-3753,05-15-2026,Ikeja ,Bournvita,,2.0,9800.0,
+ORD-3753,31/08/2026,ikeja,Peak Milk,Ada,,85000.0,Transfer
+ORD-3755,02/06/2026,Ikeja,Bournvita,,2.0,12500.0,POS
+ORD-3756,2026/09/27,ikeja,Rice 50KG,Chiamaka,,18500.0,TRANSFER
+ORD-3757,2026-05-03,Surulere,Peak Milk,Chiamaka,3.0,,POS
+ORD-3758,2026/06/14,Surulere ,Peak Milk,Musa,10.0,12500.0,TRANSFER
+ORD-3759,13/06/2026,LEKKI,Peak Milk,Musa,1.0,18500.0,POS
+ORD-3760,2026/05/04,Lekki,Bournvita,Ada,3.0,85000.0,Transfer
+ORD-3761,2026-08-11,Ikeja ,Rice 50kg,Funke,3.0,85000.0,POS
+ORD-3762,2026-06-17,Ikeja,Rice 50KG,Tunde,2.0,22000.0,POS
+ORD-3763,2026-05-13,Ikeja,Rice 50kg,Musa,5.0,18500.0,Transfer
+ORD-3764,06-11-2026,Lekki ,Groundnut Oil 5L,Tunde,3.0,12500.0,Cash
+ORD-3765,2026-10-25,Lekki,Groundnut Oil 5L,Ada,2.0,85000.0,Cash
+ORD-3766,2026/07/22,Surulere,Indomie carton,Funke,3.0,85000.0,cash
+ORD-3767,20/08/2026,Lekki,peak milk,Ada,1.0,12500.0,POS
+ORD-3768,09-24-2026,ikeja,Rice 50KG,Musa,1.0,85000.0,cash
+ORD-3769,2026/05/24,Surulere,Groundnut Oil 5L,Ada,10.0,85000.0,
+ORD-3770,2026/06/20,Surulere,Groundnut Oil 5L,Tunde,2.0,22000.0,Cash
+ORD-3770,16/07/2026,LEKKI,Bournvita,Musa,2.0,85000.0,
+ORD-3772,2026-07-13,Lekki,peak milk,Musa,,9800.0,cash
+ORD-3773,09-11-2026,Surulere,Indomie carton,Tunde,3.0,85000.0,cash
+ORD-3774,10-02-2026,Ikeja,peak milk,Chiamaka,5.0,9800.0,TRANSFER
+ORD-3775,08-30-2026,Ikeja,Bournvita,,2.0,18500.0,Cash
+ORD-3776,06/10/2026,Ikeja ,Rice 50kg,Chiamaka,2.0,12500.0,POS
+ORD-3777,21/09/2026,Surulere,Rice 50kg,Tunde,3.0,9800.0,POS
+ORD-3778,13/06/2026,LEKKI,Bournvita,Funke,2.0,12500.0,POS
+ORD-3779,09-24-2026,Surulere ,Rice 50KG,Tunde,5.0,85000.0,TRANSFER
+ORD-3780,09-15-2026,Ikeja,Peak Milk,Musa,,9800.0,cash
+ORD-3781,2026/10/24,Surulere,peak milk,Chiamaka,1.0,9800.0,Transfer
+ORD-3782,05-01-2026,Surulere ,Bournvita,Musa,2.0,85000.0,TRANSFER
+ORD-3783,2026-06-14,Lekki ,Rice 50KG,Ada,3.0,9800.0,
+ORD-3784,09/05/2026,LEKKI,Groundnut Oil 5L,Tunde,,85000.0,TRANSFER
+ORD-3785,2026/07/18,Lekki,Bournvita,Ada,2.0,85000.0,
+ORD-3786,09-07-2026,Lekki,Bournvita,Funke,5.0,12500.0,Transfer
+ORD-3787,2026/05/22,Ikeja ,Rice 50kg,,2.0,85000.0,cash
+ORD-3787,2026/10/21,LEKKI,peak milk,Musa,3.0,12500.0,cash
+ORD-3789,09-10-2026,Lekki,Rice 50KG,Ada,10.0,18500.0,Cash
+ORD-3790,2026-09-25,Surulere,Indomie carton,Ada,3.0,12500.0,TRANSFER
+ORD-3791,2026/10/14,LEKKI,Rice 50KG,Ada,1.0,12500.0,POS
+ORD-3792,05-09-2026,ikeja,Rice 50KG,Ada,2.0,85000.0,Transfer
+ORD-3793,29/09/2026,ikeja,Indomie carton,Musa,10.0,85000.0,Cash
+ORD-3794,2026/05/06,Surulere ,Indomie carton,Tunde,3.0,22000.0,
+ORD-3795,2026/08/16,Lekki,Peak Milk,Tunde,3.0,12500.0,TRANSFER
+ORD-3796,2026/09/08,LEKKI,Indomie Carton,,1.0,12500.0,Transfer
+ORD-3797,2026/06/22,Lekki ,Rice 50kg,Musa,2.0,12500.0,POS
+ORD-3798,07-20-2026,Surulere,Indomie carton,Ada,2.0,85000.0,
+ORD-3799,2026/10/25,LEKKI,Peak Milk,Ada,3.0,18500.0,POS
+ORD-3800,2026/05/08,Surulere ,Indomie Carton,Ada,2.0,12500.0,Transfer
+ORD-3801,2026-06-11,Surulere,Rice 50kg,Tunde,2.0,85000.0,Transfer
+ORD-3802,31/05/2026,Surulere,Indomie Carton,Ada,3.0,12500.0,
+ORD-3803,2026/05/24,Lekki ,Groundnut Oil 5L,Ada,5.0,12500.0,TRANSFER
+ORD-3804,08-12-2026,Surulere ,Bournvita,Chiamaka,10.0,12500.0,Cash
+ORD-3804,07-23-2026,ikeja,Groundnut Oil 5L,Ada,2.0,22000.0,Cash
+ORD-3806,2026/05/07,LEKKI,Rice 50KG,Chiamaka,2.0,12500.0,Cash
+ORD-3807,08-03-2026,Lekki ,Indomie carton,Chiamaka,5.0,85000.0,POS
+ORD-3808,26/10/2026,ikeja,Bournvita,Tunde,5.0,85000.0,cash
+ORD-3809,2026/08/07,Lekki,peak milk,Funke,3.0,85000.0,
+ORD-3810,2026/05/27,ikeja,Indomie Carton,Funke,,85000.0,TRANSFER
+ORD-3811,2026/06/21,Surulere,Indomie Carton,Ada,,85000.0,Cash
+ORD-3812,10-09-2026,Ikeja ,Rice 50kg,Ada,3.0,85000.0,cash
+ORD-3813,2026-09-10,Ikeja,Groundnut Oil 5L,Tunde,1.0,85000.0,Transfer
+ORD-3814,18/09/2026,Surulere ,Peak Milk,Funke,3.0,85000.0,POS
+ORD-3815,06-07-2026,Lekki ,Rice 50kg,Chiamaka,1.0,12500.0,
+ORD-3816,2026-08-16,Ikeja ,Bournvita,Ada,2.0,18500.0,TRANSFER
+ORD-3817,2026/08/29,Lekki,peak milk,Ada,2.0,12500.0,Transfer
+ORD-3818,2026-07-01,Ikeja,Rice 50kg,Tunde,3.0,85000.0,Cash
+ORD-3819,07-11-2026,Surulere,peak milk,Musa,5.0,9800.0,POS
+ORD-3820,2026/09/11,Surulere ,Peak Milk,Ada,10.0,,Cash
+ORD-3821,16/07/2026,Surulere,Rice 50kg,,10.0,12500.0,Transfer
+ORD-3821,2026/06/27,Surulere ,Rice 50kg,,2.0,12500.0,Transfer
+ORD-3823,2026-08-12,Ikeja,Peak Milk,Musa,10.0,12500.0,TRANSFER
+ORD-3824,15/07/2026,Surulere ,Indomie carton,Ada,1.0,12500.0,POS
+ORD-3825,30/07/2026,Surulere,Bournvita,Ada,1.0,,POS
+ORD-3826,2026-10-21,Lekki,Indomie carton,Musa,,9800.0,cash
+ORD-3827,2026/09/23,LEKKI,Peak Milk,Tunde,2.0,,Transfer
+ORD-3828,08/06/2026,Lekki ,Bournvita,Chiamaka,2.0,85000.0,Transfer
+ORD-3829,2026/08/27,Surulere ,Rice 50kg,Funke,2.0,85000.0,TRANSFER
+ORD-3830,2026/09/23,Lekki,Peak Milk,Chiamaka,,9800.0,Transfer
+ORD-3831,17/06/2026,Ikeja,Bournvita,Ada,3.0,85000.0,TRANSFER
+ORD-3832,2026-08-10,Surulere,Rice 50kg,Tunde,2.0,85000.0,TRANSFER
+ORD-3833,05/08/2026,Surulere ,Peak Milk,Musa,5.0,,Transfer
+ORD-3834,2026/09/04,Lekki ,Indomie carton,Chiamaka,2.0,12500.0,POS
+ORD-3835,07-03-2026,Surulere ,Rice 50kg,Chiamaka,10.0,18500.0,Cash
+ORD-3836,21/06/2026,LEKKI,Groundnut Oil 5L,Tunde,2.0,,Transfer
+ORD-3837,2026-05-02,Surulere,peak milk,Funke,1.0,85000.0,POS
+ORD-3838,2026-10-05,Ikeja,Indomie carton,Funke,2.0,12500.0,
+ORD-3838,06-25-2026,ikeja,Rice 50kg,Tunde,10.0,18500.0,Cash
+ORD-3840,2026/10/10,ikeja,Indomie carton,Chiamaka,,12500.0,Cash
+ORD-3841,10/06/2026,Surulere ,Rice 50KG,Funke,2.0,9800.0,Cash
+ORD-3842,06-29-2026,Lekki ,Peak Milk,Musa,1.0,12500.0,Cash
+ORD-3843,10-07-2026,Ikeja ,peak milk,Ada,2.0,18500.0,Transfer
+ORD-3844,2026-05-02,Ikeja,Rice 50KG,Tunde,2.0,12500.0,
+ORD-3845,2026/10/05,Lekki ,Groundnut Oil 5L,Ada,1.0,12500.0,Cash
+ORD-3846,10-14-2026,Surulere ,Rice 50KG,Ada,3.0,12500.0,POS
+ORD-3847,31/05/2026,ikeja,Bournvita,,3.0,9800.0,Transfer
+ORD-3848,2026-08-12,Lekki,Groundnut Oil 5L,Ada,3.0,,Cash
+ORD-3849,12/10/2026,Ikeja ,Indomie carton,Tunde,3.0,22000.0,cash
+ORD-3850,23/05/2026,Lekki ,Rice 50kg,Ada,5.0,85000.0,Transfer
+ORD-3851,19/06/2026,Lekki ,Indomie Carton,Tunde,5.0,12500.0,Cash
+ORD-3852,07-19-2026,ikeja,Bournvita,Tunde,3.0,9800.0,POS
+ORD-3853,2026/05/07,Ikeja,Bournvita,Ada,3.0,85000.0,Transfer
+ORD-3854,2026/10/25,ikeja,Rice 50KG,Ada,2.0,85000.0,POS
+ORD-3855,10-24-2026,Lekki,Indomie Carton,Tunde,3.0,85000.0,cash
+ORD-3855,07-08-2026,ikeja,Peak Milk,Ada,,18500.0,Transfer
+ORD-3857,2026-09-08,LEKKI,Rice 50kg,,2.0,,POS
+ORD-3858,07-06-2026,Lekki,Indomie Carton,Ada,,12500.0,
+ORD-3859,2026/05/13,Lekki ,Groundnut Oil 5L,Tunde,2.0,85000.0,Cash
+ORD-3860,05-04-2026,Ikeja,Bournvita,,1.0,22000.0,POS
+ORD-3861,02/10/2026,Lekki,Bournvita,Chiamaka,1.0,22000.0,Cash
+ORD-3862,2026-06-11,Ikeja,Groundnut Oil 5L,Musa,2.0,85000.0,TRANSFER
+ORD-3863,2026/10/16,Lekki ,peak milk,Ada,10.0,85000.0,Transfer
+ORD-3864,2026/05/24,Surulere ,Rice 50KG,Funke,3.0,,
+ORD-3865,2026/07/27,Surulere ,Groundnut Oil 5L,Chiamaka,5.0,22000.0,Transfer
+ORD-3866,2026-07-07,Ikeja,Groundnut Oil 5L,Ada,3.0,9800.0,cash
+ORD-3867,30/09/2026,Ikeja ,Rice 50kg,Ada,3.0,85000.0,
+ORD-3868,2026-05-21,Lekki,Indomie Carton,Musa,10.0,22000.0,
+ORD-3869,05-25-2026,Surulere,peak milk,Funke,2.0,18500.0,TRANSFER
+ORD-3870,11/08/2026,Lekki ,Rice 50kg,Chiamaka,,12500.0,
+ORD-3871,2026/07/15,Lekki,Indomie Carton,Chiamaka,2.0,85000.0,Transfer
+ORD-3872,2026-10-21,Ikeja,Rice 50KG,Tunde,5.0,12500.0,cash
+ORD-3872,2026-08-31,LEKKI,Rice 50KG,Chiamaka,10.0,9800.0,
+ORD-3874,2026/07/14,ikeja,Indomie Carton,Tunde,3.0,18500.0,TRANSFER
+ORD-3875,2026/09/02,Lekki ,Groundnut Oil 5L,Ada,10.0,85000.0,Transfer
+ORD-3876,2026/10/27,Surulere ,Peak Milk,Ada,5.0,,POS
+ORD-3877,05-19-2026,ikeja,Rice 50kg,Ada,3.0,85000.0,Transfer
+ORD-3878,2026/06/25,Lekki ,Indomie carton,Ada,3.0,85000.0,Cash
+ORD-3879,2026/05/11,Lekki ,Rice 50kg,Ada,2.0,22000.0,Transfer
+ORD-3880,2026-06-03,Surulere ,Rice 50kg,Ada,,85000.0,POS
+ORD-3881,2026-09-28,Ikeja,Indomie Carton,Tunde,1.0,22000.0,Transfer
+ORD-3882,02/08/2026,Ikeja,Groundnut Oil 5L,Ada,1.0,12500.0,TRANSFER
+ORD-3883,08-26-2026,LEKKI,Rice 50KG,Tunde,3.0,22000.0,
+ORD-3884,2026-08-09,Lekki ,Groundnut Oil 5L,Ada,2.0,12500.0,TRANSFER
+ORD-3885,2026/07/29,Surulere ,Rice 50kg,Funke,3.0,12500.0,
+ORD-3886,05-12-2026,Lekki ,Bournvita,Funke,10.0,12500.0,
+ORD-3887,2026-09-09,LEKKI,Bournvita,Tunde,,22000.0,TRANSFER
+ORD-3888,10-09-2026,Ikeja,Indomie Carton,Musa,2.0,,POS
+ORD-3889,10/06/2026,LEKKI,Rice 50KG,,2.0,85000.0,Transfer
+ORD-3889,2026/07/20,Lekki,Indomie carton,Ada,3.0,85000.0,Cash
+ORD-3891,06-05-2026,ikeja,peak milk,Ada,2.0,85000.0,Cash
+ORD-3892,11/10/2026,Ikeja ,Rice 50kg,Ada,10.0,12500.0,cash
+ORD-3893,05-17-2026,Ikeja,Peak Milk,,5.0,,Cash
+ORD-3894,2026/05/18,Lekki,Rice 50KG,Musa,5.0,85000.0,
+ORD-3895,2026/07/20,Lekki,peak milk,Ada,3.0,18500.0,POS
+ORD-3896,06-15-2026,Ikeja ,Rice 50kg,Funke,,12500.0,Cash
+ORD-3897,08-22-2026,ikeja,Groundnut Oil 5L,Ada,,9800.0,
+ORD-3898,05-25-2026,Surulere ,Bournvita,Tunde,,22000.0,TRANSFER
+ORD-3899,2026-09-24,Ikeja,Rice 50KG,Ada,3.0,18500.0,cash
+ORD-3900,2026/07/24,LEKKI,peak milk,Tunde,5.0,85000.0,TRANSFER
+ORD-3901,2026/07/07,ikeja,Groundnut Oil 5L,Ada,,12500.0,TRANSFER
+ORD-3902,17/06/2026,Ikeja,Rice 50KG,Tunde,3.0,85000.0,cash
+ORD-3903,2026-10-12,Lekki,Bournvita,Chiamaka,5.0,85000.0,Transfer
+ORD-3904,01/07/2026,Ikeja,Rice 50KG,Musa,2.0,12500.0,Transfer
+ORD-3905,2026/09/22,Ikeja ,Groundnut Oil 5L,Funke,3.0,22000.0,POS
+ORD-3906,01/07/2026,Ikeja,Peak Milk,Ada,3.0,,cash
+ORD-3906,2026/08/21,Surulere ,Peak Milk,Musa,10.0,12500.0,TRANSFER
+ORD-3908,12/05/2026,Surulere,Groundnut Oil 5L,Musa,,12500.0,
+ORD-3909,2026-10-24,Surulere,Rice 50kg,Tunde,2.0,9800.0,cash
+ORD-3910,15/07/2026,ikeja,Groundnut Oil 5L,Musa,3.0,9800.0,POS
+ORD-3911,2026/10/20,Ikeja ,Indomie Carton,,3.0,85000.0,POS
+ORD-3912,2026/06/02,Lekki,Rice 50KG,Ada,10.0,,cash
+ORD-3913,19/09/2026,Lekki ,peak milk,Tunde,2.0,22000.0,Cash
+ORD-3914,24/06/2026,Ikeja,peak milk,Chiamaka,10.0,22000.0,cash
+ORD-3915,2026/08/28,Surulere,Peak Milk,Musa,3.0,12500.0,Transfer
+ORD-3916,08-11-2026,Lekki,peak milk,Tunde,1.0,85000.0,Cash
+ORD-3917,14/05/2026,Ikeja ,Rice 50kg,Ada,5.0,,Cash
+ORD-3918,06-04-2026,Lekki ,Rice 50KG,Tunde,3.0,9800.0,
+ORD-3919,2026/06/03,Ikeja,Indomie carton,Funke,10.0,85000.0,Cash
+ORD-3920,2026/08/18,Surulere ,Indomie carton,Ada,,12500.0,Transfer
+ORD-3921,2026-05-04,Lekki ,Rice 50kg,Musa,2.0,12500.0,
+ORD-3922,2026/07/07,Surulere ,Groundnut Oil 5L,Tunde,,85000.0,POS
+ORD-3923,13/10/2026,Ikeja ,Bournvita,Tunde,,12500.0,TRANSFER
+ORD-3923,2026/07/05,ikeja,Indomie carton,Ada,10.0,18500.0,TRANSFER
+ORD-3925,30/09/2026,Lekki ,Rice 50KG,Chiamaka,1.0,9800.0,cash
+ORD-3926,03/06/2026,Surulere ,Bournvita,Funke,5.0,12500.0,cash
+ORD-3927,2026-09-18,Lekki,Peak Milk,Tunde,2.0,12500.0,POS
+ORD-3928,2026-05-05,LEKKI,Rice 50KG,Tunde,5.0,9800.0,Transfer
+ORD-3929,06-19-2026,Ikeja ,peak milk,Tunde,3.0,12500.0,POS
+ORD-3930,2026/08/27,Surulere,Peak Milk,Tunde,,85000.0,TRANSFER
+ORD-3931,2026/09/12,Surulere,Peak Milk,Ada,5.0,12500.0,POS
+ORD-3932,2026-08-07,LEKKI,Indomie Carton,Musa,2.0,85000.0,
+ORD-3933,08-28-2026,LEKKI,Rice 50KG,Ada,2.0,9800.0,Cash
+ORD-3934,2026/09/23,Lekki ,peak milk,Musa,3.0,9800.0,
+ORD-3935,2026/06/21,ikeja,Rice 50kg,Tunde,3.0,12500.0,Cash
+ORD-3936,2026/08/07,Ikeja,Peak Milk,Chiamaka,2.0,18500.0,Cash
+ORD-3937,2026/07/21,Lekki,peak milk,Ada,,,POS
+ORD-3938,07-23-2026,Lekki ,Indomie carton,Tunde,2.0,,POS
+ORD-3939,08-19-2026,Lekki,Peak Milk,Ada,10.0,12500.0,Cash
+ORD-3940,2026/09/11,Ikeja,peak milk,Chiamaka,3.0,,POS
+ORD-3940,08-06-2026,Ikeja,Rice 50KG,Funke,2.0,85000.0,POS
+ORD-3942,07-17-2026,Lekki,Peak Milk,Tunde,3.0,9800.0,TRANSFER
+ORD-3943,21/06/2026,Ikeja ,Bournvita,Ada,1.0,12500.0,TRANSFER
+ORD-3944,2026-08-29,Surulere ,Rice 50kg,Tunde,5.0,,cash
+ORD-3945,05-12-2026,Ikeja,Groundnut Oil 5L,Funke,2.0,22000.0,Transfer
+ORD-3946,05-12-2026,ikeja,peak milk,Ada,1.0,12500.0,TRANSFER
+ORD-3947,06-24-2026,ikeja,Rice 50kg,Ada,10.0,18500.0,TRANSFER
+ORD-3948,2026/09/25,Surulere ,Indomie Carton,Chiamaka,3.0,12500.0,POS
+ORD-3949,06-23-2026,Lekki ,Peak Milk,Ada,10.0,18500.0,TRANSFER
+ORD-3950,2026/05/11,LEKKI,Rice 50kg,Musa,10.0,,POS
+ORD-3951,09-24-2026,Surulere ,Indomie carton,Tunde,10.0,85000.0,
+ORD-3952,2026-09-27,ikeja,Bournvita,Chiamaka,1.0,,
+ORD-3953,09/07/2026,Surulere ,Rice 50kg,Ada,3.0,9800.0,Transfer
+ORD-3954,09-11-2026,Lekki,Rice 50KG,Ada,3.0,,cash
+ORD-3955,2026-06-28,ikeja,Bournvita,Tunde,3.0,85000.0,
+ORD-3956,08-26-2026,Ikeja ,Indomie carton,,10.0,85000.0,Cash
+ORD-3957,23/10/2026,LEKKI,Indomie Carton,Musa,2.0,9800.0,Cash
+ORD-3957,2026/05/28,Surulere,Rice 50KG,Chiamaka,2.0,9800.0,Transfer
+ORD-3959,10-12-2026,ikeja,Peak Milk,Ada,2.0,85000.0,
+ORD-3960,09-01-2026,LEKKI,Peak Milk,Musa,3.0,85000.0,Cash
+ORD-3961,12/08/2026,Ikeja ,Groundnut Oil 5L,Musa,1.0,85000.0,
+ORD-3962,28/08/2026,Lekki,Rice 50KG,Funke,2.0,18500.0,Transfer
+ORD-3963,2026-08-15,Surulere ,Rice 50KG,Ada,,9800.0,Transfer
+ORD-3964,2026/06/26,ikeja,Peak Milk,Tunde,3.0,12500.0,cash
+ORD-3965,2026-08-29,Ikeja,Peak Milk,Ada,3.0,22000.0,
+ORD-3966,05-15-2026,Surulere ,Rice 50KG,Tunde,10.0,12500.0,cash
+ORD-3967,2026/08/16,Lekki ,Bournvita,,2.0,12500.0,POS
+ORD-3968,2026/06/23,ikeja,Indomie Carton,Tunde,1.0,12500.0,POS
+ORD-3969,09-20-2026,Lekki,Rice 50KG,,3.0,85000.0,TRANSFER
+ORD-3970,09-07-2026,Surulere ,Peak Milk,Tunde,2.0,22000.0,cash
+ORD-3971,2026/10/23,ikeja,Rice 50kg,Ada,3.0,85000.0,Cash
+ORD-3972,2026-06-16,Surulere,Groundnut Oil 5L,Ada,2.0,18500.0,
+ORD-3973,2026/09/23,Lekki ,Indomie Carton,Tunde,2.0,12500.0,TRANSFER
+ORD-3974,2026/08/11,Surulere,Rice 50kg,Ada,3.0,85000.0,Cash
+ORD-3974,01/09/2026,Ikeja,Indomie carton,Chiamaka,3.0,22000.0,cash
+ORD-3976,10-17-2026,ikeja,Groundnut Oil 5L,Tunde,10.0,85000.0,Cash
+ORD-3977,09-03-2026,ikeja,Rice 50KG,Tunde,1.0,85000.0,TRANSFER
+ORD-3978,2026/07/30,Surulere ,Groundnut Oil 5L,Ada,5.0,,cash
+ORD-3979,16/10/2026,Ikeja ,Groundnut Oil 5L,Tunde,2.0,12500.0,POS
+ORD-3980,2026-08-21,Lekki ,Rice 50KG,,1.0,,Transfer
+ORD-3981,07-11-2026,Lekki,Indomie carton,Ada,5.0,9800.0,POS
+ORD-3982,2026-07-19,Lekki ,Groundnut Oil 5L,Funke,2.0,18500.0,cash
+ORD-3983,10-13-2026,Ikeja,Indomie Carton,Ada,3.0,22000.0,Transfer
+ORD-3984,2026/10/08,Surulere ,Indomie carton,Tunde,2.0,,
+ORD-3985,2026-09-15,Ikeja,Indomie carton,Chiamaka,3.0,12500.0,Transfer
+ORD-3986,09-09-2026,LEKKI,Bournvita,Funke,,85000.0,cash
+ORD-3987,2026/08/17,Ikeja ,Bournvita,Funke,1.0,22000.0,Cash
+ORD-3988,10-04-2026,Lekki,peak milk,Tunde,5.0,12500.0,Transfer
+ORD-3989,2026/09/27,Ikeja ,Groundnut Oil 5L,,2.0,,cash
+ORD-3990,2026/05/27,Surulere,Peak Milk,Musa,3.0,22000.0,
+ORD-3991,09-21-2026,Ikeja,Peak Milk,Funke,2.0,,
+ORD-3991,2026-07-16,Surulere,Groundnut Oil 5L,Ada,5.0,12500.0,
+ORD-3993,15/09/2026,Lekki ,Indomie Carton,Ada,,9800.0,cash
+ORD-3994,2026/07/14,Ikeja,Indomie carton,Tunde,5.0,9800.0,
+ORD-3995,07-28-2026,LEKKI,peak milk,Funke,3.0,18500.0,
+ORD-3996,2026-08-17,Lekki,Indomie carton,Tunde,10.0,18500.0,Cash
+ORD-3997,2026-05-20,Lekki ,Rice 50kg,Ada,3.0,12500.0,TRANSFER
+ORD-3998,07-16-2026,Lekki,Bournvita,Tunde,2.0,22000.0,cash
+ORD-3999,08-24-2026,Ikeja,Bournvita,Ada,5.0,12500.0,
+ORD-4000,18/10/2026,Surulere,Peak Milk,Musa,2.0,9800.0,Cash
+ORD-4001,2026/09/25,Surulere,peak milk,Chiamaka,,85000.0,Cash
+ORD-4002,2026-08-26,ikeja,peak milk,Ada,2.0,12500.0,cash
+ORD-4003,06-05-2026,Surulere ,peak milk,Ada,2.0,85000.0,Transfer
+ORD-4004,02/06/2026,LEKKI,Peak Milk,Musa,1.0,12500.0,POS
+ORD-4005,17/08/2026,Ikeja,Indomie Carton,Ada,5.0,12500.0,cash
+ORD-4006,2026-08-24,Lekki ,Rice 50kg,,2.0,12500.0,Transfer
+ORD-4007,07-10-2026,LEKKI,Bournvita,Ada,2.0,18500.0,TRANSFER
+ORD-4008,2026/05/17,Surulere,Groundnut Oil 5L,Funke,5.0,,cash
+ORD-4008,2026-08-05,Lekki ,peak milk,Tunde,10.0,12500.0,TRANSFER
+ORD-4010,06/08/2026,Surulere ,Groundnut Oil 5L,Tunde,3.0,12500.0,TRANSFER
+ORD-4011,27/09/2026,Lekki ,peak milk,Chiamaka,,,cash
+ORD-4012,2026-07-16,Ikeja ,peak milk,Ada,10.0,18500.0,Transfer
+ORD-4013,2026-07-27,Lekki ,Rice 50kg,Musa,3.0,,POS
+ORD-4014,06/06/2026,LEKKI,Bournvita,Musa,2.0,12500.0,TRANSFER
+ORD-4015,2026-06-29,Ikeja,Bournvita,Funke,3.0,22000.0,POS
+ORD-4016,2026/10/23,LEKKI,peak milk,Funke,2.0,,TRANSFER
+ORD-4017,05-30-2026,ikeja,Peak Milk,Tunde,,18500.0,TRANSFER
+ORD-4018,2026-06-04,Ikeja ,Rice 50KG,Funke,5.0,18500.0,Cash
+ORD-4019,2026/09/04,Lekki ,Bournvita,Ada,5.0,12500.0,Cash
+ORD-4020,2026-05-16,ikeja,Rice 50kg,Tunde,,85000.0,Transfer
+ORD-4021,2026-07-23,Lekki,Bournvita,Tunde,5.0,18500.0,POS
+ORD-4022,2026-06-13,ikeja,peak milk,Ada,3.0,85000.0,cash
+ORD-4023,2026/10/05,Lekki,Indomie carton,,2.0,85000.0,cash
+ORD-4024,2026/05/14,LEKKI,Peak Milk,Ada,,12500.0,Transfer
+ORD-4025,08-04-2026,Surulere ,Groundnut Oil 5L,Chiamaka,5.0,18500.0,
+ORD-4025,14/05/2026,ikeja,Rice 50kg,Musa,2.0,85000.0,Cash
+ORD-4027,2026-10-26,Surulere,peak milk,,,,Transfer
+ORD-4028,14/07/2026,Surulere,Bournvita,Ada,2.0,18500.0,cash
+ORD-4029,2026-07-20,Surulere ,Indomie carton,Funke,1.0,18500.0,POS
+ORD-4030,17/08/2026,Surulere,Rice 50kg,Musa,2.0,85000.0,
+ORD-4031,2026-07-11,Surulere,Peak Milk,Ada,3.0,12500.0,POS
+ORD-4032,05-13-2026,ikeja,Peak Milk,Ada,3.0,12500.0,Transfer
+ORD-4033,30/05/2026,Ikeja,Indomie Carton,Funke,1.0,18500.0,TRANSFER
+ORD-4034,19/06/2026,LEKKI,Groundnut Oil 5L,Chiamaka,5.0,18500.0,POS
+ORD-4035,10/06/2026,Surulere,peak milk,Funke,2.0,22000.0,POS
+ORD-4036,06-25-2026,Surulere ,Bournvita,Chiamaka,,12500.0,TRANSFER
+ORD-4037,2026-08-18,Surulere ,Bournvita,Chiamaka,10.0,12500.0,POS
+ORD-4038,2026-06-14,Surulere ,peak milk,,5.0,9800.0,Transfer
+ORD-4039,07-10-2026,Surulere ,Indomie carton,Chiamaka,3.0,22000.0,TRANSFER
+ORD-4040,05-24-2026,Ikeja ,Groundnut Oil 5L,Chiamaka,,85000.0,cash
+ORD-4041,2026/07/08,Surulere ,Rice 50KG,Ada,,18500.0,Transfer
+ORD-4042,08-15-2026,Lekki ,Groundnut Oil 5L,Tunde,1.0,85000.0,POS
+ORD-4042,08-12-2026,Ikeja ,Rice 50KG,Chiamaka,5.0,22000.0,POS
+ORD-4044,21/07/2026,Ikeja ,Bournvita,,2.0,85000.0,Transfer
+ORD-4045,06-09-2026,Surulere ,Peak Milk,Musa,,22000.0,
+ORD-4046,05-27-2026,Surulere ,Indomie carton,Tunde,3.0,9800.0,Cash
+ORD-4047,08/10/2026,Surulere,Indomie carton,,2.0,22000.0,POS
+ORD-4048,2026/09/06,ikeja,Bournvita,Musa,2.0,,
+ORD-4049,15/09/2026,Ikeja,peak milk,Funke,2.0,85000.0,TRANSFER
+ORD-4050,05-25-2026,Ikeja ,Groundnut Oil 5L,Musa,2.0,85000.0,
+ORD-4051,2026/10/25,Lekki,Indomie Carton,Tunde,2.0,22000.0,Cash
+ORD-4052,30/08/2026,ikeja,Rice 50kg,Ada,3.0,22000.0,Cash
+ORD-4053,2026/07/10,Ikeja ,Peak Milk,Tunde,1.0,18500.0,TRANSFER
+ORD-4054,24/09/2026,Ikeja,Peak Milk,Tunde,2.0,9800.0,Transfer
+ORD-4055,09-29-2026,Lekki,Bournvita,Tunde,2.0,22000.0,cash
+ORD-4056,26/09/2026,Surulere,Rice 50KG,Ada,10.0,12500.0,
+ORD-4057,2026-06-18,LEKKI,Rice 50KG,Tunde,2.0,22000.0,Transfer
+ORD-4058,09-24-2026,LEKKI,Rice 50kg,Tunde,5.0,85000.0,
+ORD-4059,2026/07/14,Lekki,Peak Milk,Tunde,2.0,85000.0,TRANSFER
+ORD-4059,22/10/2026,Surulere ,Indomie carton,Musa,1.0,85000.0,POS
+ORD-4061,2026-08-08,ikeja,Indomie Carton,Chiamaka,1.0,18500.0,POS
+ORD-4062,09-23-2026,Ikeja,Indomie Carton,Ada,2.0,22000.0,Cash
+ORD-4063,09/07/2026,ikeja,Groundnut Oil 5L,Tunde,5.0,9800.0,
+ORD-4064,2026-09-14,Surulere ,Indomie carton,Funke,5.0,9800.0,Cash
+ORD-4065,2026/08/20,LEKKI,Indomie Carton,Musa,1.0,18500.0,Cash
+ORD-4066,2026-08-11,Lekki,Bournvita,Funke,2.0,18500.0,TRANSFER
+ORD-4067,15/10/2026,Lekki,Rice 50kg,Ada,1.0,9800.0,Transfer
+ORD-4068,2026-09-17,Surulere ,peak milk,Tunde,2.0,85000.0,TRANSFER
+ORD-4069,01/06/2026,Ikeja,Groundnut Oil 5L,Funke,10.0,12500.0,TRANSFER
+ORD-4070,16/05/2026,Lekki ,Bournvita,,10.0,12500.0,Transfer
+ORD-4071,2026-09-22,Lekki,peak milk,Tunde,1.0,12500.0,TRANSFER
+ORD-4072,05-21-2026,Lekki,Groundnut Oil 5L,Tunde,2.0,85000.0,Cash
+ORD-4073,2026-06-04,Lekki,Indomie carton,Funke,2.0,22000.0,Cash
+ORD-4074,2026-06-11,Surulere,Bournvita,Funke,3.0,85000.0,Cash
+ORD-4075,21/07/2026,Lekki,Peak Milk,Tunde,3.0,9800.0,
+ORD-4076,09-08-2026,Lekki,Groundnut Oil 5L,Tunde,2.0,12500.0,cash
+ORD-4076,2026-07-01,LEKKI,peak milk,Ada,5.0,18500.0,
+ORD-4078,06-01-2026,Ikeja ,Bournvita,Chiamaka,2.0,85000.0,Transfer
+ORD-4079,2026-05-13,Surulere,Indomie Carton,Musa,,9800.0,Cash
+ORD-4080,2026/08/14,Lekki ,Groundnut Oil 5L,Chiamaka,,85000.0,cash
+ORD-4081,26/07/2026,Lekki,peak milk,,10.0,,Transfer
+ORD-4082,06-05-2026,Ikeja ,Bournvita,Funke,2.0,85000.0,cash
+ORD-4083,2026/08/18,Lekki,Indomie carton,Funke,10.0,,TRANSFER
+ORD-4084,05-28-2026,ikeja,Rice 50kg,Ada,1.0,,cash
+ORD-4085,08-02-2026,Lekki ,peak milk,Chiamaka,5.0,,Transfer
+ORD-4086,2026/08/08,Ikeja ,Indomie Carton,Chiamaka,3.0,12500.0,
+ORD-4087,2026/07/06,Lekki ,peak milk,Ada,,85000.0,cash
+ORD-4088,10-15-2026,Ikeja,Rice 50kg,Tunde,2.0,9800.0,Transfer
+ORD-4089,2026-07-06,Ikeja,peak milk,Tunde,2.0,12500.0,Cash
+ORD-4090,2026-09-16,Ikeja,Rice 50kg,Funke,2.0,85000.0,Cash
+ORD-4091,2026/08/29,Ikeja ,Peak Milk,Chiamaka,3.0,85000.0,Transfer
+ORD-4092,05/06/2026,Lekki,Indomie Carton,Chiamaka,,12500.0,TRANSFER
+ORD-4093,2026-07-12,Surulere,Peak Milk,Funke,3.0,12500.0,cash
+ORD-4093,10-03-2026,Lekki ,Peak Milk,Ada,5.0,,Cash
+ORD-4095,2026-08-24,LEKKI,Indomie Carton,Musa,1.0,9800.0,POS
+ORD-4096,2026-10-18,Lekki,Indomie Carton,,5.0,,Transfer
+ORD-4097,12/10/2026,Lekki ,Indomie carton,Ada,3.0,12500.0,cash
+ORD-4098,2026-09-20,LEKKI,Indomie Carton,Tunde,,12500.0,TRANSFER
+ORD-4099,2026-05-19,ikeja,Rice 50kg,Funke,3.0,85000.0,Cash
+ORD-4100,05-20-2026,LEKKI,Rice 50KG,Chiamaka,5.0,9800.0,TRANSFER
+ORD-4101,2026/09/20,Lekki,Bournvita,Tunde,10.0,12500.0,POS
+ORD-4102,12/10/2026,Surulere,Rice 50kg,Ada,3.0,18500.0,cash
+ORD-4103,20/10/2026,ikeja,Rice 50KG,Tunde,3.0,85000.0,TRANSFER
+ORD-4104,2026/10/17,Lekki,Peak Milk,Funke,2.0,22000.0,Transfer
+ORD-4105,09-19-2026,Surulere ,Rice 50kg,,,,cash
+ORD-4106,2026-06-17,Lekki ,Bournvita,Ada,1.0,9800.0,TRANSFER
+ORD-4107,2026/06/09,Surulere ,Rice 50kg,Ada,10.0,,cash
+ORD-4108,2026/08/16,Lekki,Rice 50kg,Musa,2.0,,Transfer
