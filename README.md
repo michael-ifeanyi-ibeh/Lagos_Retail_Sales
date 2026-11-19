@@ -4,7 +4,7 @@
 **Data:** 2,927 cleaned transactions | 3 Branches | 5 Products | ₦370.4M Total Revenue  
 **Files:** `data_creation_code.py` | `clean_sales.py` | `Retail_sales_2026.xlsx`
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot .png)
 
 ---
 
