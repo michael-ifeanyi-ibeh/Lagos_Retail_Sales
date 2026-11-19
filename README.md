@@ -28,35 +28,9 @@ Created `messy_retail_sales.csv` (3,109 rows) with intentional real-world errors
 
 ### Step 2: Cleaned Data (Python + Pandas)
 In `clean_sales.py`:
+link to python for cleaning data in this repo.
+[Clean_sales.py](clean_sales.py)
 
-```python
-# 1. Reusable rule: standardise all column names
-df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
-
-# 2. Standardise text values
-df['branch'] = df['branch'].str.strip().str.title()
-df['product'] = df['product'].str.strip().str.title()
-
-# 3. Remove duplicates
-df = df.drop_duplicates(subset=['order_id'], keep='first')
-
-# 4. Fix mixed date formats (Nigeria = dayfirst)
-df['date'] = pd.to_datetime(df['date'], format='mixed', dayfirst=True, errors='coerce')
-df['month'] = df['date'].dt.to_period('M')
-
-# 5. Fix prices with a lookup table - not row-by-row edits
-price_map = {
-    'Rice 50kg': 85000,
-    'Peak Milk': 22000,
-    'Indomie Carton': 18500,
-    'Groundnut Oil 5l': 22000,
-    'Bournvita': 12500
-}
-df['unit_price'] = df['product'].map(price_map)
-
-# 6. Recalculate Revenue
-df['revenue'] = df['quantity'] * df['unit_price']
-```
 **Result:** 3,109 → 2,927 rows (182 duplicates removed). Products: 8 messy names → 5 clean. Payments: 6 variants → 4 clean.
 ___
 Step 3: Analysed & Built Dashboard (Excel)
@@ -66,12 +40,13 @@ Opened cleaned_retail_sales.csv in Excel and built:
  •  KPIs with =SUM(), =COUNTA(), =AVERAGE(), =SUMIFS()
 
 ## 3. WHAT I FOUND — BUSINESS IMPACT
-**Key Numbers**
-KPI                  | VALUE
-Total revenue        | #370,406,500
-Total Order          | 2,927
-Average Order Value  | #126,583
+```**Key Numbers**
 
+KPI                  | VALUE
+Total revenue        | N370,406,500
+Total Order          | 2,927
+Average Order Value  | N126,583
+```
 ### Finding 1: Volume ≠ Revenue
 Peak Milk sold the most units (743) but Rice 50kg made 3.6x more money.
  •  Rice 50kg: ₦217,855,000 (58.8% of all revenue) — 714 units
@@ -110,11 +85,11 @@ python data_creation_code.py
 python clean_sales.py
 
 # 3. Open cleaned_retail_sales.csv in Excel
-# 4. Adjust to columns and create insights and visualize it.
+# 4. Adjust to columns and create insights + visuals.
 ```
 
 **Limitations**
-Data is synthetic for portfolio purposes. Salesperson performance for Ada/Tunde is inflated due to sampling in the generator. Findings on seasonality and product mix are directional, not a forecast.
+Data is synthetic for portfolio purposes. Salesperson performance for Ada/Tunde is inflated due to sampling in the generator. Findings on seasonality and product mix are directional.
 
 
 ## Author: MICHAEL I. IBEH | Data Specialist 
